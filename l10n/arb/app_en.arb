@@ -1,0 +1,119 @@
+{
+	"@@locale": "en",
+	"appName": "Pocket Guide",
+	"@appName": {
+		"description": "Application name"
+	},
+	"generalSettings": "Settings",
+	"@generalSettings": {
+		"description": "Text label for settings"
+	},
+	"generalFavorites": "Favorites",
+	"@generalFavorites": {
+		"description": "Text label for favorites"
+	},
+	"generalHome": "Home",
+	"@generalHome": {
+		"description": "Text label for home"
+	},
+	"generalWelcome": "Welcome",
+	"@genegeneralWelcomeralHome": {
+		"description": "Text label for welcome"
+	},
+	"generalNews": "News",
+	"@generalNews": {
+		"description": "Text label for news"
+	},
+	"homeCare": "Home Care, Industrial & Institutional Cleaning",
+	"@homeCare": {
+		"description": "Text label for home care"
+	},
+	"industrialForm": "Industrial Formulators",
+	"@industrialForm": {
+		"description": "Text label for industrial formulators"
+	},
+	"generalVersion": "Version",
+	"@generalVersion": {
+		"description": "Text label for version"
+	},
+	"contact": "Contact",
+	"@contact": {
+		"description": "Text label for contact"
+	},
+	"dataPrivacy": "Data privacy",
+	"@dataPrivacy": {
+		"description": "Text label for data privacy"
+	},
+	"termsOfUse": "Terms of Use",
+	"@termsOfUse": {
+		"description": "Text label for terms of use"
+	},
+	"selectIndustry": "Select Industry",
+	"@selectIndustry": {
+		"description": "Text label for select industry"
+	},
+	"languageSettings": "Language Settings",
+	"@languageSettings": {
+		"description": "Text label for selecting language"
+	},
+	"system": "System",
+	"@system": {
+		"description": "Text label for System theme mode"
+	},
+	"light": "Light",
+	"@light": {
+		"description": "Text label for Light theme mode"
+	},
+	"dark": "Dark",
+	"@dark": {
+		"description": "Text label for Dark theme mode"
+	},
+	"weHaveALittleProblem": "We have a little problem :(",
+	"@weHaveALittleProblem": {
+		"description": "Text label for notifying the user something went wrong"
+	},
+	"needSomeHelp": "Need some help?",
+	"@needSomeHelp": {
+		"description": "Text label for notifying the rediso 'need some help' button"
+	},
+	"askRediso": "Ask Rediso®",
+	"@askRediso": {
+		"description": "Text label for notifying the ask rediso button"
+	},
+	"goToRediso": "Go to Rediso®",
+	"@goToRediso": {
+		"description": "Text for the go to rediso button"
+	},
+	"askRedisoTitle": "Finding relevant industry Knowledge\nFor Home Care and I&I Industry",
+	"@askRedisoTitle": {
+		"description": "Text for the title of ask reidso page"
+	},
+	"askRedisoSubtitle": "Still having product-related questions that you couldn't find the answer to? Then ask Rediso®. Rediso® is your personal digital assistant that supports you in answering urgent requests around the clock. Precise and to the point.",
+	"@askRedisoSubtitle": {
+		"description": "Text for the subtitle of ask reidso page"
+	},
+	"claims": "Claims",
+	"@claims": {
+		"description": "Text label for claims"
+	},
+	"sustainability": "Sustainability",
+	"@sustainability": {
+		"description": "Text label for sustainability"
+	},
+	"productPortfolio": "Product Portfolio",
+	"@productPortfolio": {
+		"description": "Text label for Product Portfolio"
+	},
+    "subClaimPage": "Sub-Claim-Page",
+    "@subClaimPage": {
+        "description": "Text label for Sub Claim Pages"
+    },
+    "buttonToClaims": "Go to Claims",
+    "@buttonToClaims": {
+        "description": "Text label go to claim button"
+    },
+  "sustainabilityGroupNordicSwanDescription": "Important remarks\nNordic Swan: At least one out of nine criteria is accessed if \"suitable\".\nFor new evaluations: Nordic Swan might be possible if EU Ecolabel is suitable.\nFor some products there might be a concentration of use limitation.",
+  "@sustainabilityGroupNordicSwanDescription": {
+    "description": ""
+  }
+}

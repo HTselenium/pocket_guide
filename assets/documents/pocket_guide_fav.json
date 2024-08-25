@@ -1,0 +1,50 @@
+[
+  {
+  "prd": 30034790,
+  "product_name": "Phenoxypropanol",
+  "product_type": [
+  {
+    "name": "Nonionic Surfactants",
+    "id": 100,
+    "children": [
+      {
+        "name": "Emulsifiers and Solubilizers",
+        "id": 203
+      }
+    ]
+  }
+],
+  "sustainability": {
+  "bioDegradable": true
+},
+  "application_group": [
+  {
+    "name": "Hard Surface Cleaning",
+    "id": 302,
+    "children": {
+      "children": [
+        {
+          "name": "Emulsifiers and Solubilizers ",
+          "id": 534,
+          "children": [
+            {
+              "name": "Ingredients emulsification ",
+              "id": 659
+            }
+          ]
+        }
+      ]
+    }
+  }
+],
+  "chemicalNature": "Phenoxypropanol",
+  "viscosityAtPascal": " 35 (20\u00b0C)",
+  "physicalFormAtDegrees": "Liquid",
+  "isSurfactant": true,
+  "isEMEA": true,
+  "isAPAC": true,
+  "isNorthAmerica": true,
+  "isSouthAmerica": true,
+  "sortNumber": 7800
+  }
+]

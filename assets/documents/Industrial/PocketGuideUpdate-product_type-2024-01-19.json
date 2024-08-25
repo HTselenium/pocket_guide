@@ -1,0 +1,622 @@
+[
+    {
+        "product_type": "Acid",
+        "product_type_id": 115,
+        "products": [
+            30096873,
+            30660218,
+            30651374,
+            30169062,
+            30042792
+        ]
+    },
+    {
+        "product_type": "Acrylates",
+        "product_type_id": 120,
+        "products": [
+            30042021,
+            30041308
+        ]
+    },
+    {
+        "product_type": "Amides",
+        "product_type_id": 117,
+        "products": [
+            30537843,
+            30537410,
+            30529971,
+            30536771
+        ]
+    },
+    {
+        "product_type": "Anionic Surfactants",
+        "product_type_id": 101,
+        "children": [
+            {
+                "subtype_name": "Alkyl Benzene Sulfonates",
+                "subtype_id": 207,
+                "products": [
+                    30534054,
+                    30699093,
+                    30534053,
+                    30773485,
+                    30529369
+                ]
+            },
+            {
+                "subtype_name": "Fatty Alcohol Ethersulfates",
+                "subtype_id": 205,
+                "products": [
+                    30778230,
+                    30533563,
+                    30772406,
+                    30530865,
+                    30772571,
+                    30773434,
+                    30773262,
+                    30772670,
+                    30778293
+                ]
+            },
+            {
+                "subtype_name": "Fatty Alcohol Sulfates",
+                "subtype_id": 206,
+                "products": [
+                    30532575,
+                    30774105,
+                    30528418,
+                    30770623,
+                    30773639,
+                    30528602,
+                    30673496,
+                    30528641,
+                    30772421,
+                    30531170
+                ]
+            },
+            {
+                "subtype_name": "Phosphate",
+                "subtype_id": 209,
+                "products": [
+                    30043926
+                ]
+            },
+            {
+                "subtype_name": "Sulfosuccinates",
+                "subtype_id": 208,
+                "products": [
+                    30777856,
+                    30531866,
+                    30529336,
+                    30043933
+                ]
+            }
+        ]
+    },
+    {
+        "product_type": "Betains",
+        "product_type_id": 102,
+        "products": [
+            30528338,
+            30528392,
+            30553021
+        ]
+    },
+    {
+        "product_type": "Biocides and Preservatives",
+        "product_type_id": 114,
+        "products": [
+            30212030,
+            30136889,
+            30649412,
+            30649410,
+            30653164,
+            30335200,
+            30063180,
+            30640956,
+            30774995,
+            30599558,
+            30042525
+        ]
+    },
+    {
+        "product_type": "Carbonates",
+        "product_type_id": 119,
+        "products": [
+            30073168,
+            30073261,
+            30732127
+        ]
+    },
+    {
+        "product_type": "Chelating Agents",
+        "product_type_id": 110,
+        "products": [
+            30043449,
+            30236607,
+            30043452,
+            30043499,
+            30043442,
+            30043447,
+            30043448,
+            30043456,
+            30043459,
+            30783190,
+            30770097
+        ]
+    },
+    {
+        "product_type": "Corrosion Inhibitors",
+        "product_type_id": 113,
+        "products": [
+            30793278,
+            30042699,
+            30512106,
+            30043915
+        ]
+    },
+    {
+        "product_type": "Esters",
+        "product_type_id": 116,
+        "products": [
+            30535634,
+            30672814,
+            30636993,
+            30531811,
+            30530278,
+            30593379
+        ]
+    },
+    {
+        "product_type": "Metal Surface Treatment",
+        "product_type_id": 112,
+        "children": [
+            {
+                "subtype_name": "Chemicals for Electroplating",
+                "subtype_id": 219,
+                "products": [
+                    30042690,
+                    30793278,
+                    30042696,
+                    30519104,
+                    30042699,
+                    30042703,
+                    30799860,
+                    30042708,
+                    30042711,
+                    30042724,
+                    30042723,
+                    30050765,
+                    30042728,
+                    30125953,
+                    30235598,
+                    30042689,
+                    30042719,
+                    30042727,
+                    30050771
+                ]
+            }
+        ]
+    },
+    {
+        "product_type": "Micronutrients",
+        "product_type_id": 111,
+        "products": [
+            30653285,
+            30654526,
+            30797712,
+            30483367,
+            30792999,
+            30792963,
+            30792998,
+            30792991
+        ]
+    },
+    {
+        "product_type": "Nonionic Surfactants",
+        "product_type_id": 100,
+        "children": [
+            {
+                "subtype_name": "Alcohol Alkoxylates",
+                "subtype_id": 201,
+                "products": [
+                    30222389,
+                    30222392,
+                    30261869,
+                    30190859,
+                    30194090,
+                    30188711,
+                    30194129,
+                    30188712,
+                    30188715,
+                    30188719,
+                    30528552,
+                    30528538,
+                    30528622,
+                    30544523,
+                    30528519,
+                    30528465,
+                    30044039,
+                    30044031,
+                    30044045,
+                    30044042,
+                    30044050,
+                    30044056,
+                    30044063,
+                    30044064,
+                    30044951,
+                    30044021,
+                    30044053,
+                    30044016,
+                    30785008,
+                    30273370,
+                    30273371,
+                    30079911,
+                    30583981,
+                    30604208,
+                    30044065,
+                    30044040,
+                    30043836
+                ]
+            },
+            {
+                "subtype_name": "Alcohol Ethoxylates",
+                "subtype_id": 200,
+                "products": [
+                    30528378,
+                    30528454,
+                    30800151,
+                    30043951,
+                    30043946,
+                    30043973,
+                    30043971,
+                    30043944,
+                    30043970,
+                    30043968,
+                    30785133,
+                    30043958,
+                    30043962,
+                    30044948,
+                    30800227,
+                    30043959,
+                    30043942,
+                    30043957,
+                    30178622,
+                    30044003,
+                    30044057,
+                    30044177,
+                    30044060,
+                    30044015,
+                    30044017,
+                    30044009,
+                    30076407,
+                    30044022,
+                    30044036,
+                    30044020,
+                    30044001,
+                    30043905,
+                    30043928,
+                    30043912,
+                    30149363,
+                    30164451,
+                    30149365,
+                    30164454,
+                    30168823,
+                    30149367,
+                    30163866,
+                    30149369,
+                    30168772,
+                    30149371,
+                    30164445,
+                    30149372,
+                    30043997,
+                    30043998,
+                    30043999,
+                    30043985,
+                    30043987,
+                    30043995,
+                    30317197,
+                    30317194,
+                    30266583,
+                    30043889,
+                    30043862,
+                    30043858,
+                    30043868,
+                    30529420,
+                    30529357,
+                    30529347,
+                    30529434,
+                    30626336,
+                    30625970,
+                    30842236
+                ]
+            },
+            {
+                "subtype_name": "Alkyl Polyglucosides",
+                "subtype_id": 202,
+                "products": [
+                    30773544,
+                    30530207,
+                    30528590,
+                    30592862,
+                    30639034,
+                    30779994,
+                    30566073,
+                    30773891,
+                    30528605,
+                    30530876,
+                    30528571
+                ]
+            },
+            {
+                "subtype_name": "Amine alkoxylates",
+                "subtype_id": 204,
+                "products": [
+                    30044123,
+                    30150914,
+                    30044049
+                ]
+            },
+            {
+                "subtype_name": "Triglyceride ethoxylates",
+                "subtype_id": 203,
+                "products": [
+                    30530711,
+                    30534079,
+                    30535425,
+                    30634576,
+                    30531617,
+                    30043883,
+                    30533711,
+                    30561324
+                ]
+            }
+        ]
+    },
+    {
+        "product_type": "Other Chemicals",
+        "product_type_id": 121,
+        "products": [
+            30836062,
+            30047744,
+            30043891,
+            30403852
+        ]
+    },
+    {
+        "product_type": "Other Surfactants",
+        "product_type_id": 103,
+        "products": [
+            30528652,
+            30535565,
+            30043876,
+            30530830,
+            30529985,
+            30533788
+        ]
+    },
+    {
+        "product_type": "Polymer - Aromatic Sulfonate Condensates",
+        "product_type_id": 108,
+        "products": [
+            30043764,
+            30674513,
+            30043768,
+            30043760,
+            30043828,
+            30043772,
+            30082039
+        ]
+    },
+    {
+        "product_type": "Polymer - Polyvinylpyrrolidones and Copolymers",
+        "product_type_id": 107,
+        "products": [
+            30581851,
+            30581847,
+            30581849,
+            30581846,
+            30581850,
+            30658616,
+            30057654,
+            30581848,
+            30754975
+        ]
+    },
+    {
+        "product_type": "Polymer - Waxes and Wax Emulsions / Polyethylene derivatives",
+        "product_type_id": 109,
+        "children": [
+            {
+                "subtype_name": "Polyethylene Waxes",
+                "subtype_id": 217,
+                "products": [
+                    30043745,
+                    30495763
+                ]
+            },
+            {
+                "subtype_name": "Wax Emulsions",
+                "subtype_id": 218,
+                "products": [
+                    30043787,
+                    30043786,
+                    30057498,
+                    30042710
+                ]
+            }
+        ]
+    },
+    {
+        "product_type": "Polymers - Polyalkylene Glycols",
+        "product_type_id": 104,
+        "children": [
+            {
+                "subtype_name": "Alkyl Polyethylene Glycols",
+                "subtype_id": 211,
+                "products": [
+                    30044176,
+                    30044166,
+                    30142045,
+                    30059005,
+                    30163262,
+                    30285100,
+                    30240056,
+                    30253870,
+                    30782236,
+                    30241062,
+                    30156082,
+                    30255094,
+                    30838022,
+                    30598602
+                ]
+            },
+            {
+                "subtype_name": "EO-PO Block Copolymers",
+                "subtype_id": 210,
+                "products": [
+                    30044078,
+                    30044084,
+                    30044126,
+                    30783694,
+                    30044130,
+                    30044133,
+                    30044097,
+                    30044087,
+                    30044105,
+                    30044106,
+                    30044111,
+                    30044093,
+                    30044121,
+                    30583442,
+                    30044077,
+                    30044136,
+                    30044109,
+                    30044110
+                ]
+            },
+            {
+                "subtype_name": "Polyethylene Glycols",
+                "subtype_id": 212,
+                "products": [
+                    30044100,
+                    30044124,
+                    30044134,
+                    30044074,
+                    30044075,
+                    30044072,
+                    30044099,
+                    30074934,
+                    30044103,
+                    30793518,
+                    30044135,
+                    30044118,
+                    30074961,
+                    30044119,
+                    30044094,
+                    30833603
+                ]
+            },
+            {
+                "subtype_name": "Polypropylene glycol",
+                "subtype_id": 213,
+                "products": [
+                    30044089,
+                    30618043,
+                    30620538,
+                    30044088
+                ]
+            },
+            {
+                "subtype_name": "Unsaturated, reactive Polyalkylene Glycols",
+                "subtype_id": 214,
+                "products": [
+                    30044026,
+                    30279546,
+                    30365778,
+                    30365771,
+                    30469580,
+                    30287219
+                ]
+            }
+        ]
+    },
+    {
+        "product_type": "Polymers - Polycarboxylates",
+        "product_type_id": 106,
+        "children": [
+            {
+                "subtype_name": "Acrylic acid homopolymers",
+                "subtype_id": 215,
+                "products": [
+                    30042858,
+                    30365786,
+                    30042865,
+                    30783601,
+                    30042864,
+                    30042885,
+                    30042868,
+                    30162710,
+                    30042839,
+                    30604909,
+                    30604946,
+                    30749979
+                ]
+            },
+            {
+                "subtype_name": "Acrylic acid-based copolymers",
+                "subtype_id": 216,
+                "products": [
+                    30042761,
+                    30774962,
+                    30042797,
+                    30042823,
+                    30596022,
+                    30051448,
+                    30042757,
+                    30042760,
+                    30042758,
+                    30172595,
+                    30042767,
+                    30364774,
+                    30793415,
+                    30361826,
+                    30506387
+                ]
+            }
+        ]
+    },
+    {
+        "product_type": "Polymers - Polyethylene imine and derivatives",
+        "product_type_id": 105,
+        "products": [
+            30552322,
+            30048280,
+            30048279,
+            30048286,
+            30048278,
+            30048289,
+            30048284,
+            30048282,
+            30048291,
+            30516313
+        ]
+    },
+    {
+        "product_type": "Soluble Sodium Silicates",
+        "product_type_id": 118,
+        "products": [
+            30530186,
+            30529898,
+            30537433,
+            30536791,
+            30529945,
+            30529885,
+            30529915,
+            30529892,
+            30529901,
+            30529897,
+            30529874
+        ]
+    }
+]

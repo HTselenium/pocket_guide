@@ -1,0 +1,3246 @@
+[
+  {
+    "application": "Automatic Dishwashing Cleaners",
+    "application_id": 307,
+    "children": [
+      {
+        "function_claim_name": "Chelating of metal ions",
+        "function_claim_id": 443,
+        "children": [
+          {
+            "claim_name": "Easy Handling",
+            "claim_id": 565,
+            "products": [
+              30770097,
+              30742141,
+              30650394,
+              30641136,
+              30513095
+            ]
+          },
+          {
+            "claim_name": "Prevention of Build-up and Filming",
+            "claim_id": 566,
+            "products": [
+              30770097,
+              30742141,
+              30650394,
+              30641136,
+              30513095
+            ]
+          },
+          {
+            "claim_name": "Scale Dissolution",
+            "claim_id": 508,
+            "products": [
+              30770097,
+              30742141,
+              30650394,
+              30641136,
+              30513095
+            ]
+          },
+          {
+            "claim_name": "Strong Chelating Power",
+            "claim_id": 567,
+            "products": [
+              30770097,
+              30742141,
+              30650394,
+              30641136,
+              30513095
+            ]
+          },
+          {
+            "claim_name": "Strong Cleaning Performance",
+            "claim_id": 528,
+            "products": [
+              30770097,
+              30742141,
+              30650394,
+              30641136,
+              30513095
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Chelating of metal ions plus extra glass care",
+        "function_claim_id": 453,
+        "children": [
+          {
+            "claim_name": "Easy Handling",
+            "claim_id": 565,
+            "products": [
+              30650394
+            ]
+          },
+          {
+            "claim_name": "Glass Protection",
+            "claim_id": 588,
+            "products": [
+              30650394
+            ]
+          },
+          {
+            "claim_name": "Prevention of Build-up and Filming",
+            "claim_id": 566,
+            "products": [
+              30650394
+            ]
+          },
+          {
+            "claim_name": "Scale Dissolution",
+            "claim_id": 508,
+            "products": [
+              30650394
+            ]
+          },
+          {
+            "claim_name": "Strong Chelating Power",
+            "claim_id": 567,
+            "products": [
+              30650394
+            ]
+          },
+          {
+            "claim_name": "Strong Cleaning Performance",
+            "claim_id": 528,
+            "products": [
+              30650394
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Chelating of metal ions plus innovative color stability",
+        "function_claim_id": 451,
+        "children": [
+          {
+            "claim_name": "Color Care/ Stabilization",
+            "claim_id": 587,
+            "products": [
+              30641136
+            ]
+          },
+          {
+            "claim_name": "Easy Handling",
+            "claim_id": 565,
+            "products": [
+              30641136
+            ]
+          },
+          {
+            "claim_name": "Prevention of Build-up and Filming",
+            "claim_id": 566,
+            "products": [
+              30641136
+            ]
+          },
+          {
+            "claim_name": "Scale Dissolution",
+            "claim_id": 508,
+            "products": [
+              30641136
+            ]
+          },
+          {
+            "claim_name": "Strong Chelating Power",
+            "claim_id": 567,
+            "products": [
+              30641136
+            ]
+          },
+          {
+            "claim_name": "Strong Cleaning Performance",
+            "claim_id": 528,
+            "products": [
+              30641136
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Cleaning",
+        "function_claim_id": 413,
+        "children": [
+          {
+            "claim_name": "Excellent Cleaning Performance",
+            "claim_id": 509,
+            "products": [
+              30770097,
+              30742141,
+              30650394,
+              30641136,
+              30513095,
+              30361826,
+              30042868,
+              30042864,
+              30042858
+            ]
+          },
+          {
+            "claim_name": "Scale Dissolution",
+            "claim_id": 508,
+            "products": [
+              30770097,
+              30742141,
+              30650394,
+              30641136,
+              30513095
+            ]
+          },
+          {
+            "claim_name": "Strong Chelating Power",
+            "claim_id": 567,
+            "products": [
+              30770097,
+              30742141,
+              30650394,
+              30641136,
+              30513095
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Foam control",
+        "function_claim_id": 424,
+        "children": [
+          {
+            "claim_name": "Excellent defoaming properties",
+            "claim_id": 534,
+            "products": [
+              30528622,
+              30330101,
+              30079911,
+              30044065
+            ]
+          },
+          {
+            "claim_name": "Low Foaming",
+            "claim_id": 530,
+            "products": [
+              30528622,
+              30330101,
+              30079911,
+              30044065
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Opacifying",
+        "function_claim_id": 452,
+        "children": [
+          {
+            "claim_name": "Aesthetic Appearance",
+            "claim_id": 563,
+            "products": [
+              30641136
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Performance Booster",
+        "function_claim_id": 454,
+        "children": [
+          {
+            "claim_name": "Easy Handling",
+            "claim_id": 565,
+            "products": [
+              30659289
+            ]
+          },
+          {
+            "claim_name": "Excellent Rinse Performance (Filming and Spotting)",
+            "claim_id": 531,
+            "products": [
+              30659289
+            ]
+          },
+          {
+            "claim_name": "Improve Build-Up Performance",
+            "claim_id": 590,
+            "products": [
+              30659289
+            ]
+          },
+          {
+            "claim_name": "Readily Biodegradable",
+            "claim_id": 591,
+            "products": [
+              30659289
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Rinse Efficiency",
+        "function_claim_id": 423,
+        "children": [
+          {
+            "claim_name": "Carry Over Effect",
+            "claim_id": 580,
+            "products": [
+              30755472,
+              30649724,
+              30538098,
+              30537600,
+              30532222
+            ]
+          },
+          {
+            "claim_name": "Excellent Plastic Drying",
+            "claim_id": 548,
+            "products": [
+              30755472,
+              30649724,
+              30604208,
+              30538098,
+              30537600,
+              30532222,
+              30330101
+            ]
+          },
+          {
+            "claim_name": "Excellent Rinse Performance (Filming and Spotting)",
+            "claim_id": 531,
+            "products": [
+              30755472,
+              30659289,
+              30649724,
+              30538098,
+              30537600,
+              30532222,
+              30528519,
+              30330101,
+              30273371,
+              30273370,
+              30044951,
+              30044056
+            ]
+          },
+          {
+            "claim_name": "Perfect Shine",
+            "claim_id": 532,
+            "products": [
+              30755472,
+              30659289,
+              30649724,
+              30538098,
+              30537600,
+              30532222,
+              30528519,
+              30330101,
+              30273371,
+              30273370,
+              30044951,
+              30044056
+            ]
+          },
+          {
+            "claim_name": "Quick and Spotless Drying",
+            "claim_id": 533,
+            "products": [
+              30755472,
+              30659289,
+              30649724,
+              30538098,
+              30537600,
+              30532222,
+              30528519,
+              30330101,
+              30273371,
+              30273370,
+              30044951,
+              30044056
+            ]
+          },
+          {
+            "claim_name": "Suitable for Multifunctional ADW Products",
+            "claim_id": 581,
+            "products": [
+              30755472,
+              30649724,
+              30538098,
+              30537600,
+              30532222
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Scale inhibition",
+        "function_claim_id": 402,
+        "children": [
+          {
+            "claim_name": "Scale Inhibition",
+            "claim_id": 510,
+            "products": [
+              30770097,
+              30742141,
+              30650394,
+              30641136,
+              30513095,
+              30042868,
+              30042864,
+              30042858
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "application": "Automatic Dishwashing Rinse Aids",
+    "application_id": 309,
+    "children": [
+      {
+        "function_claim_name": "Rinse Efficiency",
+        "function_claim_id": 423,
+        "children": [
+          {
+            "claim_name": "Excellent Plastic Drying",
+            "claim_id": 548,
+            "products": [
+              30604208,
+              30330101
+            ]
+          },
+          {
+            "claim_name": "Excellent Rinse Performance (Filming and Spotting)",
+            "claim_id": 531,
+            "products": [
+              30528519,
+              30330101,
+              30273371,
+              30273370,
+              30044951,
+              30044056
+            ]
+          },
+          {
+            "claim_name": "Excellent Wetting",
+            "claim_id": 523,
+            "products": [
+              30544523,
+              30528519,
+              30273371,
+              30273370,
+              30044951,
+              30044056,
+              30044050,
+              30044042
+            ]
+          },
+          {
+            "claim_name": "Low Foaming",
+            "claim_id": 530,
+            "products": [
+              30079911,
+              30044065,
+              30044042
+            ]
+          },
+          {
+            "claim_name": "Perfect Shine",
+            "claim_id": 532,
+            "products": [
+              30528519,
+              30330101,
+              30273371,
+              30273370,
+              30044951,
+              30044056
+            ]
+          },
+          {
+            "claim_name": "Quick and Spotless Drying",
+            "claim_id": 533,
+            "products": [
+              30528519,
+              30330101,
+              30273371,
+              30273370,
+              30044951,
+              30044056
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "application": "Commercial Laundry",
+    "application_id": 301,
+    "children": [
+      {
+        "function_claim_name": "Cleaning",
+        "function_claim_id": 413,
+        "children": [
+          {
+            "claim_name": "Foam Control",
+            "claim_id": 518,
+            "products": [
+              30544523,
+              30528622,
+              30528519,
+              30079911,
+              30044021,
+              30044016
+            ]
+          },
+          {
+            "claim_name": "Improved Hazardous Labeling",
+            "claim_id": 521,
+            "products": [
+              30528571,
+              30188712,
+              30188711,
+              30168823,
+              30168772,
+              30164454,
+              30164451,
+              30164445,
+              30163866,
+              30149372,
+              30149371,
+              30149369,
+              30149367,
+              30149365,
+              30149363,
+              30044948,
+              30044060,
+              30044015,
+              30044009,
+              30044003,
+              30043958,
+              30043957
+            ]
+          },
+          {
+            "claim_name": "Soil and Stain Removal",
+            "claim_id": 506,
+            "products": [
+              305283453,
+              305283451,
+              30538653,
+              30538628,
+              30535542,
+              30531733,
+              30531675,
+              30530876,
+              30529369,
+              30528571,
+              30528454,
+              30528452,
+              30528429,
+              30528345,
+              30317197,
+              30317194,
+              30261869,
+              30222392,
+              30188715,
+              30188712,
+              30188711,
+              30168823,
+              30168772,
+              30164454,
+              30164451,
+              30164445,
+              30163866,
+              30149372,
+              30149371,
+              30149369,
+              30149367,
+              30149365,
+              30149363,
+              30044948,
+              30044060,
+              30044057,
+              30044036,
+              30044015,
+              30044009,
+              30044003,
+              30043962,
+              30043958,
+              30043957,
+              30043942
+            ]
+          },
+          {
+            "claim_name": "Soil and Stain Removal at Low Temperature",
+            "claim_id": 546,
+            "products": [
+              30765358,
+              30774948,
+              30773892,
+              30761951,
+              30741844,
+              30516313,
+              30176872
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Complexing of Metal Ions",
+        "function_claim_id": 401,
+        "children": [
+          {
+            "claim_name": "Improved Hazardous Labeling",
+            "claim_id": 521,
+            "products": [
+              30770097
+            ]
+          },
+          {
+            "claim_name": "Incrustation Inhibition",
+            "claim_id": 501,
+            "products": [
+              300427610,
+              30774962,
+              30742141,
+              30742096,
+              30361826,
+              30215074,
+              30162710,
+              30051448,
+              30043459,
+              30042885,
+              30042868,
+              30042865,
+              30042864,
+              30042858,
+              30042817,
+              30042797,
+              30042767,
+              30042761,
+              30042760,
+              30042758,
+              30042757
+            ]
+          },
+          {
+            "claim_name": "Water Hardness Control",
+            "claim_id": 511,
+            "products": [
+              30770097,
+              30742141,
+              30742096,
+              30215074,
+              30043459
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Disinfection and Hygiene",
+        "function_claim_id": 426,
+        "children": [
+          {
+            "claim_name": "Long Lasting Hygiene",
+            "claim_id": 559,
+            "products": [
+              30483576
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Dispersion",
+        "function_claim_id": 403,
+        "children": [
+          {
+            "claim_name": "Anti-Graying",
+            "claim_id": 505,
+            "products": [
+              30774948,
+              30773892,
+              30516313,
+              30176872
+            ]
+          },
+          {
+            "claim_name": "Incrustation Inhibition",
+            "claim_id": 501,
+            "products": [
+              300427610,
+              30774962,
+              30051448,
+              30042885,
+              30042865,
+              30042858,
+              30042823,
+              30042817,
+              30042761,
+              30042760,
+              30042758
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Dye transfer inhibition",
+        "function_claim_id": 425,
+        "children": [
+          {
+            "claim_name": "Color Care",
+            "claim_id": 535,
+            "products": [
+              30774996,
+              30731623,
+              30064507,
+              30057654,
+              30051450
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Hydrotrope",
+        "function_claim_id": 432,
+        "children": [
+          {
+            "claim_name": "Improved Hazardous Labeling",
+            "claim_id": 521,
+            "products": [
+              30266583
+            ]
+          },
+          {
+            "claim_name": "Solubilization ",
+            "claim_id": 547,
+            "products": [
+              30535542,
+              30528416,
+              30266583
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Rheology Modifier",
+        "function_claim_id": 436,
+        "children": [
+          {
+            "claim_name": "Aesthetic Appearance",
+            "claim_id": 563,
+            "products": [
+              30506387
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Skin Care",
+        "function_claim_id": 447,
+        "children": [
+          {
+            "claim_name": "Sensitive Skin",
+            "claim_id": 573,
+            "products": [
+              30533705,
+              30530876,
+              30530209,
+              30528605,
+              30528604,
+              30528587,
+              30528571
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Whitening",
+        "function_claim_id": 434,
+        "children": [
+          {
+            "claim_name": "Whiteness",
+            "claim_id": 550,
+            "products": [
+              30485516,
+              30475200,
+              30475071
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "pH control",
+        "function_claim_id": 429,
+        "children": [
+          {
+            "claim_name": "Odorless",
+            "claim_id": 507,
+            "products": [
+              30096873
+            ]
+          },
+          {
+            "claim_name": "pH Control",
+            "claim_id": 540,
+            "products": [
+              30653175,
+              30602853,
+              30096873
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "application": "Food Service and Kitchen Hygiene",
+    "application_id": 302,
+    "children": [
+      {
+        "function_claim_name": "Chelation of metal ions",
+        "function_claim_id": 415,
+        "children": [
+          {
+            "claim_name": "Improved Hazardous Labeling",
+            "claim_id": 521,
+            "products": [
+              30770097
+            ]
+          },
+          {
+            "claim_name": "Reduction of Glass Corrosion",
+            "claim_id": 589,
+            "products": [
+              30650394
+            ]
+          },
+          {
+            "claim_name": "Scale Inhibition",
+            "claim_id": 510,
+            "products": [
+              30770097,
+              30742141,
+              30742096,
+              30215074,
+              30043459
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Cleaning",
+        "function_claim_id": 413,
+        "children": [
+          {
+            "claim_name": "Excellent Emulsification",
+            "claim_id": 522,
+            "products": [
+              30534753,
+              30530876,
+              30529369,
+              30528571,
+              30528452,
+              30178622,
+              30044177,
+              30044060,
+              30044057,
+              30044036,
+              30044022,
+              30044020,
+              30044015,
+              30044009,
+              30044003
+            ]
+          },
+          {
+            "claim_name": "Excellent Wetting",
+            "claim_id": 523,
+            "products": [
+              30530209,
+              30528604,
+              30528587,
+              30261869,
+              30188711,
+              30178622,
+              30164454,
+              30149369,
+              30044177,
+              30044060,
+              30044057,
+              30044036,
+              30044022,
+              30044020,
+              30044015,
+              30044009,
+              30044003
+            ]
+          },
+          {
+            "claim_name": "Foam Control",
+            "claim_id": 518,
+            "products": [
+              30544523,
+              30528622,
+              30528466,
+              30528465,
+              30330101,
+              30079911,
+              30044110,
+              30044109,
+              30044049,
+              30044045,
+              30044039,
+              30044016
+            ]
+          },
+          {
+            "claim_name": "High Foam",
+            "claim_id": 571,
+            "products": [
+              30598533,
+              30538653,
+              30538628,
+              30535542,
+              30530876,
+              30530830,
+              30530209,
+              30528604,
+              30528587,
+              30528571,
+              30528429,
+              30528416,
+              30528345
+            ]
+          },
+          {
+            "claim_name": "Improved Hazardous Labeling",
+            "claim_id": 521,
+            "products": [
+              30530830,
+              30530209,
+              30528571,
+              30528414,
+              30266583,
+              30190859,
+              30188712,
+              30188711,
+              30149372,
+              30149369,
+              30149367,
+              30149363,
+              30044015
+            ]
+          },
+          {
+            "claim_name": "Low Foaming",
+            "claim_id": 530,
+            "products": [
+              30604208,
+              30528552,
+              30528519,
+              30330101,
+              30273371,
+              30044951,
+              30044065,
+              30044063,
+              30044056,
+              30044050,
+              30044021,
+              30044016
+            ]
+          },
+          {
+            "claim_name": "Non-Oxidative Soil and Stain Removal (e.g. tea, coffee, etc.)",
+            "claim_id": 512,
+            "products": [
+              30770097,
+              30742141,
+              30742096,
+              30215074,
+              30043459
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Disinfection and Hygiene",
+        "function_claim_id": 426,
+        "children": [
+          {
+            "claim_name": "Effective Disinfection",
+            "claim_id": 539,
+            "products": [
+              30653164,
+              30599558,
+              30335200
+            ]
+          },
+          {
+            "claim_name": "Hands Hygiene",
+            "claim_id": 537,
+            "products": [
+              30599558,
+              30063180
+            ]
+          },
+          {
+            "claim_name": "Long Lasting Hygiene",
+            "claim_id": 559,
+            "products": [
+              30483576
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Dissolving of Inorganic scale",
+        "function_claim_id": 409,
+        "children": [
+          {
+            "claim_name": "Odorless",
+            "claim_id": 507,
+            "products": [
+              30096873,
+              30042792
+            ]
+          },
+          {
+            "claim_name": "Safer on Metals (Less Corrosion)",
+            "claim_id": 541,
+            "products": [
+              30096873
+            ]
+          },
+          {
+            "claim_name": "Scale Dissolution",
+            "claim_id": 508,
+            "products": [
+              30602853,
+              30096873,
+              30042792
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Hydrotrope",
+        "function_claim_id": 432,
+        "children": [
+          {
+            "claim_name": "Improved Hazardous Labeling",
+            "claim_id": 521,
+            "products": [
+              30528587
+            ]
+          },
+          {
+            "claim_name": "Solubilization ",
+            "claim_id": 547,
+            "products": [
+              30535542,
+              30528587,
+              30528416
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Rinsing",
+        "function_claim_id": 419,
+        "children": [
+          {
+            "claim_name": "Defoaming",
+            "claim_id": 517,
+            "products": [
+              30528448,
+              30044110,
+              30043891,
+              30043836
+            ]
+          },
+          {
+            "claim_name": "Excellent Plastic Drying",
+            "claim_id": 548,
+            "products": [
+              30604208,
+              30330101
+            ]
+          },
+          {
+            "claim_name": "Foam Control",
+            "claim_id": 518,
+            "products": [
+              30604208,
+              30528552,
+              30528519,
+              30330101,
+              30273371,
+              30044951,
+              30044065,
+              30044063,
+              30044056,
+              30044050,
+              30044021,
+              30044016
+            ]
+          },
+          {
+            "claim_name": "Low Foaming",
+            "claim_id": 530,
+            "products": [
+              30604208,
+              30528552,
+              30528519,
+              30330101,
+              30273371,
+              30044951,
+              30044065,
+              30044063,
+              30044056,
+              30044050,
+              30044021,
+              30044016
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Scale inhibition",
+        "function_claim_id": 402,
+        "children": [
+          {
+            "claim_name": "Excellent Dispersion",
+            "claim_id": 502,
+            "products": [
+              30051448,
+              30042885,
+              30042865,
+              30042758,
+              30042757
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Skin care",
+        "function_claim_id": 445,
+        "children": [
+          {
+            "claim_name": "Sensitive Skin",
+            "claim_id": 573,
+            "products": [
+              30533705
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Surface modification",
+        "function_claim_id": 449,
+        "children": [
+          {
+            "claim_name": "Cleaning Performance Booster",
+            "claim_id": 583,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          },
+          {
+            "claim_name": "Easy-To-Clean Again",
+            "claim_id": 584,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          },
+          {
+            "claim_name": "Gloss Enhancer",
+            "claim_id": 515,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          },
+          {
+            "claim_name": "Perfect Shine",
+            "claim_id": 532,
+            "products": [
+              30659289
+            ]
+          },
+          {
+            "claim_name": "Quick and Spotless Drying",
+            "claim_id": 533,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          },
+          {
+            "claim_name": "Streak-Free Cleaning",
+            "claim_id": 578,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "application": "Food and Beverage Processing",
+    "application_id": 303,
+    "children": [
+      {
+        "function_claim_name": "Cleaning",
+        "function_claim_id": 413,
+        "children": [
+          {
+            "claim_name": "Acidic Cleaning",
+            "claim_id": 542,
+            "products": [
+              30653175,
+              30602853,
+              30096873
+            ]
+          },
+          {
+            "claim_name": "Biofilm removal ",
+            "claim_id": 592,
+            "products": [
+              30765358,
+              30761951
+            ]
+          },
+          {
+            "claim_name": "Excellent Wetting",
+            "claim_id": 523,
+            "products": [
+              30261869,
+              30222392,
+              30222389,
+              30190859,
+              30188715,
+              30188712,
+              30188711,
+              30164454,
+              30164451,
+              30149372,
+              30149371,
+              30149367,
+              30149365,
+              30149363,
+              30044057,
+              30044015,
+              30044003
+            ]
+          },
+          {
+            "claim_name": "High Foam",
+            "claim_id": 571,
+            "products": [
+              30538653,
+              30538628,
+              30535542,
+              30534753,
+              30531733,
+              30530876,
+              30530830,
+              30530209,
+              30529369,
+              30528624,
+              30528604,
+              30528587,
+              30528571,
+              30528429,
+              30528416,
+              30528345
+            ]
+          },
+          {
+            "claim_name": "Improved Hazardous Labeling",
+            "claim_id": 521,
+            "products": [
+              30530830,
+              30530209,
+              30528571,
+              30266583,
+              30190859,
+              30188712,
+              30188711,
+              30149372,
+              30149369,
+              30149367,
+              30149363,
+              30044015
+            ]
+          },
+          {
+            "claim_name": "Low Foaming",
+            "claim_id": 530,
+            "products": [
+              30544523,
+              30528519,
+              30330101,
+              30273371,
+              30273370,
+              30079911,
+              30044065,
+              30044064,
+              30044063,
+              30044056,
+              30044042,
+              30044021,
+              30044016
+            ]
+          },
+          {
+            "claim_name": "Odorless Acidic Cleaning",
+            "claim_id": 543,
+            "products": [
+              30096873
+            ]
+          },
+          {
+            "claim_name": "Safer on Metals (Less Corrosion)",
+            "claim_id": 541,
+            "products": [
+              30096873
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Complexing of metal ions",
+        "function_claim_id": 414,
+        "children": [
+          {
+            "claim_name": "Incrustation Inhibition",
+            "claim_id": 501,
+            "products": [
+              30043499,
+              30043459,
+              30043447
+            ]
+          },
+          {
+            "claim_name": "Water Hardness Control",
+            "claim_id": 511,
+            "products": [
+              30043499,
+              30043459,
+              30043447
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Corrosion inhibition",
+        "function_claim_id": 421,
+        "children": [
+          {
+            "claim_name": "Metal Protection",
+            "claim_id": 519,
+            "products": [
+              30043915
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Disinfection and Hygiene",
+        "function_claim_id": 426,
+        "children": [
+          {
+            "claim_name": "Effective Disinfection",
+            "claim_id": 539,
+            "products": [
+              30653164,
+              30649412,
+              30335200,
+              30136891
+            ]
+          },
+          {
+            "claim_name": "Hands Hygiene",
+            "claim_id": 537,
+            "products": [
+              30599558
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Dispersion",
+        "function_claim_id": 403,
+        "children": [
+          {
+            "claim_name": "Incrustation Inhibition",
+            "claim_id": 501,
+            "products": [
+              30051448,
+              30042885,
+              30042865,
+              30042864,
+              30042757
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Foam Management",
+        "function_claim_id": 420,
+        "children": [
+          {
+            "claim_name": "Defoaming",
+            "claim_id": 517,
+            "products": [
+              30528448,
+              30330101,
+              30079911,
+              30044130,
+              30044126,
+              30044110,
+              30044109,
+              30044089,
+              30044087,
+              30044049,
+              30043891,
+              30043836
+            ]
+          },
+          {
+            "claim_name": "Foam Control",
+            "claim_id": 518,
+            "products": [
+              30528622,
+              30528538,
+              30528466,
+              30528465,
+              30044045,
+              30044039,
+              30044031
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Hydrotrope",
+        "function_claim_id": 432,
+        "children": [
+          {
+            "claim_name": "Solubilization ",
+            "claim_id": 547,
+            "products": [
+              30528587
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "application": "Hand Dishwashing",
+    "application_id": 308,
+    "children": [
+      {
+        "function_claim_name": "Antimicrobial effect",
+        "function_claim_id": 440,
+        "children": [
+          {
+            "claim_name": "Long Lasting Hygiene",
+            "claim_id": 559,
+            "products": [
+              30483576
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Cleaning",
+        "function_claim_id": 413,
+        "children": [
+          {
+            "claim_name": "100% Renewable Based",
+            "claim_id": 575,
+            "products": [
+              30530876,
+              30530209,
+              30528571
+            ]
+          },
+          {
+            "claim_name": "Excellent Emulsification",
+            "claim_id": 522,
+            "products": [
+              30044015
+            ]
+          },
+          {
+            "claim_name": "Perfect Shine",
+            "claim_id": 532,
+            "products": [
+              30530876,
+              30530830,
+              30528624,
+              30528571,
+              30188711,
+              30164454,
+              30149369
+            ]
+          },
+          {
+            "claim_name": "Strong Chelating Power",
+            "claim_id": 567,
+            "products": [
+              30770097,
+              30742141,
+              30650394,
+              30641136,
+              30513095
+            ]
+          },
+          {
+            "claim_name": "Strong Cleaning Performance",
+            "claim_id": 528,
+            "products": [
+              30582787,
+              30531733,
+              30531675,
+              30530876,
+              30530830,
+              30530209,
+              30528624,
+              30528495,
+              30528486,
+              30528445,
+              30528429,
+              30528345,
+              30188711,
+              30164454,
+              30149369,
+              30044015
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Dirt removal (Grease)",
+        "function_claim_id": 422,
+        "children": [
+          {
+            "claim_name": "Degreasing",
+            "claim_id": 529,
+            "products": [
+              30652893,
+              30582787,
+              30531733,
+              30531675,
+              30530830,
+              30528624,
+              30528495,
+              30528486,
+              30528445,
+              30528345,
+              30188711,
+              30164454,
+              30149369,
+              30044015
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Foam control",
+        "function_claim_id": 424,
+        "children": [
+          {
+            "claim_name": "Foam Stabilization",
+            "claim_id": 568,
+            "products": [
+              30774948,
+              30516313
+            ]
+          },
+          {
+            "claim_name": "High Foaming",
+            "claim_id": 572,
+            "products": [
+              30652893,
+              30598533,
+              30530876,
+              30530830,
+              30530209,
+              30528392,
+              30528345
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Formulation Preservation",
+        "function_claim_id": 427,
+        "children": [
+          {
+            "claim_name": "Incan Preservation",
+            "claim_id": 538,
+            "products": [
+              30212030,
+              30063180
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Formulation Stabilization",
+        "function_claim_id": 438,
+        "children": [
+          {
+            "claim_name": "Formulation Protection",
+            "claim_id": 554,
+            "products": [
+              30482052
+            ]
+          },
+          {
+            "claim_name": "Long Lasting Stabilization",
+            "claim_id": 555,
+            "products": [
+              30482052
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Hydrotrope",
+        "function_claim_id": 432,
+        "children": [
+          {
+            "claim_name": "Solubilization ",
+            "claim_id": 547,
+            "products": [
+              30535542,
+              30528416
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Skin care",
+        "function_claim_id": 445,
+        "children": [
+          {
+            "claim_name": "Dermatologically Tested",
+            "claim_id": 576,
+            "products": [
+              30530876,
+              30528571
+            ]
+          },
+          {
+            "claim_name": "Sensitive Skin",
+            "claim_id": 573,
+            "products": [
+              30652893,
+              30598533,
+              30533705,
+              30530876,
+              30528571,
+              30528392,
+              30528345
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "application": "Hard Surface Cleaning",
+    "application_id": 300,
+    "children": [
+      {
+        "function_claim_name": "Acidic Scale Removal",
+        "function_claim_id": 430,
+        "children": [
+          {
+            "claim_name": "Limescale and Soap Scum Dissolution",
+            "claim_id": 544,
+            "products": [
+              30653175,
+              30602853,
+              30096873
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Cleaning",
+        "function_claim_id": 413,
+        "children": [
+          {
+            "claim_name": "100% Renewable Based",
+            "claim_id": 575,
+            "products": [
+              30530876,
+              30530209,
+              30528604,
+              30528571
+            ]
+          },
+          {
+            "claim_name": "Fast Cleaning Action",
+            "claim_id": 524,
+            "products": [
+              30261869,
+              30222392,
+              30222389,
+              30194129,
+              30194090,
+              30190859,
+              30188719,
+              30188715,
+              30188712,
+              30188711,
+              30178622,
+              30168823,
+              30168772,
+              30164454,
+              30164451,
+              30164445,
+              30163866,
+              30149372,
+              30149371,
+              30149369,
+              30149367,
+              30149365,
+              30149363,
+              30044177,
+              30044060,
+              30044057,
+              30044036,
+              30044022,
+              30044020,
+              30044015,
+              30044009,
+              30044003
+            ]
+          },
+          {
+            "claim_name": "Gloss Enhancer",
+            "claim_id": 515,
+            "products": [
+              30530876,
+              30530209,
+              30528604,
+              30528571
+            ]
+          },
+          {
+            "claim_name": "Grease Removal",
+            "claim_id": 525,
+            "products": [
+              30534753,
+              30530830,
+              30528530,
+              30528414,
+              30261869,
+              30222392,
+              30222389,
+              30194129,
+              30194090,
+              30190859,
+              30188719,
+              30188715,
+              30188712,
+              30188711,
+              30178622,
+              30150914,
+              30044177,
+              30044060,
+              30044057,
+              30044036,
+              30044022,
+              30044020,
+              30044015,
+              30044009,
+              30044003
+            ]
+          },
+          {
+            "claim_name": "Low Foaming",
+            "claim_id": 530,
+            "products": [
+              30528519,
+              30528465,
+              30273370,
+              30079911,
+              30044042,
+              30044039,
+              30044021,
+              30044016
+            ]
+          },
+          {
+            "claim_name": "Strong Cleaning ",
+            "claim_id": 526,
+            "products": [
+              30178622,
+              30168823,
+              30168772,
+              30164454,
+              30164451,
+              30164445,
+              30163866,
+              30149372,
+              30149371,
+              30149369,
+              30149367,
+              30149365,
+              30149363,
+              30044177,
+              30044060,
+              30044057,
+              30044036,
+              30044022,
+              30044020,
+              30044015,
+              30044009,
+              30044003
+            ]
+          },
+          {
+            "claim_name": "Superior Wetting",
+            "claim_id": 527,
+            "products": [
+              30529336,
+              30178622,
+              30168823,
+              30168772,
+              30164454,
+              30164451,
+              30164445,
+              30163866,
+              30149372,
+              30149371,
+              30149369,
+              30149367,
+              30149365,
+              30149363,
+              30079911,
+              30044177,
+              30044060,
+              30044057,
+              30044036,
+              30044022,
+              30044020,
+              30044015,
+              30044009,
+              30044003
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Disinfection",
+        "function_claim_id": 433,
+        "children": [
+          {
+            "claim_name": "Long-Lasting Antimicrobial Effect",
+            "claim_id": 560,
+            "products": [
+              30483576
+            ]
+          },
+          {
+            "claim_name": "Quick Biocidal Action",
+            "claim_id": 549,
+            "products": [
+              30653164,
+              30599558,
+              30335200
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Emulsifiers and Solubilizers",
+        "function_claim_id": 400,
+        "children": [
+          {
+            "claim_name": "Ingredients Emulsification",
+            "claim_id": 500,
+            "products": [
+              30528530,
+              30266583,
+              30178622,
+              30044177,
+              30044060,
+              30044057,
+              30044036,
+              30044022,
+              30044020,
+              30044015,
+              30044009,
+              30044003,
+              30043862,
+              30035082,
+              30034790
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Foam Boost",
+        "function_claim_id": 446,
+        "children": [
+          {
+            "claim_name": "High Foaming Surfactants",
+            "claim_id": 574,
+            "products": [
+              30598533,
+              30535542,
+              30530876,
+              30530830,
+              30530209,
+              30528604,
+              30528571,
+              30528392,
+              30528345
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Inorganic Scale Inhibition",
+        "function_claim_id": 404,
+        "children": [
+          {
+            "claim_name": "Dispersing Agents",
+            "claim_id": 503,
+            "products": [
+              30051448,
+              30042885,
+              30042864,
+              30042757
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Rheology Modifier",
+        "function_claim_id": 436,
+        "children": [
+          {
+            "claim_name": "Thickeners",
+            "claim_id": 552,
+            "products": [
+              30600719,
+              30506387,
+              30481990
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Stabilizers",
+        "function_claim_id": 437,
+        "children": [
+          {
+            "claim_name": "Antioxidants ",
+            "claim_id": 556,
+            "products": [
+              30484864,
+              30482052
+            ]
+          },
+          {
+            "claim_name": "Light Stabilizers",
+            "claim_id": 553,
+            "products": [
+              30482021
+            ]
+          },
+          {
+            "claim_name": "Light Stabilizers Booster",
+            "claim_id": 557,
+            "products": [
+              30482052
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Surface Modification",
+        "function_claim_id": 450,
+        "children": [
+          {
+            "claim_name": "Anti-Rain Effect and Spotless Drying ",
+            "claim_id": 585,
+            "products": [
+              30693069,
+              30537497
+            ]
+          },
+          {
+            "claim_name": "Easy-To-Clean Again",
+            "claim_id": 584,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          },
+          {
+            "claim_name": "Perfect Shine",
+            "claim_id": 532,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          },
+          {
+            "claim_name": "Quick and Spotless Drying",
+            "claim_id": 533,
+            "products": [
+              30712211,
+              30539214
+            ]
+          },
+          {
+            "claim_name": "Streak-Free Cleaning",
+            "claim_id": 578,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Water Hardness Control",
+        "function_claim_id": 416,
+        "children": [
+          {
+            "claim_name": "Chelating Agent",
+            "claim_id": 513,
+            "products": [
+              30043459
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "application": "Institutional Cleaning and Sanitation",
+    "application_id": 304,
+    "children": [
+      {
+        "function_claim_name": "Cleaning",
+        "function_claim_id": 413,
+        "children": [
+          {
+            "claim_name": "100% Renewable Based",
+            "claim_id": 575,
+            "products": [
+              30530876,
+              30530209,
+              30528604,
+              30528571
+            ]
+          },
+          {
+            "claim_name": "Excellent Emulsification",
+            "claim_id": 522,
+            "products": [
+              30600719,
+              30534753,
+              30531675,
+              30530876,
+              30529369,
+              30528571,
+              30528454,
+              30528452,
+              30044948,
+              30044015
+            ]
+          },
+          {
+            "claim_name": "Excellent Wetting",
+            "claim_id": 523,
+            "products": [
+              30535542,
+              30530209,
+              30528604,
+              30528416,
+              30528414,
+              30266583,
+              30261869,
+              30222392,
+              30222389,
+              30190859,
+              30188715,
+              30188711,
+              30178622,
+              30164454,
+              30164451,
+              30149372,
+              30149367,
+              30149365,
+              30149363,
+              30044177,
+              30044060,
+              30044057,
+              30044036,
+              30044022,
+              30044020,
+              30044015,
+              30044009,
+              30044003
+            ]
+          },
+          {
+            "claim_name": "Foam Control",
+            "claim_id": 518,
+            "products": [
+              30528465,
+              30528622,
+              30528448,
+              30044045,
+              30044016,
+              30043891,
+              30043836
+            ]
+          },
+          {
+            "claim_name": "High Foam",
+            "claim_id": 571,
+            "products": [
+              30538653,
+              30535722,
+              30535542,
+              30531733,
+              30530876,
+              30530830,
+              30530209,
+              30528624,
+              30528604,
+              30528571,
+              30528429,
+              30528416,
+              30528392,
+              30528345
+            ]
+          },
+          {
+            "claim_name": "Improved Hazardous Labeling",
+            "claim_id": 521,
+            "products": [
+              30530830,
+              30530209,
+              30528571,
+              30528414,
+              30266583,
+              30190859,
+              30188712,
+              30188711,
+              30149372,
+              30149369,
+              30149367,
+              30149363,
+              30044015
+            ]
+          },
+          {
+            "claim_name": "Low Foaming",
+            "claim_id": 530,
+            "products": [
+              30544523,
+              30528552,
+              30528519,
+              30273371,
+              30044056,
+              30044021
+            ]
+          },
+          {
+            "claim_name": "Plastic Compatibility",
+            "claim_id": 577,
+            "products": [
+              30530209,
+              30528604,
+              30528587,
+              30528571
+            ]
+          },
+          {
+            "claim_name": "Specific Soil Removal (Health Care)",
+            "claim_id": 593,
+            "products": [
+              30765358,
+              30761951
+            ]
+          },
+          {
+            "claim_name": "Streak-Free Cleaning",
+            "claim_id": 578,
+            "products": [
+              30530876,
+              30530209,
+              30528604,
+              30528571
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Complexing of Metal Ions",
+        "function_claim_id": 401,
+        "children": [
+          {
+            "claim_name": "Incrustation Inhibition",
+            "claim_id": 501,
+            "products": [
+              30770097,
+              30742141,
+              30742096,
+              30043459
+            ]
+          },
+          {
+            "claim_name": "Water Hardness Control",
+            "claim_id": 511,
+            "products": [
+              30770097,
+              30742141,
+              30742096,
+              30043459
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Corrosion inhibition",
+        "function_claim_id": 421,
+        "children": [
+          {
+            "claim_name": "Material Protection",
+            "claim_id": 520,
+            "products": [
+              30043915
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Disinfection and hygiene",
+        "function_claim_id": 428,
+        "children": [
+          {
+            "claim_name": "Effective Disinfection",
+            "claim_id": 539,
+            "products": [
+              30653164,
+              30649412,
+              30599558,
+              30335200,
+              30212030,
+              30136891,
+              30063180
+            ]
+          },
+          {
+            "claim_name": "Hands Hygiene",
+            "claim_id": 537,
+            "products": [
+              30599558
+            ]
+          },
+          {
+            "claim_name": "Long Lasting Effects",
+            "claim_id": 561,
+            "products": [
+              30483576
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Dispersion",
+        "function_claim_id": 403,
+        "children": [
+          {
+            "claim_name": "Incrustation Inhibition",
+            "claim_id": 501,
+            "products": [
+              30051448,
+              30042885,
+              30042865,
+              30042823,
+              30042757
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Dissolving of inorganic scale",
+        "function_claim_id": 431,
+        "children": [
+          {
+            "claim_name": "Odorless",
+            "claim_id": 507,
+            "products": [
+              30096873
+            ]
+          },
+          {
+            "claim_name": "Safer on Metals (Less Corrosion)",
+            "claim_id": 541,
+            "products": [
+              30096873
+            ]
+          },
+          {
+            "claim_name": "Scale Dissolution",
+            "claim_id": 508,
+            "products": [
+              30653175,
+              30602853,
+              30096873
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Floor maintenance",
+        "function_claim_id": 418,
+        "children": [
+          {
+            "claim_name": "Gloss Enhancer",
+            "claim_id": 515,
+            "products": [
+              30057498,
+              30043787,
+              30043786
+            ]
+          },
+          {
+            "claim_name": "Material Care",
+            "claim_id": 516,
+            "products": [
+              30057498,
+              30043787,
+              30043786
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Hydrotrope",
+        "function_claim_id": 432,
+        "children": [
+          {
+            "claim_name": "Improved Hazardous Labeling",
+            "claim_id": 521,
+            "products": [
+              30266583
+            ]
+          },
+          {
+            "claim_name": "Solubilization ",
+            "claim_id": 547,
+            "products": [
+              30535542,
+              30528587,
+              30528416,
+              30266583
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Rheology Modifier",
+        "function_claim_id": 436,
+        "children": [
+          {
+            "claim_name": "Thickeners",
+            "claim_id": 552,
+            "products": [
+              30600719,
+              30535722,
+              30530830,
+              30506387
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Surface Modification",
+        "function_claim_id": 450,
+        "children": [
+          {
+            "claim_name": "Easy-To-Clean Again",
+            "claim_id": 584,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          },
+          {
+            "claim_name": "Gloss Enhancer",
+            "claim_id": 515,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          },
+          {
+            "claim_name": "Quick and Spotless Drying",
+            "claim_id": 533,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          },
+          {
+            "claim_name": "Streak-Free Cleaning",
+            "claim_id": 578,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          },
+          {
+            "claim_name": "Strong Cleaning Performance",
+            "claim_id": 528,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "application": "Laundry",
+    "application_id": 306,
+    "children": [
+      {
+        "function_claim_name": "Antibacterial and Antimicrobial Effects",
+        "function_claim_id": 441,
+        "children": [
+          {
+            "claim_name": "Long-Lasting Hygiene",
+            "claim_id": 562,
+            "products": [
+              30483576
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Chelating Agents",
+        "function_claim_id": 417,
+        "children": [
+          {
+            "claim_name": "Incrustation Inhibition",
+            "claim_id": 501,
+            "products": [
+              30742141,
+              30742096,
+              30215074,
+              30043459
+            ]
+          },
+          {
+            "claim_name": "Soil and Stain Removal",
+            "claim_id": 506,
+            "products": [
+              30742141,
+              30742096,
+              30215074,
+              30043459
+            ]
+          },
+          {
+            "claim_name": "Sustainable Chelating Agent",
+            "claim_id": 514,
+            "products": [
+              30742141,
+              30742096,
+              30215074,
+              30043459
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Co-builder",
+        "function_claim_id": 410,
+        "children": [
+          {
+            "claim_name": "Anti-Graying",
+            "claim_id": 505,
+            "products": [
+              30774948,
+              30773892,
+              30516313,
+              30176872,
+              30042823
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Control of water hardness",
+        "function_claim_id": 405,
+        "children": [
+          {
+            "claim_name": "Anti-Graying",
+            "claim_id": 505,
+            "products": [
+              30774962,
+              30742141,
+              30742096,
+              30215074,
+              30051448,
+              30042864,
+              30042817,
+              30042767,
+              30042761
+            ]
+          },
+          {
+            "claim_name": "Excellent Dispersion",
+            "claim_id": 502,
+            "products": [
+              30774962,
+              30051448,
+              30042864,
+              30042817,
+              30042767,
+              30042761
+            ]
+          },
+          {
+            "claim_name": "Incrustation Inhibition",
+            "claim_id": 501,
+            "products": [
+              30774962,
+              30742141,
+              30742096,
+              30215074,
+              30051448,
+              30042864,
+              30042817,
+              30042767,
+              30042761
+            ]
+          },
+          {
+            "claim_name": "Soil and Stain Removal",
+            "claim_id": 506,
+            "products": [
+              30774962,
+              30742141,
+              30742096,
+              30741844,
+              30215074,
+              30051448,
+              30043459,
+              30042864,
+              30042817,
+              30042767,
+              30042761
+            ]
+          },
+          {
+            "claim_name": "Sustainable Chelating Agent",
+            "claim_id": 514,
+            "products": [
+              30742141,
+              30742096,
+              30215074,
+              30043459
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Dispersion/Incrustation inhibition",
+        "function_claim_id": 406,
+        "children": [
+          {
+            "claim_name": "Anti-Graying",
+            "claim_id": 505,
+            "products": [
+              30774962,
+              30051448,
+              30042885,
+              30042864,
+              30042858,
+              30042823,
+              30042767,
+              30042761
+            ]
+          },
+          {
+            "claim_name": "Excellent Dispersion",
+            "claim_id": 502,
+            "products": [
+              30774962,
+              30051448,
+              30042885,
+              30042864,
+              30042858,
+              30042823,
+              30042767,
+              30042761
+            ]
+          },
+          {
+            "claim_name": "Incrustation Inhibition",
+            "claim_id": 501,
+            "products": [
+              30774962,
+              30051448,
+              30042885,
+              30042864,
+              30042858,
+              30042823,
+              30042767,
+              30042761
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Dye transfer inhibition",
+        "function_claim_id": 425,
+        "children": [
+          {
+            "claim_name": "Color care - Light and Dark Colors Can Be Washed Together",
+            "claim_id": 536,
+            "products": [
+              30774996,
+              30754975,
+              30731623,
+              30064507,
+              30057654
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Excellent Dispersion",
+        "function_claim_id": 407,
+        "children": [
+          {
+            "claim_name": "Anti-Graying",
+            "claim_id": 505,
+            "products": [
+              30774962,
+              30774948,
+              30516313,
+              30176872,
+              30042885,
+              30042868,
+              30042864,
+              30042817,
+              30042797,
+              30042767,
+              30042761
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Fabric Whitening",
+        "function_claim_id": 435,
+        "children": [
+          {
+            "claim_name": "Provide Whitest White - Textile Look New for Longer",
+            "claim_id": 551,
+            "products": [
+              30485516,
+              30475200,
+              30475071
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Incrustation inhibition",
+        "function_claim_id": 408,
+        "children": [
+          {
+            "claim_name": "Anti-Graying",
+            "claim_id": 505,
+            "products": [
+              30774962,
+              30773892,
+              30742141,
+              30742096,
+              30043459,
+              30042885,
+              30042868,
+              30042864,
+              30042817,
+              30042797,
+              30042761
+            ]
+          },
+          {
+            "claim_name": "Excellent Dispersion",
+            "claim_id": 502,
+            "products": [
+              30774962,
+              30742141,
+              30742096,
+              30043459,
+              30042817,
+              30042761
+            ]
+          },
+          {
+            "claim_name": "Incrustation Inhibition",
+            "claim_id": 501,
+            "products": [
+              30774962,
+              30742141,
+              30742096,
+              30043459,
+              30042817,
+              30042761
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Plant Derived Lipid Layer Enhancer",
+        "function_claim_id": 448,
+        "children": [
+          {
+            "claim_name": "Fiber Care, Wear Comfort, For Sensitive Skin",
+            "claim_id": 582,
+            "products": [
+              30533705
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Rheology modifier",
+        "function_claim_id": 442,
+        "children": [
+          {
+            "claim_name": "Transparent Rheology Modifier",
+            "claim_id": 564,
+            "products": [
+              30506387
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Soil and stain removal",
+        "function_claim_id": 411,
+        "children": [
+          {
+            "claim_name": "Anti-Graying",
+            "claim_id": 505,
+            "products": [
+              30774948,
+              30516313,
+              30176872,
+              30042823
+            ]
+          },
+          {
+            "claim_name": "Renewable Based Ingredients",
+            "claim_id": 579,
+            "products": [
+              30765358,
+              30773892,
+              30761951,
+              30530876
+            ]
+          },
+          {
+            "claim_name": "Soil and Stain Removal",
+            "claim_id": 506,
+            "products": [
+              30531675,
+              30530876,
+              30528454,
+              30317194,
+              30044948,
+              30042823
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Soil and stain removal (Booster)",
+        "function_claim_id": 444,
+        "children": [
+          {
+            "claim_name": "Effective at Low Temperature",
+            "claim_id": 569,
+            "products": [
+              30774948,
+              30773892,
+              30765358,
+              30765137,
+              30761951,
+              30741844,
+              30516313
+            ]
+          },
+          {
+            "claim_name": "Saving Resources",
+            "claim_id": 570,
+            "products": [
+              30774948,
+              30773892,
+              30765358,
+              30765137,
+              30761951,
+              30741844,
+              30516313
+            ]
+          },
+          {
+            "claim_name": "Soil and Stain Removal",
+            "claim_id": 506,
+            "products": [
+              30774948,
+              30773892,
+              30765358,
+              30765137,
+              30761951,
+              30741844,
+              30516313
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Solubilization",
+        "function_claim_id": 412,
+        "children": [
+          {
+            "claim_name": "Excellent Dispersion",
+            "claim_id": 502,
+            "products": [
+              30044089,
+              30042845
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Stabilizers for Perfume Oils/Colorants",
+        "function_claim_id": 439,
+        "children": [
+          {
+            "claim_name": "Long-Lasting Stabilization of the Formulation (Color and Perfume Oils)",
+            "claim_id": 558,
+            "products": [
+              30484864,
+              30483790,
+              30483522,
+              30482052
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "application": "Vehicle and Transportation Care",
+    "application_id": 305,
+    "children": [
+      {
+        "function_claim_name": "Cleaning",
+        "function_claim_id": 413,
+        "children": [
+          {
+            "claim_name": "100% Renewable Based",
+            "claim_id": 575,
+            "products": [
+              30742141,
+              30742096,
+              30537497,
+              30530209,
+              30528604,
+              30528587,
+              30528571
+            ]
+          },
+          {
+            "claim_name": "Excellent Emulsification",
+            "claim_id": 522,
+            "products": [
+              30600719,
+              30534753,
+              30531733,
+              30529369,
+              30528604,
+              30528571,
+              30528530,
+              30528454,
+              30528452,
+              30178622,
+              30150914,
+              30044177,
+              30044060,
+              30044057,
+              30044036,
+              30044022,
+              30044020,
+              30044015,
+              30044009,
+              30044003
+            ]
+          },
+          {
+            "claim_name": "Excellent Wetting",
+            "claim_id": 523,
+            "products": [
+              30535542,
+              30530209,
+              30528416,
+              30528414,
+              30266583,
+              30222392,
+              30190859,
+              30188711,
+              30178622,
+              30164454,
+              30164451,
+              30149369,
+              30149367,
+              30149363,
+              30044177,
+              30044060,
+              30044057,
+              30044036,
+              30044022,
+              30044020,
+              30044015,
+              30044009,
+              30044003
+            ]
+          },
+          {
+            "claim_name": "High Foam",
+            "claim_id": 571,
+            "products": [
+              30598533,
+              30535542,
+              30531733,
+              30530830,
+              30530209,
+              30528604,
+              30528587,
+              30528571,
+              30528429,
+              30528416,
+              30528345
+            ]
+          },
+          {
+            "claim_name": "Improved Hazardous Labeling",
+            "claim_id": 521,
+            "products": [
+              30530830,
+              30530209,
+              30528571,
+              30528414,
+              30266583,
+              30190859,
+              30188712,
+              30188711,
+              30149372,
+              30149369,
+              30149367,
+              30149363,
+              30044948,
+              30044015
+            ]
+          },
+          {
+            "claim_name": "Low Foaming",
+            "claim_id": 530,
+            "products": [
+              30604208,
+              30583981,
+              30330101,
+              30273371,
+              30273370,
+              30079911,
+              30044951,
+              30044133,
+              30044130,
+              30044129,
+              30044126,
+              30044087,
+              30044065,
+              30044064,
+              30044063,
+              30044056,
+              30044054,
+              30044053,
+              30044050,
+              30044049,
+              30044045,
+              30044042,
+              30044040,
+              30044039,
+              30044031,
+              30044021,
+              30044016
+            ]
+          },
+          {
+            "claim_name": "Plastic Compatibility",
+            "claim_id": 577,
+            "products": [
+              30530209,
+              30528604,
+              30528587,
+              30528571
+            ]
+          },
+          {
+            "claim_name": "Streak-Free Cleaning",
+            "claim_id": 578,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497,
+              30530209,
+              30528604,
+              30528571
+            ]
+          },
+          {
+            "claim_name": "Traffic Film Removal",
+            "claim_id": 545,
+            "products": [
+              30534753,
+              30150914
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Complexing of Metal Ions",
+        "function_claim_id": 401,
+        "children": [
+          {
+            "claim_name": "Water Hardness Control",
+            "claim_id": 511,
+            "products": [
+              30742141,
+              30742096,
+              30043499,
+              30043459,
+              30043442
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Corrosion inhibition",
+        "function_claim_id": 421,
+        "children": [
+          {
+            "claim_name": "Metal Protection",
+            "claim_id": 519,
+            "products": [
+              30043915
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Disinfection and hygiene",
+        "function_claim_id": 428,
+        "children": [
+          {
+            "claim_name": "Effective Disinfection",
+            "claim_id": 539,
+            "products": [
+              30483576
+            ]
+          },
+          {
+            "claim_name": "Long Lasting Effects",
+            "claim_id": 561,
+            "products": [
+              30483576
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Dispersion",
+        "function_claim_id": 403,
+        "children": [
+          {
+            "claim_name": "Dispersing of Soils ",
+            "claim_id": 504,
+            "products": [
+              30051448,
+              30042885,
+              30042865,
+              30042823,
+              30042757
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Dissolving of inorganic scale",
+        "function_claim_id": 431,
+        "children": [
+          {
+            "claim_name": "Odorless",
+            "claim_id": 507,
+            "products": [
+              30096873
+            ]
+          },
+          {
+            "claim_name": "Safer on Metals (Less Corrosion)",
+            "claim_id": 541,
+            "products": [
+              30096873
+            ]
+          },
+          {
+            "claim_name": "Scale Dissolution",
+            "claim_id": 508,
+            "products": [
+              30653175,
+              30602853,
+              30096873
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Hydrotrope",
+        "function_claim_id": 432,
+        "children": [
+          {
+            "claim_name": "Improved Hazardous Labeling",
+            "claim_id": 521,
+            "products": [
+              30266583
+            ]
+          },
+          {
+            "claim_name": "Solubilization ",
+            "claim_id": 547,
+            "products": [
+              30535542,
+              30528587,
+              30528416,
+              30266583
+            ]
+          }
+        ]
+      },
+      {
+        "function_claim_name": "Surface modification",
+        "function_claim_id": 449,
+        "children": [
+          {
+            "claim_name": "Booster of Cleaning Performance",
+            "claim_id": 586,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          },
+          {
+            "claim_name": "Easy-To-Clean Again",
+            "claim_id": 584,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          },
+          {
+            "claim_name": "Gloss Enhancer",
+            "claim_id": 515,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497,
+              30534816
+            ]
+          },
+          {
+            "claim_name": "Quick and Spotless Drying",
+            "claim_id": 533,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497,
+              30534816
+            ]
+          },
+          {
+            "claim_name": "Streak-Free Cleaning",
+            "claim_id": 578,
+            "products": [
+              30712211,
+              30693069,
+              30539214,
+              30537497
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,7541 @@
+[
+  {
+    "prd": 30528378,
+    "product_name": "Dehydol LS 6",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 100,
+    "chemicalNature": "C₁₂C₁₄-Fatty alcohol + 6 EO",
+    "concentration": "None",
+    "cloudPoint": " 42/A",
+    "hlbValue": "11.5",
+    "viscosityAtPascal": 190,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043951,
+    "product_name": "Lutensol A 7 N",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 200,
+    "chemicalNature": "C₁₂C₁₄-Fatty alcohol + 7 EO",
+    "concentration": "None",
+    "cloudPoint": " 56/A",
+    "hlbValue": "12",
+    "viscosityAtPascal": 200,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30673319,
+    "product_name": "Lutensol A 7 N/MB",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 300,
+    "chemicalNature": "C₁₂C₁₄-Fatty alcohol + 7 EO",
+    "concentration": "None",
+    "cloudPoint": "56/A",
+    "hlbValue": "12",
+    "viscosityAtPascal": 200,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528454,
+    "product_name": "Dehydol LT 7",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 500,
+    "chemicalNature": "C₁₂C₁₈ Fatty alcohol + 7 EO",
+    "concentration": "None",
+    "cloudPoint": " 53/A",
+    "hlbValue": "12",
+    "viscosityAtPascal": " 40 (40 °C)  ",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30664860,
+    "product_name": "Dehydol LT 7/MB",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 600,
+    "chemicalNature": "C₁₂C₁₈ Fatty alcohol + 7 EO",
+    "concentration": "None",
+    "cloudPoint": "53/A",
+    "hlbValue": "12",
+    "viscosityAtPascal": " 40 (40 °C)  ",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30800151,
+    "product_name": "Dehydol LT 7 EcoBalanced",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 601,
+    "chemicalNature": "C₁₂C₁₈ Fatty alcohol + 7 EO",
+    "concentration": "None",
+    "cloudPoint": "53/A",
+    "hlbValue": "12",
+    "viscosityAtPascal": " 40 (40 °C)  ",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30799977,
+    "product_name": "Dehydol LT 7 X EcoBalanced",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 602,
+    "chemicalNature": "C₁₂C₁₈ Fatty alcohol + 7 EO",
+    "concentration": "None",
+    "cloudPoint": "53/A",
+    "hlbValue": "12",
+    "viscosityAtPascal": " 40 (40 °C)  ",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528452,
+    "product_name": "Dehydol 100",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 700,
+    "chemicalNature": "C₁₂C₁₈ Fatty alcohol + 9 EO",
+    "concentration": "None",
+    "cloudPoint": " 80/A",
+    "hlbValue": "13",
+    "viscosityAtPascal": " 350 (30 °C)",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043944,
+    "product_name": "Lutensol AT 25 Powder",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 900,
+    "chemicalNature": "C₁₆C₁₈-Fatty alcohol + 25 EO",
+    "concentration": "None",
+    "cloudPoint": " 95/B",
+    "hlbValue": "16",
+    "viscosityAtPascal": " 70 (60 °C)",
+    "physicalFormAtDegrees": "Powder",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30801757,
+    "product_name": "Lutensol AT 25 Powder EcoBalanced",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 901,
+    "chemicalNature": "C₁₆C₁₈-Fatty alcohol + 25 EO",
+    "concentration": "None",
+    "cloudPoint": " 95/B",
+    "hlbValue": "16",
+    "viscosityAtPascal": " 70 (60 °C)",
+    "physicalFormAtDegrees": "Powder",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043973,
+    "product_name": "Lutensol AT 25 E",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 1100,
+    "chemicalNature": "C₁₆C₁₈-Fatty alcohol + 25 EO",
+    "concentration": "None",
+    "cloudPoint": "95/B",
+    "hlbValue": "16",
+    "viscosityAtPascal": " 70 (60 °C)",
+    "physicalFormAtDegrees": "Solid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043971,
+    "product_name": "Lutensol AT 25 Flakes",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 1200,
+    "chemicalNature": "C₁₆C₁₈-Fatty alcohol + 25 EO",
+    "concentration": "None",
+    "cloudPoint": " 95/B",
+    "hlbValue": "16",
+    "viscosityAtPascal": " 70 (60 °C)",
+    "physicalFormAtDegrees": "Flakes",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043970,
+    "product_name": "Lutensol AT 50 Powder",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 1400,
+    "chemicalNature": "C₁₆C₁₈-Fatty alcohol + 50 EO",
+    "concentration": "None",
+    "cloudPoint": " 92/B",
+    "hlbValue": "18",
+    "viscosityAtPascal": " 150 (60 °C)",
+    "physicalFormAtDegrees": "Powder",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043968,
+    "product_name": "Lutensol AT 80 Powder",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 1500,
+    "chemicalNature": "C₁₆C₁₈-Fatty alcohol + 80 EO",
+    "concentration": "None",
+    "cloudPoint": "87/B",
+    "hlbValue": " 18.5",
+    "viscosityAtPascal": " 400 (60 °C)",
+    "physicalFormAtDegrees": "Powder",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30785133,
+    "product_name": "Lutensol AT 80 Powder EcoBalanced",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 1501,
+    "chemicalNature": "C₁₆C₁₈-Fatty alcohol + 80 EO",
+    "concentration": "None",
+    "cloudPoint": "87/B",
+    "hlbValue": " 18.5",
+    "viscosityAtPascal": " 400 (60 °C)",
+    "physicalFormAtDegrees": "Powder",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043958,
+    "product_name": "Lutensol AO 3",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 1700,
+    "chemicalNature": "C₁₃C₁₅-Oxo alcohol + 3 EO",
+    "concentration": "None",
+    "cloudPoint": " 45/E",
+    "hlbValue": "8",
+    "viscosityAtPascal": 40,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043962,
+    "product_name": "Lutensol AO 5",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 1800,
+    "chemicalNature": "C₁₃C₁₅-Oxo alcohol + 5 EO",
+    "concentration": "None",
+    "cloudPoint": " 62/E",
+    "hlbValue": "10",
+    "viscosityAtPascal": 80,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044948,
+    "product_name": "Lutensol AO 7",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 1900,
+    "chemicalNature": "C₁₃C₁₅-Oxo alcohol + 7 EO",
+    "concentration": "None",
+    "cloudPoint": " 43/A",
+    "hlbValue": "12",
+    "viscosityAtPascal": 100,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30800227,
+    "product_name": "Lutensol AO 7 EcoBalanced",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 1901,
+    "chemicalNature": "C₁₃C₁₅-Oxo alcohol + 7 EO",
+    "concentration": "None",
+    "cloudPoint": " 43/A",
+    "hlbValue": "12",
+    "viscosityAtPascal": 100,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043942,
+    "product_name": "Lutensol AO 8",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 2000,
+    "chemicalNature": "C₁₃C₁₅-Oxo alcohol + 8 EO",
+    "concentration": "None",
+    "cloudPoint": "52/A",
+    "hlbValue": " 12.5",
+    "viscosityAtPascal": " 30 (60 °C)",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043957,
+    "product_name": "Lutensol AO 11",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 2100,
+    "chemicalNature": "C₁₃C₁₅-Oxo alcohol + 11 EO",
+    "concentration": "None",
+    "cloudPoint": "86/A",
+    "hlbValue": "14",
+    "viscosityAtPascal": " 30 (60 °C)",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30317197,
+    "product_name": "Lutensol M 5",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 2200,
+    "chemicalNature": "C₁₀C₁₈-Alcohol + 5 EO",
+    "concentration": "None",
+    "cloudPoint": " 61/E",
+    "hlbValue": " 11.4",
+    "viscosityAtPascal": "<20 (60 °C)",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30674283,
+    "product_name": "Lutensol M 5/MB",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 2300,
+    "chemicalNature": "C₁₀C₁₈-Alcohol + 5 EO",
+    "concentration": "None",
+    "cloudPoint": " 61/E",
+    "hlbValue": " 11.4",
+    "viscosityAtPascal": "<20 (60 °C)",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30317194,
+    "product_name": "Lutensol M 7",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 2400,
+    "chemicalNature": "C₁₀C₁₈-Alcohol + 7 EO",
+    "concentration": "None",
+    "cloudPoint": "75/E",
+    "hlbValue": " 12.9",
+    "viscosityAtPascal": " 50 (60 °C)",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30178622,
+    "product_name": "Lutensol TO 2",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 2600,
+    "chemicalNature": "C₁₃-Oxo alcohol + 2 EO",
+    "concentration": "None",
+    "cloudPoint": " 37/D",
+    "hlbValue": "7",
+    "viscosityAtPascal": 30,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044003,
+    "product_name": "Lutensol TO 3",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 2700,
+    "chemicalNature": "C₁₃-Oxo alcohol + 3 EO",
+    "concentration": "None",
+    "cloudPoint": "40/E",
+    "hlbValue": "8",
+    "viscosityAtPascal": 50,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044057,
+    "product_name": "Lutensol TO 5",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 2800,
+    "chemicalNature": "C₁₃-Oxo alcohol + 5 EO",
+    "concentration": "None",
+    "cloudPoint": " 62/E",
+    "hlbValue": " 10.5",
+    "viscosityAtPascal": 80,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044177,
+    "product_name": "Lutensol TO 6",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 2900,
+    "chemicalNature": "C₁₃-Oxo alcohol + 6 EO",
+    "concentration": "None",
+    "cloudPoint": " 67/E",
+    "hlbValue": "11",
+    "viscosityAtPascal": 80,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044060,
+    "product_name": "Lutensol TO 7",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 3000,
+    "chemicalNature": "C₁₃-Oxo alcohol + 7 EO",
+    "concentration": "None",
+    "cloudPoint": " 70/E",
+    "hlbValue": "12",
+    "viscosityAtPascal": 100,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044015,
+    "product_name": "Lutensol TO 8",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 3100,
+    "chemicalNature": "C₁₃-Oxo alcohol + 8 EO",
+    "concentration": "None",
+    "cloudPoint": " 60/A",
+    "hlbValue": "13",
+    "viscosityAtPascal": 150,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044017,
+    "product_name": "Lutensol TO 89",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 3200,
+    "chemicalNature": "C₁₃-Oxo alcohol + 8 EO",
+    "concentration": "None",
+    "cloudPoint": "90%  60/A",
+    "hlbValue": "13",
+    "viscosityAtPascal": 120,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044009,
+    "product_name": "Lutensol TO 10",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 3300,
+    "chemicalNature": "C₁₃-Oxo alcohol + 10 EO",
+    "concentration": "None",
+    "cloudPoint": "70/A",
+    "hlbValue": " 13.5",
+    "viscosityAtPascal": " 30 (60 °C)",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044022,
+    "product_name": "Lutensol TO 109",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 3400,
+    "chemicalNature": "C₁₃-Oxo alcohol + 10 EO",
+    "concentration": "None",
+    "cloudPoint": "85% 70/A",
+    "hlbValue": " 13.5",
+    "viscosityAtPascal": 150,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044036,
+    "product_name": "Lutensol TO 12",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 3500,
+    "chemicalNature": "C₁₃-Oxo alcohol + 12 EO",
+    "concentration": "None",
+    "cloudPoint": " 75/B",
+    "hlbValue": " 14.5",
+    "viscosityAtPascal": " 40 (60 °C)",
+    "physicalFormAtDegrees": "Solid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044020,
+    "product_name": "Lutensol TO 129",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 3600,
+    "chemicalNature": "C₁₃-Oxo alcohol + 12 EO",
+    "concentration": "None",
+    "cloudPoint": "85%  75/B",
+    "hlbValue": " 14.5",
+    "viscosityAtPascal": 200,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044001,
+    "product_name": "Lutensol TO 20",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 3700,
+    "chemicalNature": "C₁₃-Oxo alcohol + 20 EO",
+    "concentration": "None",
+    "cloudPoint": "86/B",
+    "hlbValue": " 16.5",
+    "viscosityAtPascal": " 60 (60 °C)",
+    "physicalFormAtDegrees": "Solid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30149363,
+    "product_name": "Lutensol XP 30",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 3800,
+    "chemicalNature": "C₁₀-Guerbet alcohol + 3 EO",
+    "concentration": "None",
+    "cloudPoint": "31/E",
+    "hlbValue": "9",
+    "viscosityAtPascal": 25,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30164451,
+    "product_name": "Lutensol XP 40",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 3900,
+    "chemicalNature": "C₁₀-Guerbet alcohol + 4 EO",
+    "concentration": "None",
+    "cloudPoint": " 44/E",
+    "hlbValue": " 10.5",
+    "viscosityAtPascal": 90,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30149365,
+    "product_name": "Lutensol XP 50",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 4000,
+    "chemicalNature": "C₁₀-Guerbet alcohol + 5 EO",
+    "concentration": "None",
+    "cloudPoint": "56/E",
+    "hlbValue": " 11.5",
+    "viscosityAtPascal": 90,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30164454,
+    "product_name": "Lutensol XP 60",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 4100,
+    "chemicalNature": "C₁₀-Guerbet alcohol + 6 EO",
+    "concentration": "None",
+    "cloudPoint": " 62/E",
+    "hlbValue": " 12.5",
+    "viscosityAtPascal": 140,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30168823,
+    "product_name": "Lutensol XP 69",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 4200,
+    "chemicalNature": "C₁₀-Guerbet alcohol + 6 EO",
+    "concentration": "None",
+    "cloudPoint": "85% 62/E",
+    "hlbValue": " 12.5",
+    "viscosityAtPascal": 70,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30149367,
+    "product_name": "Lutensol XP 70",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 4300,
+    "chemicalNature": "C₁₀-Guerbet alcohol + 7 EO",
+    "concentration": "None",
+    "cloudPoint": " 68/E",
+    "hlbValue": "13",
+    "viscosityAtPascal": 290,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30163866,
+    "product_name": "Lutensol XP 79",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 4400,
+    "chemicalNature": "C₁₀-Guerbet alcohol + 7 EO",
+    "concentration": "None",
+    "cloudPoint": "85%  68/E",
+    "hlbValue": "13",
+    "viscosityAtPascal": 90,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30149369,
+    "product_name": "Lutensol XP 80",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 4500,
+    "chemicalNature": "C₁₀-Guerbet alcohol + 8 EO",
+    "concentration": "None",
+    "cloudPoint": "56/A",
+    "hlbValue": "14",
+    "viscosityAtPascal": 300,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30168772,
+    "product_name": "Lutensol XP 89",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 4600,
+    "chemicalNature": "C₁₀-Guerbet alcohol + 8 EO",
+    "concentration": "None",
+    "cloudPoint": "85% 56/A",
+    "hlbValue": "14",
+    "viscosityAtPascal": 90,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30149371,
+    "product_name": "Lutensol XP 90",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 4700,
+    "chemicalNature": "C₁₀-Guerbet alcohol + 9 EO",
+    "concentration": "None",
+    "cloudPoint": " 69/A",
+    "hlbValue": " 14.5",
+    "viscosityAtPascal": 1200,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30164445,
+    "product_name": "Lutensol XP 99",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 4800,
+    "chemicalNature": "C₁₀-Guerbet alcohol + 9 EO",
+    "concentration": "None",
+    "cloudPoint": "85% 69/A",
+    "hlbValue": " 14.5",
+    "viscosityAtPascal": 100,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30149372,
+    "product_name": "Lutensol XP 100",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 4900,
+    "chemicalNature": "C₁₀-Guerbet alcohol + 10 EO",
+    "concentration": "None",
+    "cloudPoint": " 80/A",
+    "hlbValue": "15",
+    "viscosityAtPascal": " 30 (60 °C)",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30222389,
+    "product_name": "Lutensol XL 40",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 5000,
+    "chemicalNature": "C₁₀-Guerbet alcohol alkoxylate + 4 EO",
+    "concentration": "None",
+    "cloudPoint": " 46/E",
+    "hlbValue": " 10.5",
+    "viscosityAtPascal": 40,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30222392,
+    "product_name": "Lutensol XL 50",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 5100,
+    "chemicalNature": "C₁₀-Guerbet alcohol alkoxylate + 5 EO",
+    "concentration": "None",
+    "cloudPoint": "60/E",
+    "hlbValue": " 11.5",
+    "viscosityAtPascal": 50,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30261869,
+    "product_name": "Lutensol XL 60",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 5200,
+    "chemicalNature": "C₁₀-Guerbet alcohol alkoxylate + 6 EO",
+    "concentration": "None",
+    "cloudPoint": " 69/E",
+    "hlbValue": " 12.5",
+    "viscosityAtPascal": 120,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30190859,
+    "product_name": "Lutensol XL 70",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 5300,
+    "chemicalNature": "C₁₀-Guerbet alcohol alkoxylate + 7 EO",
+    "concentration": "None",
+    "cloudPoint": " 68/E",
+    "hlbValue": "13",
+    "viscosityAtPascal": 70,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30194090,
+    "product_name": "Lutensol XL 79",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 5400,
+    "chemicalNature": "C₁₀-Guerbet alcohol alkoxylate + 7 EO",
+    "concentration": "None",
+    "cloudPoint": "85%  68/E",
+    "hlbValue": "13",
+    "viscosityAtPascal": 120,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30188711,
+    "product_name": "Lutensol XL 80",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 5500,
+    "chemicalNature": "C₁₀-Guerbet alcohol alkoxylate + 8 EO",
+    "concentration": "None",
+    "cloudPoint": " 56/A",
+    "hlbValue": "14",
+    "viscosityAtPascal": 120,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30194129,
+    "product_name": "Lutensol XL 89",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 5600,
+    "chemicalNature": "C₁₀-Guerbet alcohol alkoxylate + 8 EO",
+    "concentration": "None",
+    "cloudPoint": "80% 56/A",
+    "hlbValue": "14",
+    "viscosityAtPascal": 150,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30188712,
+    "product_name": "Lutensol XL 90",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 5700,
+    "chemicalNature": "C₁₀-Guerbet alcohol alkoxylate + 9 EO",
+    "concentration": "None",
+    "cloudPoint": " 69/A",
+    "hlbValue": " 14.5",
+    "viscosityAtPascal": " 30 (60 °C)",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30188715,
+    "product_name": "Lutensol XL 100",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 5800,
+    "chemicalNature": "C₁₀-Guerbet alcohol alkoxylate + 10 EO",
+    "concentration": "None",
+    "cloudPoint": " 80/A",
+    "hlbValue": "15",
+    "viscosityAtPascal": " 30 (60 °C)",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30188719,
+    "product_name": "Lutensol XL 140",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 5900,
+    "chemicalNature": "C₁₀-Guerbet alcohol alkoxylate + 14 EO",
+    "concentration": "None",
+    "cloudPoint": "78/B",
+    "hlbValue": "16",
+    "viscosityAtPascal": " 40 (60 °C)",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043997,
+    "product_name": "Lutensol ON 30",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 6000,
+    "chemicalNature": "C₁₀-Oxo alcohol + 3 EO",
+    "concentration": "None",
+    "cloudPoint": " 53/E",
+    "hlbValue": "9",
+    "viscosityAtPascal": 30,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043998,
+    "product_name": "Lutensol ON 50",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 6100,
+    "chemicalNature": "C₁₀-Oxo alcohol + 5 EO",
+    "concentration": "None",
+    "cloudPoint": " 67/E",
+    "hlbValue": " 11.5",
+    "viscosityAtPascal": 40,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043985,
+    "product_name": "Lutensol ON 70",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 6200,
+    "chemicalNature": "C₁₀-Oxo alcohol + 7 EO",
+    "concentration": "None",
+    "cloudPoint": " 60/A",
+    "hlbValue": "13",
+    "viscosityAtPascal": 60,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043987,
+    "product_name": "Lutensol ON 80",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 200,
+            "name": "Alcohol Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 6300,
+    "chemicalNature": "C₁₀-Oxo alcohol + 8 EO",
+    "concentration": "None",
+    "cloudPoint": " 80/A",
+    "hlbValue": "14",
+    "viscosityAtPascal": 100,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30530209,
+    "product_name": "Glucopon 215 UP",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 201,
+            "name": "Alkyl Polyglucosides"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 6500,
+    "chemicalNature": "C₈C₁₀-Alkyl polyglucoside",
+    "concentration": "None",
+    "hlbValue": "None",
+    "viscosityAtPascal": 3000,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "density": " 1.14"
+  },
+  {
+    "prd": 30528587,
+    "product_name": "Glucopon 225 DK",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 201,
+            "name": "Alkyl Polyglucosides"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 6700,
+    "chemicalNature": "C₈C₁₀-Alkyl polyglucoside",
+    "concentration": "None",
+    "hlbValue": "None",
+    "viscosityAtPascal": 4500,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "density": " 1.16"
+  },
+  {
+    "prd": 30528604,
+    "product_name": "Glucopon 425 N/HH",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 201,
+            "name": "Alkyl Polyglucosides"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 6900,
+    "chemicalNature": "C₈C₁₀-Alkyl polyglucoside",
+    "concentration": "None",
+    "hlbValue": "None",
+    "viscosityAtPascal": 500,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "density": " 1.12"
+  },
+  {
+    "prd": 30528605,
+    "product_name": "Glucopon 50 G",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 201,
+            "name": "Alkyl Polyglucosides"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 7100,
+    "chemicalNature": "C₁₂C₁₄ -Alkyl polyglucoside on inorganic and organic carrier ",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Granules",
+    "isSurfactant": true,
+    "density": " -"
+  },
+  {
+    "prd": 30530876,
+    "product_name": "Glucopon 600 CSUP",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 201,
+            "name": "Alkyl Polyglucosides"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 7200,
+    "chemicalNature": "C₁₀C₁₆-Alkyl polyglucoside",
+    "concentration": "None",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 2500 (40 °C)",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "density": " 1.08 (40 °C)"
+  },
+  {
+    "prd": 30528571,
+    "product_name": "Glucopon 650 EC",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 201,
+            "name": "Alkyl Polyglucosides"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 7400,
+    "chemicalNature": "C₈C₁₆-Alkyl polyglucoside",
+    "concentration": "None",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 2500 (40 °C)",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "density": " 1.08 (40 °C)"
+  },
+  {
+    "prd": 30533705,
+    "product_name": "Plantatex LLE",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 201,
+            "name": "Alkyl Polyglucosides"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 7600,
+    "chemicalNature": "Aqueous blend of alkyl polyglucosides and partial esters of fatty acids with glycerol",
+    "concentration": "None",
+    "hlbValue": "None",
+    "viscosityAtPascal": 2100,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "density": " 1.02"
+  },
+  {
+    "prd": 30150914,
+    "product_name": "Lutensol FA 12 K",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "name": "Amine Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 7700,
+    "chemicalNature": "Coco amine + approx 12 EO",
+    "concentration": "None",
+    "cloudPoint": " 92/B",
+    "hlbValue": "None",
+    "viscosityAtPascal": 190,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "amineNumber": 80.0
+  },
+  {
+    "prd": 30600719,
+    "product_name": "Demelan VPC",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "name": "Amine Ethoxylates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 7800,
+    "chemicalNature": "Blend of ethoxylated fatty amines and ethoxylated fatty alcohols",
+    "concentration": "None",
+    "cloudPoint": " 58/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 250,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "amineNumber": 112.0
+  },
+  {
+    "prd": 30528530,
+    "product_name": "Dehydol 04 Deo",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 203,
+            "name": "Emulsifiers and Solubilizers"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 7900,
+    "chemicalNature": "C₈-Fatty alcohol + approx. 4 EO ",
+    "concentration": "None",
+    "cloudPoint": "74/E",
+    "hlbValue": " 11.5",
+    "viscosityAtPascal": 30,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043876,
+    "product_name": "Emulan A",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 203,
+            "name": "Emulsifiers and Solubilizers"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 8100,
+    "chemicalNature": "Oleic acid ethoxylate",
+    "concentration": "None",
+    "cloudPoint": " 52/E",
+    "hlbValue": "9",
+    "viscosityAtPascal": 70,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043862,
+    "product_name": "Emulan AT 9",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 203,
+            "name": "Emulsifiers and Solubilizers"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 8200,
+    "chemicalNature": "Fatty alcohol ethoxylate",
+    "concentration": "None",
+    "cloudPoint": " 68/A",
+    "hlbValue": "13",
+    "viscosityAtPascal": " 20 (60 °C)",
+    "physicalFormAtDegrees": "Solid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043883,
+    "product_name": "Emulan EL",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 203,
+            "name": "Emulsifiers and Solubilizers"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 8400,
+    "chemicalNature": "Castor oil ethoxylate",
+    "concentration": "None",
+    "cloudPoint": "71/B",
+    "hlbValue": "14",
+    "viscosityAtPascal": " 600 (40 °C)",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043912,
+    "product_name": "Emulan TO 4070",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 203,
+            "name": "Emulsifiers and Solubilizers"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 8500,
+    "chemicalNature": "Fatty alcohol ethoxylate",
+    "concentration": "None",
+    "cloudPoint": "92/B",
+    "hlbValue": "18",
+    "viscosityAtPascal": " 1400 (23 °C)",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30266583,
+    "product_name": "Lutensol CS 6250",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 203,
+            "name": "Emulsifiers and Solubilizers"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 8600,
+    "chemicalNature": "Alcohol ethoxylate",
+    "concentration": "None",
+    "cloudPoint": "82/E",
+    "hlbValue": " ",
+    "viscosityAtPascal": 20,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30530709,
+    "product_name": "Mergital D 8",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 203,
+            "name": "Emulsifiers and Solubilizers"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 8601,
+    "chemicalNature": "C₈C₁₀-Fatty alcohol + approx. 8 EO ",
+    "concentration": "None",
+    "cloudPoint": "80/A",
+    "hlbValue": "13.9",
+    "viscosityAtPascal": "110 (23 °C)",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30035082,
+    "product_name": "Monophenylglycol pure",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 203,
+            "name": "Emulsifiers and Solubilizers"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 8700,
+    "chemicalNature": "Phenoxyethanol",
+    "concentration": "None",
+    "cloudPoint": " ",
+    "hlbValue": " ",
+    "viscosityAtPascal": " 30 (20°C)",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30034790,
+    "product_name": "Phenoxypropanol",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 203,
+            "name": "Emulsifiers and Solubilizers"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 8800,
+    "chemicalNature": "Phenoxypropanol",
+    "concentration": "None",
+    "cloudPoint": " ",
+    "hlbValue": " ",
+    "viscosityAtPascal": " 35 (20°C)",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043836,
+    "product_name": "Degressal SD 20",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 204,
+            "name": "Foam Suppressors"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 8900,
+    "chemicalNature": "Fatty alcohol alkoxylate",
+    "concentration": "100",
+    "hlbValue": "None",
+    "viscosityAtPascal": 60,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043891,
+    "product_name": "Degressal SD 40",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 204,
+            "name": "Foam Suppressors"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 9000,
+    "chemicalNature": "Phosphoric ester",
+    "concentration": "100",
+    "hlbValue": "None",
+    "viscosityAtPascal": 20,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528448,
+    "product_name": "Dehypon OCP 502",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 204,
+            "name": "Foam Suppressors"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 9100,
+    "chemicalNature": "Fatty alcohol alkoxylate ",
+    "concentration": "100",
+    "hlbValue": "None",
+    "viscosityAtPascal": 40,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528552,
+    "product_name": "Dehypon 2574",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 9200,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": " 20/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 90,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528538,
+    "product_name": "Dehypon LS 24",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 9400,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": " 30/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 50,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528622,
+    "product_name": "Dehypon LS 36",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 9600,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "11/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 60,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30544523,
+    "product_name": "Dehypon LS 45",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 9800,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": " 42/D",
+    "hlbValue": "None",
+    "viscosityAtPascal": 50,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528519,
+    "product_name": "Dehypon LS 54",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 10000,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": " 30/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 60,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044042,
+    "product_name": "Plurafac LF 120",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 10200,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "28/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 60,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044050,
+    "product_name": "Plurafac LF 220",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 10300,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "95% 42/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 150,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044056,
+    "product_name": "Plurafac LF 221",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 10400,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "95%  33/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 100,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044063,
+    "product_name": "Plurafac LF 223",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 10500,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "98%  33/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 70,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044064,
+    "product_name": "Plurafac LF 224",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 10600,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": " 27/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 55,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044951,
+    "product_name": "Plurafac LF 300",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 10700,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "22/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 75,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30079911,
+    "product_name": "Plurafac LF 303",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 10800,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": " 29/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 350,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044021,
+    "product_name": "Plurafac LF 400",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 11000,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "33/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 70,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044053,
+    "product_name": "Plurafac LF 401",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 11100,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "74/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 170,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044016,
+    "product_name": "Plurafac LF 403",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 11200,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": " 41/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 60,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30785008,
+    "product_name": "Plurafac LF 403 EcoBalanced",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 11201,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": " 41/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 60,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044054,
+    "product_name": "Plurafac LF 404",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 11300,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "45/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 70,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044065,
+    "product_name": "Plurafac LF 500",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 11400,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "32/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 65,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044129,
+    "product_name": "Plurafac LF 711",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 11500,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "45/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 80,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30583981,
+    "product_name": "Plurafac LF 801",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 11600,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "42/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 65,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30604208,
+    "product_name": "Plurafac LF 802",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 11700,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "56/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 260,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30273370,
+    "product_name": "Plurafac LF 900",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 11900,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "39/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 85,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30273371,
+    "product_name": "Plurafac LF 901",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 12000,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "38/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 130,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044040,
+    "product_name": "Plurafac LF 1300",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 12100,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": " 21/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 130,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30330101,
+    "product_name": "Plurafac SLF 180",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 12200,
+    "chemicalNature": "Fatty alcohol alkoxylates ",
+    "concentration": "None",
+    "cloudPoint": "18/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 280,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044049,
+    "product_name": "Plurafac LF 1430",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 12300,
+    "chemicalNature": "Amine alkoxylate",
+    "concentration": "None",
+    "cloudPoint": " 35/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 450,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044039,
+    "product_name": "Plurafac LF 131",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 12400,
+    "chemicalNature": "Fatty alcohol alkoxylate, end-capped ",
+    "concentration": "None",
+    "cloudPoint": "35/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 40,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044031,
+    "product_name": "Plurafac LF 231",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 12500,
+    "chemicalNature": "Fatty alcohol alkoxylate, end-capped ",
+    "concentration": "None",
+    "cloudPoint": " 28/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 45,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044045,
+    "product_name": "Plurafac LF 431",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 12600,
+    "chemicalNature": "Fatty alcohol alkoxylate, end-capped ",
+    "concentration": "None",
+    "cloudPoint": "39/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 45,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528465,
+    "product_name": "Dehypon LT 104",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 12700,
+    "chemicalNature": "Fatty alcohol alkoxylate, end-capped ",
+    "concentration": "None",
+    "cloudPoint": "27/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 60 (30 °C)",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528466,
+    "product_name": "Dehypon LT 104 L",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 12800,
+    "chemicalNature": "Fatty alcohol alkoxylate, end-capped ",
+    "concentration": "None",
+    "cloudPoint": "85% 26/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 90,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30649724,
+    "product_name": "Dehypon E 126",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 12900,
+    "chemicalNature": "Fatty alcohol polyglycol ether, modified",
+    "concentration": "None",
+    "cloudPoint": " 46/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 90 (40 °C)",
+    "physicalFormAtDegrees": "Solid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30793556,
+    "product_name": "Dehypon E 126 EcoBalanced",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 12901,
+    "chemicalNature": "Fatty alcohol polyglycol ether, modified",
+    "concentration": "None",
+    "cloudPoint": " 46/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 90 (40 °C)",
+    "physicalFormAtDegrees": "Solid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30532222,
+    "product_name": "Dehypon E 127",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 13000,
+    "chemicalNature": "Fatty alcohol polyglycol ether, modified",
+    "concentration": "None",
+    "cloudPoint": "50/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 100 (40 °C)",
+    "physicalFormAtDegrees": "Solid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30845401,
+    "product_name": "Dehypon E 127 EcoBalanced",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 13001,
+    "chemicalNature": "Fatty alcohol polyglycol ether, modified",
+    "concentration": "None",
+    "cloudPoint": "50/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 100 (40 °C)",
+    "physicalFormAtDegrees": "Solid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30538098,
+    "product_name": "Dehypon GRA",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 13100,
+    "chemicalNature": "Fatty alcohol polyglycol ether, modified",
+    "concentration": "None",
+    "cloudPoint": " 60/D",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 200 (60 °C)",
+    "physicalFormAtDegrees": "Granules",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30800075,
+    "product_name": "Dehypon GRA EcoBalanced",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 13101,
+    "chemicalNature": "Fatty alcohol polyglycol ether, modified",
+    "concentration": "None",
+    "cloudPoint": " 60/D",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 201 (60 °C)",
+    "physicalFormAtDegrees": "Granules",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528594,
+    "product_name": "Dehypon KE 3447",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 13200,
+    "chemicalNature": "Fatty alcohol polyglycol ether, modified",
+    "concentration": "None",
+    "cloudPoint": "90% 50/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 250,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30537600,
+    "product_name": "Dehypon WET",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 13300,
+    "chemicalNature": "Fatty alcohol polyglycol ether, modified",
+    "concentration": "None",
+    "cloudPoint": "90%  50/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 180 (30 °C)",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30844954,
+    "product_name": "Dehypon SD",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 13301,
+    "chemicalNature": "Modified fatty alcohol polyglycol ether",
+    "concentration": "None",
+    "cloudPoint": "46.5/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 140 (40 °C)",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044126,
+    "product_name": "Pluronic PE 6100",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 13400,
+    "chemicalNature": "PO-EO-block polymer - approx. 10 % polyethylene glycol in molecule",
+    "concentration": "None",
+    "cloudPoint": " 23/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 350,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "molarMass": 2000
+  },
+  {
+    "prd": 30783694,
+    "product_name": "Pluronic PE 6100 EcoBalanced",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 13401,
+    "chemicalNature": "PO-EO-block polymer 10 % polyethylene glycol in molecule",
+    "concentration": "None",
+    "cloudPoint": " 23/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 351,
+    "physicalFormAtDegrees": "Liquid",
+    "molarMass": 2000
+  },
+  {
+    "prd": 30044130,
+    "product_name": "Pluronic PE 6200",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 13500,
+    "chemicalNature": "PO-EO-block polymer - approx. 20 % polyethylene glycol in molecule",
+    "concentration": "None",
+    "cloudPoint": "33/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 500,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "molarMass": 2450
+  },
+  {
+    "prd": 30044133,
+    "product_name": "Pluronic PE 6400",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 13600,
+    "chemicalNature": "PO-EO-block polymer - approx. 40 % polyethylene glycol in molecule",
+    "concentration": "None",
+    "cloudPoint": " 60/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": 1000,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "molarMass": 2900
+  },
+  {
+    "prd": 30044087,
+    "product_name": "Pluronic PE 8100",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 13700,
+    "chemicalNature": "PO-EO-block polymer - approx. 10 % polyethylene glycol in molecule",
+    "concentration": "None",
+    "cloudPoint": " 36/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 700,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "molarMass": 2600
+  },
+  {
+    "prd": 30044077,
+    "product_name": "Pluronic RPE 1720",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 13800,
+    "chemicalNature": "EO-PO-block polymer - approx. 20 % polyethylene glycol in molecule",
+    "concentration": "None",
+    "cloudPoint": " 37/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 450,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "molarMass": 2150
+  },
+  {
+    "prd": 30044136,
+    "product_name": "Pluronic RPE 1740",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 13900,
+    "chemicalNature": "EO-PO-block polymer - approx. 40 % polyethylene glycol in molecule",
+    "concentration": "None",
+    "cloudPoint": "51/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 600,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "molarMass": 2650
+  },
+  {
+    "prd": 30044109,
+    "product_name": "Pluronic RPE 2520",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 14000,
+    "chemicalNature": "EO-PO-block polymer - approx. 20 % polyethylene glycol in molecule",
+    "concentration": "None",
+    "cloudPoint": " 31/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 600,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "molarMass": 3100
+  },
+  {
+    "prd": 30044110,
+    "product_name": "Pluronic RPE 3110",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 205,
+            "name": "Low-foaming Nonionic Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 14100,
+    "chemicalNature": "EO-PO-block polymer - approx. 10 % polyethylene glycol in molecule",
+    "concentration": "None",
+    "cloudPoint": "25/E",
+    "hlbValue": "None",
+    "viscosityAtPascal": 600,
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "molarMass": 3500
+  },
+  {
+    "prd": 30528414,
+    "product_name": "Dehydol 980",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 206,
+            "name": "Special Surfactants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 14200,
+    "chemicalNature": "Fatty alkohol alkoxylate",
+    "concentration": "100",
+    "cloudPoint": "52/A",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 25 (40 °C)",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30044100,
+    "product_name": "Pluriol E 200",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 207,
+            "name": "Polyalkylene Glycols"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 14500,
+    "chemicalNature": "Polyethylene glycol, technical grade",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "molarMass": 200
+  },
+  {
+    "prd": 30044074,
+    "product_name": "Pluriol E 600",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 207,
+            "name": "Polyalkylene Glycols"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 14600,
+    "chemicalNature": "Polyethylene glycol, technical grade",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid/Solid",
+    "isSurfactant": true,
+    "molarMass": 600,
+    "meltingPoint": 20.0
+  },
+  {
+    "prd": 30044072,
+    "product_name": "Pluriol E 1500 E",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 207,
+            "name": "Polyalkylene Glycols"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 14700,
+    "chemicalNature": "Polyethylene glycol, technical grade",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Solid",
+    "isSurfactant": true,
+    "molarMass": 1500,
+    "meltingPoint": 45.0
+  },
+  {
+    "prd": 30044070,
+    "product_name": "Pluriol E 1500 Powder K",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 207,
+            "name": "Polyalkylene Glycols"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 14800,
+    "chemicalNature": "Polyethylene glycol, technical grade",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Powder",
+    "isSurfactant": true,
+    "molarMass": 1500,
+    "meltingPoint": 45.0
+  },
+  {
+    "prd": 30044099,
+    "product_name": "Pluriol E 1500 Flakes",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 207,
+            "name": "Polyalkylene Glycols"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 14900,
+    "chemicalNature": "Polyethylene glycol, technical grade",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Flakes",
+    "isSurfactant": true,
+    "molarMass": 1500,
+    "meltingPoint": 45.0
+  },
+  {
+    "prd": 30044102,
+    "product_name": "Pluriol E 4000",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 207,
+            "name": "Polyalkylene Glycols"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 15000,
+    "chemicalNature": "Polyethylene glycol, technical grade",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Solid",
+    "isSurfactant": true,
+    "molarMass": 4000,
+    "meltingPoint": 55.0
+  },
+  {
+    "prd": 30044135,
+    "product_name": "Pluriol E 4000 Powder",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 207,
+            "name": "Polyalkylene Glycols"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 15100,
+    "chemicalNature": "Polyethylene glycol, technical grade",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Powder",
+    "isSurfactant": true,
+    "molarMass": 4000,
+    "meltingPoint": 55.0
+  },
+  {
+    "prd": 30793518,
+    "product_name": "Pluriol E 4000 Powder EcoBalanced",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 207,
+            "name": "Polyalkylene Glycols"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 15101,
+    "chemicalNature": "Polyethylene glycol, technical grade",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Powder",
+    "isSurfactant": true,
+    "molarMass": 4000
+  },
+  {
+    "prd": 30044103,
+    "product_name": "Pluriol E 4000 Flakes",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 207,
+            "name": "Polyalkylene Glycols"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 15200,
+    "chemicalNature": "Polyethylene glycol, technical grade",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Flakes",
+    "isSurfactant": true,
+    "molarMass": 4000,
+    "meltingPoint": 55.0
+  },
+  {
+    "prd": 30044118,
+    "product_name": "Pluriol E 6000 Flakes",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 207,
+            "name": "Polyalkylene Glycols"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 15400,
+    "chemicalNature": "Polyethylene glycol, technical grade",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Flakes",
+    "isSurfactant": true,
+    "molarMass": 6000,
+    "meltingPoint": 60.0
+  },
+  {
+    "prd": 30044089,
+    "product_name": "Pluriol P 600",
+    "product_type": [
+      {
+        "id": 100,
+        "name": "Nonionic Surfactants",
+        "children": [
+          {
+            "id": 207,
+            "name": "Polyalkylene Glycols"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 15500,
+    "chemicalNature": "Polypropylene glycol",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true,
+    "molarMass": 600
+  },
+  {
+    "prd": 30528345,
+    "product_name": "Texapon N 70",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 208,
+            "name": "Fatty Alcohol Ethersulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 15600,
+    "chemicalNature": "C₁₂C₁₄-Fatty alcohol ethersulfate (2 EO), sodium salt ",
+    "concentration": "70",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30612022,
+    "product_name": "Texapon N 70/MB",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 208,
+            "name": "Fatty Alcohol Ethersulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 15700,
+    "chemicalNature": "C₁₂C₁₄-Fatty alcohol ethersulfate (2 EO), sodium salt ",
+    "concentration": "70",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30792469,
+    "product_name": "Texapon N70 X EcoBalanced",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 208,
+            "name": "Fatty Alcohol Ethersulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 15701,
+    "chemicalNature": "C₁₂C₁₄-Fatty alcohol ethersulfate (2 EO), sodium salt ",
+    "concentration": "70",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30792472,
+    "product_name": "Texapon N70 EcoBalanced",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 208,
+            "name": "Fatty Alcohol Ethersulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 4.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 15702,
+    "chemicalNature": "C₁₂C₁₄-Fatty alcohol ethersulfate (2 EO), sodium salt ",
+    "concentration": "70",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30532211,
+    "product_name": "Texapon N 701",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 208,
+            "name": "Fatty Alcohol Ethersulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 15800,
+    "chemicalNature": "C₁₂C₁₄-Fatty alcohol ethersulfate (1 EO), sodium salt ",
+    "concentration": "70",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30550486,
+    "product_name": "Texapon N 703",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 208,
+            "name": "Fatty Alcohol Ethersulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 15900,
+    "chemicalNature": "C₁₂C₁₄-Fatty alcohol ethersulfate (3 EO), sodium salt ",
+    "concentration": "70",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528429,
+    "product_name": "Texapon NSO UP",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 208,
+            "name": "Fatty Alcohol Ethersulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 16000,
+    "chemicalNature": "C₁₂C₁₄-Fatty alcohol ethersulfate (2 EO), sodium salt ",
+    "concentration": "28",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30652893,
+    "product_name": "Texapon NSO UP/MB",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 208,
+            "name": "Fatty Alcohol Ethersulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 16100,
+    "chemicalNature": "C₁₂C₁₄-Fatty alcohol ethersulfate (2 EO), sodium salt ",
+    "concentration": "28",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30531733,
+    "product_name": "Sulfopon 101 UP",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 209,
+            "name": "Fatty Alcohol Sulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 16200,
+    "chemicalNature": "C₁₂C₁₆-Fatty alcohol sulfate, sodium salt",
+    "concentration": "30",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528486,
+    "product_name": "Sulfopon 1214 G",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 209,
+            "name": "Fatty Alcohol Sulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 16300,
+    "chemicalNature": "C₁₂C₁₄-Fatty alcohol sulfate, sodium salt",
+    "concentration": "95 - 99",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Granules",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528495,
+    "product_name": "Sulfopon 1216 G",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 209,
+            "name": "Fatty Alcohol Sulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 16400,
+    "chemicalNature": "C₁₂C₁₈-Fatty alcohol sulfate, sodium salt",
+    "concentration": "90 - 95",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Granules",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528445,
+    "product_name": "Sulfopon 1218 G",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 209,
+            "name": "Fatty Alcohol Sulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 16500,
+    "chemicalNature": "C₁₂C₁₈-Fatty alcohol sulfate, sodium salt",
+    "concentration": "90 - 95",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Granules",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30535542,
+    "product_name": "Texapon 842 UP",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 209,
+            "name": "Fatty Alcohol Sulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 16700,
+    "chemicalNature": "C₈-Fatty alcohol sulfate, sodium salt",
+    "concentration": "40",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528416,
+    "product_name": "Texapon EHS",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 209,
+            "name": "Fatty Alcohol Sulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 16800,
+    "chemicalNature": "2-Ethylhexyl sulfate, sodium salt",
+    "concentration": "47",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30538628,
+    "product_name": "Texapon K 30 UP",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 209,
+            "name": "Fatty Alcohol Sulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 16900,
+    "chemicalNature": "C₁₂C₁₈-Fatty alcohol sulfate, sodium salt",
+    "concentration": "28 - 30",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid to Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30538653,
+    "product_name": "Texapon LS 30",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 209,
+            "name": "Fatty Alcohol Sulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 17000,
+    "chemicalNature": "C₁₂C₁₄-Fatty alcohol sulfate, sodium salt ",
+    "concentration": "28 - 30",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30653839,
+    "product_name": "Texapon LS 30/MB",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "id": 209,
+            "name": "Fatty Alcohol Sulfates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 17100,
+    "chemicalNature": "C₁₂C₁₄-Fatty alcohol sulfate, sodium salt ",
+    "concentration": "28 - 30",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30531675,
+    "product_name": "Maranil DBS/E",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "name": "Linear Alkyl Benzene Sulfonates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 17200,
+    "chemicalNature": "Linear C₁₀C₁₃-alkyl benzene sulfonic acid",
+    "concentration": "95",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30582787,
+    "product_name": "Maranil DBS/LC",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "name": "Linear Alkyl Benzene Sulfonates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 17300,
+    "chemicalNature": "Linear C₁₀C₁₃-alkyl benzene sulfonic acid",
+    "concentration": "95",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30529369,
+    "product_name": "Disponil LDBS 55",
+    "product_type": [
+      {
+        "id": 101,
+        "name": "Anionic Surfactants",
+        "children": [
+          {
+            "name": "Linear Alkyl Benzene Sulfonates"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 17400,
+    "chemicalNature": "Linear C₁₀C₁₃-alkyl benzene sulfonate, sodium salt",
+    "concentration": "55",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30603134,
+    "product_name": "Dehypound SK 7",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 17600,
+    "chemicalNature": "Blend of ethoxylated fatty alcohol and fatty acid",
+    "concentration": "98",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30535722,
+    "product_name": "Dehypound GL",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 17700,
+    "chemicalNature": "Blend of anionic and amphoteric surfactants ",
+    "concentration": "None",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 3500 (23°C)",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30534816,
+    "product_name": "Dehyquart CSP",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 17800,
+    "chemicalNature": "Special cationic composition",
+    "concentration": "80",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528392,
+    "product_name": "Dehyton K",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 17900,
+    "chemicalNature": "Cocoamidopropyl betaine",
+    "concentration": "30",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30544151,
+    "product_name": "Dehyton KE UP",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 18000,
+    "chemicalNature": "Cocoamidopropyl betaine",
+    "concentration": "30",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528624,
+    "product_name": "Dehyton PK 45",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 18100,
+    "chemicalNature": "Cocoamidopropyl betaine",
+    "concentration": "45",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30585286,
+    "product_name": "Dehyton PK 45 G",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 18200,
+    "chemicalNature": "Cocoamidopropyl betaine",
+    "concentration": "45",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30598533,
+    "product_name": "Dehyton PK 45 LA",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 18300,
+    "chemicalNature": "Cocoamidopropyl betaine",
+    "concentration": "45",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30787056,
+    "product_name": "Dehyton PK 45 LA X EcoBalanced",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 18301,
+    "chemicalNature": "Cocoamidopropyl betaine",
+    "concentration": "45",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30612078,
+    "product_name": "Dehyton PK 45/MB",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 18400,
+    "chemicalNature": "Cocoamidopropyl betaine",
+    "concentration": "45",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30798357,
+    "product_name": "Dehyton PK 45 X EcoBalanced",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 18401,
+    "chemicalNature": "Cocoamidopropyl betaine",
+    "concentration": "45",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30790390,
+    "product_name": "Dehyton PK 45 EcoBalanced",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 18402,
+    "chemicalNature": "Cocoamidopropyl betaine",
+    "concentration": "45",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30530830,
+    "product_name": "Dehyton PL",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 18500,
+    "chemicalNature": "Lauramine oxide",
+    "concentration": "30",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 40 (20 °C)",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30534753,
+    "product_name": "Demelan AU-39/Bio",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 18700,
+    "chemicalNature": "Blend of quaternized ethoxylated fatty oil and ethoxylated fatty amine ",
+    "concentration": "100",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30529336,
+    "product_name": "Disponil SUS IC 875",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 18800,
+    "chemicalNature": "Di-isooctyl sulfosuccinate, sodium salt",
+    "concentration": "75",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30043926,
+    "product_name": "Lutensit A-EP",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 18900,
+    "chemicalNature": "Acid phosphoric ester of a fatty alcohol ethoxylate",
+    "concentration": "100",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30528325,
+    "product_name": "Lorol Technisch",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 19000,
+    "chemicalNature": "Saturated Fatty Alcohol",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30773547,
+    "product_name": "Soluprat Dish 30",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 19101,
+    "chemicalNature": "Blend of anionic, nonionic and amphoteric surfactants",
+    "concentration": "33",
+    "hlbValue": "None",
+    "viscosityAtPascal": "25000 – 45000  [25 °C]",
+    "physicalFormAtDegrees": "Clear viscous paste",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30534831,
+    "product_name": "Soluprat Laundry",
+    "product_type": [
+      {
+        "id": 102,
+        "name": "Other Surfactants",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 19102,
+    "chemicalNature": "Blend of ethoxylated fatty alcohol and Alkyl polyglucosides",
+    "concentration": "70",
+    "hlbValue": "None",
+    "viscosityAtPascal": "1000 [20 °C]",
+    "physicalFormAtDegrees": "Liquid",
+    "isSurfactant": true
+  },
+  {
+    "prd": 30516313,
+    "product_name": "Sokalan HP 20",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 19200,
+    "chemicalNature": "Multifunctional polyethylene imine",
+    "concentration": "80",
+    "hlbValue": "None",
+    "viscosityAtPascal": "850 ",
+    "isSokalan": true,
+    "density": "1.12 ",
+    "phValue": "10",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30774948,
+    "product_name": "Sokalan HP 20 EcoBalanced",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 19210,
+    "chemicalNature": "Multifunctional polyethylene imine",
+    "concentration": "81",
+    "hlbValue": "None",
+    "viscosityAtPascal": "850 ",
+    "isSokalan": true,
+    "density": "1.12 ",
+    "phValue": "10",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30042845,
+    "product_name": "Sokalan HP 25",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 19220,
+    "chemicalNature": "Polycarboxylate, modified",
+    "concentration": "45",
+    "hlbValue": "None",
+    "viscosityAtPascal": "10000",
+    "isSokalan": true,
+    "density": "1.10",
+    "molarMass": "3 000 ",
+    "phValue": "7.5",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30176872,
+    "product_name": "Sokalan HP 96",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 19230,
+    "chemicalNature": "Multifunctional diamine",
+    "concentration": "70",
+    "hlbValue": "None",
+    "viscosityAtPascal": "350 (20 °C)",
+    "isSokalan": true,
+    "density": "1.13 ",
+    "phValue": "9.5",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30741844,
+    "product_name": "Sokalan SR 400 A",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 19231,
+    "chemicalNature": "Aqueous acrylic copolymer solution",
+    "concentration": "31",
+    "hlbValue": "None",
+    "viscosityAtPascal": " 50 (50 °C)",
+    "density": "1.06",
+    "phValue": "4",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30042761,
+    "product_name": "Sokalan CP 5",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 19240,
+    "chemicalNature": "Maleic acid/acrylic acid copolymer, sodium salt",
+    "concentration": "40",
+    "hlbValue": "None",
+    "viscosityAtPascal": "2000",
+    "isSokalan": true,
+    "density": " 1.30",
+    "molarMass": "50 000",
+    "phValue": 8,
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30774962,
+    "product_name": "Sokalan CP 5 EcoBalanced",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 19250,
+    "chemicalNature": "Maleic acid/acrylic acid copolymer, sodium salt",
+    "concentration": "40",
+    "hlbValue": "None",
+    "viscosityAtPascal": "2000",
+    "isSokalan": true,
+    "density": " 1.30",
+    "molarMass": "50 000",
+    "phValue": 8,
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30042797,
+    "product_name": "Sokalan CP 5 Granules",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 19300,
+    "chemicalNature": "Maleic acid/acrylic acid copolymer, sodium salt",
+    "concentration": "92",
+    "hlbValue": "None",
+    "isSokalan": true,
+    "molarMass": "50 000",
+    "bulkDensity": 580.0,
+    "phValue": 8,
+    "physicalForm": "Granules"
+  },
+  {
+    "prd": 30042767,
+    "product_name": "Sokalan CP 45 Granules",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 19400,
+    "chemicalNature": "Maleic acid/acrylic acid copolymer, sodium salt",
+    "concentration": "92",
+    "hlbValue": "None",
+    "isSokalan": true,
+    "molarMass": "50 000",
+    "bulkDensity": 560.0,
+    "phValue": 4,
+    "physicalForm": "Granules",
+    "additionalInformation": "* = partially neutralized"
+  },
+  {
+    "prd": 30042817,
+    "product_name": "Sokalan CP 7 Granules NL",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 19600,
+    "chemicalNature": "Maleic acid/acrylic acid copolymer, sodium salt",
+    "concentration": "92",
+    "hlbValue": "None",
+    "isSokalan": true,
+    "molarMass": "50 000",
+    "bulkDensity": 660.0,
+    "phValue": 8,
+    "physicalForm": "Granules"
+  },
+  {
+    "prd": 30042823,
+    "product_name": "Sokalan CP 9",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 19700,
+    "chemicalNature": "Maleic acid/olefin copolymer, sodium salt",
+    "concentration": "25",
+    "hlbValue": "None",
+    "viscosityAtPascal": "250",
+    "isSokalan": true,
+    "density": " 1.11",
+    "molarMass": "12 000",
+    "phValue": "11",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30596022,
+    "product_name": "Sokalan CP 9 Powder",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 19800,
+    "chemicalNature": "Maleic acid/olefin copolymer, sodium salt",
+    "concentration": "89",
+    "hlbValue": "None",
+    "isSokalan": true,
+    "bulkDensity": 450.0,
+    "phValue": "11",
+    "physicalForm": "Powder"
+  },
+  {
+    "prd": 30051448,
+    "product_name": "Sokalan CP 10",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 19900,
+    "chemicalNature": "Polyacrylic acid, modified, sodium salt ",
+    "concentration": "45",
+    "hlbValue": "None",
+    "viscosityAtPascal": "500",
+    "isSokalan": true,
+    "density": "1.30",
+    "molarMass": "3 500",
+    "phValue": "  8.5*",
+    "physicalForm": "Liquid",
+    "additionalInformation": "* = undiluted, DIN 19268"
+  },
+  {
+    "prd": 30042757,
+    "product_name": "Sokalan CP 10 S",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 20000,
+    "chemicalNature": "Polyacrylic acid, modified",
+    "concentration": "50",
+    "hlbValue": "None",
+    "viscosityAtPascal": "150",
+    "isSokalan": true,
+    "density": "1.16",
+    "molarMass": " 4 000",
+    "phValue": "2",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30042760,
+    "product_name": "Sokalan CP 12 S",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 20100,
+    "chemicalNature": "Maleic acid/acrylic acid copolymer",
+    "concentration": "50",
+    "hlbValue": "None",
+    "viscosityAtPascal": "130",
+    "isSokalan": true,
+    "density": "1.23",
+    "molarMass": " 3 000",
+    "phValue": "1.5",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30042758,
+    "product_name": "Sokalan CP 13 S",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 20200,
+    "chemicalNature": "Polyacrylic acid, modified",
+    "concentration": "25",
+    "hlbValue": "None",
+    "viscosityAtPascal": "200",
+    "isSokalan": true,
+    "density": "1.20  ",
+    "molarMass": "20 000",
+    "phValue": "2",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30364774,
+    "product_name": "Sokalan CP 50",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 20300,
+    "chemicalNature": "Polycarboxylate, modified, sodium salt",
+    "concentration": "40",
+    "hlbValue": "None",
+    "viscosityAtPascal": "350",
+    "isSokalan": true,
+    "density": "1.20",
+    "phValue": "5",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30361826,
+    "product_name": "Sokalan CP 50 Granules",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 20400,
+    "chemicalNature": "Polycarboxylate, modified, sodium salt",
+    "concentration": "90",
+    "hlbValue": "None",
+    "isSokalan": true,
+    "bulkDensity": 600.0,
+    "phValue": "5",
+    "physicalForm": "Granules"
+  },
+  {
+    "prd": 30042858,
+    "product_name": "Sokalan PA 15",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 20500,
+    "chemicalNature": "Polyacrylic acid, sodium salt",
+    "concentration": "45",
+    "hlbValue": "None",
+    "viscosityAtPascal": "230",
+    "isSokalan": true,
+    "density": "1.31",
+    "molarMass": "1 200",
+    "phValue": "7",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30042864,
+    "product_name": "Sokalan PA 25 CL Granules",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 20600,
+    "chemicalNature": "Polyacrylic acid, sodium salt",
+    "concentration": "92",
+    "hlbValue": "None",
+    "isSokalan": true,
+    "molarMass": "4 000",
+    "bulkDensity": 600.0,
+    "phValue": 8,
+    "physicalForm": "Granules"
+  },
+  {
+    "prd": 30783601,
+    "product_name": "Sokalan PA 25 CL EcoBalanced Gran",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 20601,
+    "chemicalNature": "Polyacrylic acid, sodium salt",
+    "concentration": "92",
+    "hlbValue": "None",
+    "molarMass": "4 000",
+    "bulkDensity": 600.0,
+    "phValue": 8,
+    "physicalForm": "Granules"
+  },
+  {
+    "prd": 30042865,
+    "product_name": "Sokalan PA 25 CL PN",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 20700,
+    "chemicalNature": "Polyacrylic acid, sodium salt",
+    "concentration": "49",
+    "hlbValue": "None",
+    "viscosityAtPascal": "600",
+    "isSokalan": true,
+    "density": "1.25",
+    "molarMass": "4 000",
+    "phValue": 4,
+    "physicalForm": "Liquid",
+    "additionalInformation": "* = partially neutralized"
+  },
+  {
+    "prd": 30042885,
+    "product_name": "Sokalan PA 30 CL",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 20800,
+    "chemicalNature": "Polyacrylic acid, sodium salt",
+    "concentration": "45",
+    "hlbValue": "None",
+    "viscosityAtPascal": "1000",
+    "isSokalan": true,
+    "density": "1.34",
+    "molarMass": "8 500",
+    "phValue": 8,
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30042868,
+    "product_name": "Sokalan PA 30 CL Granules",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 20900,
+    "chemicalNature": "Polyacrylic acid, sodium salt",
+    "concentration": "92",
+    "hlbValue": "None",
+    "isSokalan": true,
+    "molarMass": "8 000",
+    "bulkDensity": 620.0,
+    "phValue": 8,
+    "physicalForm": "Granules"
+  },
+  {
+    "prd": 30162710,
+    "product_name": "Sokalan PA 30 CL PN Granules",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 21000,
+    "chemicalNature": "Polyacrylic acid, sodium salt",
+    "concentration": "93",
+    "hlbValue": "None",
+    "isSokalan": true,
+    "molarMass": "8 000",
+    "bulkDensity": 620.0,
+    "phValue": "4",
+    "physicalForm": "Granules",
+    "additionalInformation": "* = partially neutralized"
+  },
+  {
+    "prd": 30806665,
+    "product_name": "Sokalan Ecopure C",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Dispersing Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 21001,
+    "chemicalNature": "Polyaspartic acid, sodium salt",
+    "concentration": "93",
+    "hlbValue": "None",
+    "isSokalan": true,
+    "molarMass": "6 500",
+    "bulkDensity": 580.0,
+    "phValue": "7",
+    "physicalForm": "Granules"
+  },
+  {
+    "prd": 30712211,
+    "product_name": "Polyquart 149 A",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Surface Care Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 21200,
+    "chemicalNature": "Acrylic copolymer, sodium salt",
+    "concentration": "22",
+    "hlbValue": "None",
+    "viscosityAtPascal": "250",
+    "density": "1.05",
+    "phValue": "6.5*",
+    "physicalForm": "Liquid",
+    "additionalInformation": "* = undiluted, DIN 19268"
+  },
+  {
+    "prd": 30539214,
+    "product_name": "Polyquart Pro A",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Surface Care Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 21300,
+    "chemicalNature": "Acrylic copolymer, sodium salt",
+    "concentration": "22 ",
+    "hlbValue": "None",
+    "viscosityAtPascal": "250",
+    "density": "1.03",
+    "phValue": "6.5*",
+    "physicalForm": "Liquid",
+    "additionalInformation": "* = undiluted, DIN 19268"
+  },
+  {
+    "prd": 30537497,
+    "product_name": "Polyquart Ecoclean",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Surface Care Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 21400,
+    "chemicalNature": "Amphoteric modified starch",
+    "concentration": "22",
+    "hlbValue": "None",
+    "viscosityAtPascal": "10",
+    "density": "1.10",
+    "phValue": "5.6*",
+    "physicalForm": "Liquid",
+    "additionalInformation": "* = undiluted, DIN 19268"
+  },
+  {
+    "prd": 30659289,
+    "product_name": "Polyquart S Granules",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Surface Care Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 21500,
+    "chemicalNature": "Amphoteric modified starch",
+    "concentration": "97",
+    "hlbValue": "None",
+    "bulkDensity": 650.0,
+    "phValue": " 7",
+    "physicalForm": "Granules"
+  },
+  {
+    "prd": 30693069,
+    "product_name": "Polyquart PN 60",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Surface Care Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 21600,
+    "chemicalNature": "Polyethylene imine, modified",
+    "concentration": "40",
+    "hlbValue": "None",
+    "viscosityAtPascal": "500",
+    "density": "1.13",
+    "phValue": "4",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30535618,
+    "product_name": "Polyquart SD 09",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Surface Care Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 21700,
+    "chemicalNature": "Cationic copolymer",
+    "concentration": "9",
+    "hlbValue": "None",
+    "viscosityAtPascal": "8500",
+    "density": "1.06 ",
+    "phValue": "6.5",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30051450,
+    "product_name": "Sokalan HP 53",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Color Care Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 22000,
+    "chemicalNature": "Polyvinylpyrrolidone",
+    "concentration": "30",
+    "hlbValue": "None",
+    "viscosityAtPascal": "120",
+    "isSokalan": true,
+    "density": "1.07",
+    "molarMass": "40 000",
+    "phValue": "6",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30057654,
+    "product_name": "Sokalan HP 165",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Color Care Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 22100,
+    "chemicalNature": "Polyvinylpyrrolidone",
+    "concentration": "30",
+    "hlbValue": "None",
+    "viscosityAtPascal": "20",
+    "isSokalan": true,
+    "density": "1.06",
+    "molarMass": "9 000",
+    "phValue": "4*",
+    "physicalForm": "Liquid",
+    "additionalInformation": "* = undiluted, DIN 19268"
+  },
+  {
+    "prd": 30731623,
+    "product_name": "Sokalan HP 56 A",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Color Care Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 22200,
+    "chemicalNature": "Vinylpyrrolidone/Vinylimidazole copolymer",
+    "concentration": "30",
+    "hlbValue": "None",
+    "viscosityAtPascal": "300",
+    "isSokalan": true,
+    "density": "1.07",
+    "molarMass": "70 000",
+    "phValue": "8",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30774996,
+    "product_name": "Sokalan HP 56 A EcoBalanced",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Color Care Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 22210,
+    "chemicalNature": "Vinylpyrrolidone/Vinylimidazole copolymer",
+    "concentration": "30",
+    "hlbValue": "None",
+    "viscosityAtPascal": "300",
+    "isSokalan": true,
+    "density": "1.07",
+    "molarMass": "70 000",
+    "phValue": "8",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30064507,
+    "product_name": "Sokalan HP 56 Granules",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Color Care Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 22300,
+    "chemicalNature": "Vinylpyrrolidone/Vinylimidazole copolymer",
+    "concentration": "95",
+    "hlbValue": "None",
+    "isSokalan": true,
+    "molarMass": "70 000",
+    "bulkDensity": 450.0,
+    "phValue": "8",
+    "physicalForm": "Granules"
+  },
+  {
+    "prd": 30754975,
+    "product_name": "Sokalan HP 66 A",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "name": "Color Care Ingredients"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 22400,
+    "chemicalNature": "Vinylpyrrolidone/Vinylimidazole copolymer, modified",
+    "concentration": "41",
+    "hlbValue": "None",
+    "viscosityAtPascal": "2000",
+    "isSokalan": true,
+    "density": "1.09",
+    "phValue": "8",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30506387,
+    "product_name": "Rheovis AT 120",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "id": 215,
+            "name": "Thickeners"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 22700,
+    "chemicalNature": "Methacrylic acid/acrylic acid ester copolymer, modified",
+    "concentration": "30",
+    "hlbValue": "None",
+    "viscosityAtPascal": "30",
+    "isRheovis": true,
+    "density": "1.05",
+    "phValue": 3,
+    "physicalForm": "Dispersion",
+    "additionalInformation": "all Polymer data are to be seen as approximately values"
+  },
+  {
+    "prd": 30481990,
+    "product_name": "Rheovis CSP",
+    "product_type": [
+      {
+        "name": "Performance Boosters",
+        "children": [
+          {
+            "id": 215,
+            "name": "Thickeners"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 23000,
+    "chemicalNature": "Polyacrylamide, cationically modified",
+    "concentration": "100",
+    "hlbValue": "None",
+    "isRheovis": true,
+    "bulkDensity": 800.0,
+    "phValue": "4",
+    "physicalForm": "Granules",
+    "additionalInformation": "all Polymer data are to be seen as approximately values"
+  },
+  {
+    "prd": 30043452,
+    "product_name": "Trilon BD",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 23200,
+    "chemicalNature": "Disodium salt of Ethylenediaminetetraacetic acid (EDTA) ",
+    "concentration": "≥ 89",
+    "hlbValue": "None",
+    "bulkDensity": 950.0,
+    "phValueAtWater": 4.5,
+    "physicalForm": "Powder"
+  },
+  {
+    "prd": 30043499,
+    "product_name": "Trilon B liquid",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 23300,
+    "chemicalNature": "Tetrasodium salt of EDTA",
+    "concentration": " 40",
+    "hlbValue": "None",
+    "phValueAtWater": 11.5,
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30043442,
+    "product_name": "Trilon B Powder",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 23400,
+    "chemicalNature": "Tetrasodium salt of EDTA",
+    "concentration": "87",
+    "hlbValue": "None",
+    "bulkDensity": 700.0,
+    "phValueAtWater": 11.5,
+    "physicalForm": "Powder"
+  },
+  {
+    "prd": 30043449,
+    "product_name": "Trilon BS",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 23500,
+    "chemicalNature": "Ethylenediaminetetraacetic acid ",
+    "concentration": " 99",
+    "hlbValue": "None",
+    "bulkDensity": 820.0,
+    "phValueAtWater": 2.8,
+    "physicalForm": "Powder"
+  },
+  {
+    "prd": 30043447,
+    "product_name": "Trilon BX Liquid",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 23600,
+    "chemicalNature": "Tetrasodium salt of EDTA",
+    "concentration": "40",
+    "hlbValue": "None",
+    "phValueAtWater": 11.5,
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30043448,
+    "product_name": "Trilon BX Powder",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 23700,
+    "chemicalNature": "Tetrasodium salt of EDTA",
+    "concentration": "84",
+    "hlbValue": "None",
+    "bulkDensity": 845.0,
+    "phValueAtWater": 11.2,
+    "physicalForm": "Powder"
+  },
+  {
+    "prd": 30043459,
+    "product_name": "Trilon M Liquid",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 23800,
+    "chemicalNature": "Trisodium salt of Methylglycinediacetic acid (MGDA)",
+    "concentration": " 40",
+    "hlbValue": "None",
+    "phValueAtWater": 11.0,
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30783190,
+    "product_name": "Trilon M Liquid EcoBalanced",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 23801,
+    "chemicalNature": "Trisodium salt of Methylglycinediacetic acid (MGDA)",
+    "concentration": " 40",
+    "hlbValue": "None",
+    "phValueAtWater": 11.0,
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30215074,
+    "product_name": "Trilon M Powder",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 23900,
+    "chemicalNature": "Trisodium salt of Methylglycinediacetic acid (MGDA)",
+    "concentration": " 87",
+    "hlbValue": "None",
+    "bulkDensity": 750.0,
+    "phValueAtWater": 11.2,
+    "physicalForm": "Powder"
+  },
+  {
+    "prd": 30742096,
+    "product_name": "Trilon M Max BioBased L",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 24200,
+    "chemicalNature": "Trisodium salt of Methylglycinediacetic acid (MGDA)",
+    "concentration": "40",
+    "hlbValue": "None",
+    "phValueAtWater": 11.0,
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30513095,
+    "product_name": "Trilon M Max BioBased Gran",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 99999,
+    "chemicalNature": "Trisodium salt of Methylglycinediacetic acid (MGDA)",
+    "concentration": "81",
+    "hlbValue": "None",
+    "bulkDensity": 790.0,
+    "phValueAtWater": 11.4,
+    "physicalForm": "Granules"
+  },
+  {
+    "prd": 30742141,
+    "product_name": "Trilon M Max EcoBalanced",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 24300,
+    "chemicalNature": "Trisodium salt of Methylglycinediacetic acid (MGDA)",
+    "concentration": "40",
+    "hlbValue": "None",
+    "phValueAtWater": 11.0,
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30770097,
+    "product_name": "Trilon M Max EcoBalanced Gran",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 24400,
+    "chemicalNature": "Trisodium salt of Methylglycinediacetic acid (MGDA)",
+    "concentration": "81",
+    "hlbValue": "None",
+    "bulkDensity": 790.0,
+    "phValueAtWater": 11.4,
+    "physicalForm": "Granules"
+  },
+  {
+    "prd": 30641136,
+    "product_name": "Trilon Ultimate 1 G",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 24700,
+    "chemicalNature": "Preparation based on Trisodium salt of MGDA",
+    "concentration": "77",
+    "hlbValue": "None",
+    "bulkDensity": 760.0,
+    "phValueAtWater": 11.5,
+    "physicalForm": "Granules"
+  },
+  {
+    "prd": 30650394,
+    "product_name": "Trilon Ultimate 2 G",
+    "product_type": [
+      {
+        "id": 104,
+        "name": "Chelating Agents",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 24800,
+    "chemicalNature": "Preparation based on Trisodium salt of MGDA",
+    "concentration": "82",
+    "hlbValue": "None",
+    "bulkDensity": 780.0,
+    "phValueAtWater": 11.4,
+    "physicalForm": "Granules"
+  },
+  {
+    "prd": 30043915,
+    "product_name": "Korantin MAT",
+    "product_type": [
+      {
+        "id": 105,
+        "name": "Metal Surface Treatment",
+        "children": [
+          {
+            "id": 216,
+            "name": "Corrosion Inhibitors"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 24900,
+    "chemicalNature": "Aliphatic dicarboxylic acid monoalkylamide in triethanolamine",
+    "concentration": "100",
+    "hlbValue": "None",
+    "phValue": "8.5 (5% in water)",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30512106,
+    "product_name": "Korantin TC-SH",
+    "product_type": [
+      {
+        "id": 105,
+        "name": "Metal Surface Treatment",
+        "children": [
+          {
+            "id": 216,
+            "name": "Corrosion Inhibitors"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 24901,
+    "chemicalNature": "Oleoyl sarcosine in acidic form ",
+    "concentration": "100",
+    "hlbValue": "None",
+    "phValue": "4 (1% in water)",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30096873,
+    "product_name": "Lutropur MSA",
+    "product_type": [
+      {
+        "name": "Acids",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 25200,
+    "chemicalNature": "Methanesulfonic acid in water",
+    "concentration": "~  70",
+    "hlbValue": "None",
+    "physicalForm": "Liquid",
+    "additionalInformation": "*All data marked with ~ are to be seen as approximately values "
+  },
+  {
+    "prd": 30653175,
+    "product_name": "Luvipur FM 75",
+    "product_type": [
+      {
+        "name": "Acids",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 25300,
+    "chemicalNature": "Formic acid",
+    "concentration": "~  75",
+    "hlbValue": "None",
+    "physicalForm": "Liquid",
+    "additionalInformation": "*All data marked with ~ are to be seen as approximately values "
+  },
+  {
+    "prd": 30602853,
+    "product_name": "Luvipur FM 85",
+    "product_type": [
+      {
+        "name": "Acids",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 25400,
+    "chemicalNature": "Formic acid",
+    "concentration": "~  85",
+    "hlbValue": "None",
+    "physicalForm": "Liquid",
+    "additionalInformation": "*All data marked with ~ are to be seen as approximately values "
+  },
+  {
+    "prd": 30042792,
+    "product_name": "Sokalan DCS",
+    "product_type": [
+      {
+        "name": "Acids",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 25600,
+    "chemicalNature": "Mixture of dicarboxylic acids",
+    "concentration": "~  99",
+    "hlbValue": "None",
+    "isSokalan": true,
+    "physicalForm": "Flakes",
+    "additionalInformation": "*All data marked with ~ are to be seen as approximately values "
+  },
+  {
+    "prd": 30212030,
+    "product_name": "Protectol BN",
+    "product_type": [
+      {
+        "id": 107,
+        "name": "Biocides",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 25700,
+    "chemicalNature": "Bronopol",
+    "concentration": "None",
+    "hlbValue": "None",
+    "casNumber": "52-51-7",
+    "physicalForm": "Solid"
+  },
+  {
+    "prd": 30653164,
+    "product_name": "Protectol FM 75",
+    "product_type": [
+      {
+        "id": 107,
+        "name": "Biocides",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 25800,
+    "chemicalNature": "Formic acid",
+    "concentration": "None",
+    "hlbValue": "None",
+    "casNumber": "64-18-6 ",
+    "physicalForm": "Liquid",
+    "additionalInformation": "*All data marked with ~ are to be seen as approximately values "
+  },
+  {
+    "prd": 30335200,
+    "product_name": "Protectol FM 85",
+    "product_type": [
+      {
+        "id": 107,
+        "name": "Biocides",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 25900,
+    "chemicalNature": "Formic acid",
+    "concentration": "None",
+    "hlbValue": "None",
+    "casNumber": "64-18-6",
+    "physicalForm": "Liquid",
+    "additionalInformation": "*All data marked with ~ are to be seen as approximately values "
+  },
+  {
+    "prd": 30059034,
+    "product_name": "Protectol GA 24",
+    "product_type": [
+      {
+        "id": 107,
+        "name": "Biocides",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 26100,
+    "chemicalNature": "Glutaraldehyde",
+    "concentration": "None",
+    "hlbValue": "None",
+    "casNumber": "111-30-8",
+    "physicalForm": "Liquid",
+    "additionalInformation": "*All data marked with ~ are to be seen as approximately values "
+  },
+  {
+    "prd": 30136889,
+    "product_name": "Protectol GA 50",
+    "product_type": [
+      {
+        "id": 107,
+        "name": "Biocides",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 26300,
+    "chemicalNature": "Glutaraldehyde",
+    "concentration": "None",
+    "hlbValue": "None",
+    "casNumber": "111-30-8",
+    "physicalForm": "Liquid",
+    "additionalInformation": "*All data marked with ~ are to be seen as approximately values "
+  },
+  {
+    "prd": 30649412,
+    "product_name": "Protectol GA 50 AS",
+    "product_type": [
+      {
+        "id": 107,
+        "name": "Biocides",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 26400,
+    "chemicalNature": "Glutaraldehyde",
+    "concentration": "None",
+    "hlbValue": "None",
+    "casNumber": "111-30-8",
+    "physicalForm": "Liquid",
+    "additionalInformation": "*All data marked with ~ are to be seen as approximately values "
+  },
+  {
+    "prd": 30649410,
+    "product_name": "Protectol GA 50 non BPR",
+    "product_type": [
+      {
+        "id": 107,
+        "name": "Biocides",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 26500,
+    "chemicalNature": "Glutaraldehyde",
+    "concentration": "None",
+    "hlbValue": "None",
+    "casNumber": "111-30-8",
+    "physicalForm": "Liquid",
+    "additionalInformation": "*All data marked with ~ are to be seen as approximately values "
+  },
+  {
+    "prd": 30136891,
+    "product_name": "Protectol GL",
+    "product_type": [
+      {
+        "id": 107,
+        "name": "Biocides",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 26600,
+    "chemicalNature": "Glyoxal",
+    "concentration": "None",
+    "hlbValue": "None",
+    "casNumber": "107-22-2",
+    "physicalForm": "Liquid",
+    "additionalInformation": "*All data marked with ~ are to be seen as approximately values "
+  },
+  {
+    "prd": 30599558,
+    "product_name": "Protectol NP S",
+    "product_type": [
+      {
+        "id": 107,
+        "name": "Biocides",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 26800,
+    "chemicalNature": "n-Propanol",
+    "concentration": "None",
+    "hlbValue": "None",
+    "casNumber": "71-23-8",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30063180,
+    "product_name": "Protectol PE",
+    "product_type": [
+      {
+        "id": 107,
+        "name": "Biocides",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 26900,
+    "chemicalNature": "Phenoxyethanol",
+    "concentration": "None",
+    "hlbValue": "None",
+    "casNumber": "122-99-6",
+    "physicalForm": "Liquid"
+  },
+  {
+    "prd": 30483576,
+    "product_name": "Tinosan HP 100",
+    "product_type": [
+      {
+        "id": 107,
+        "name": "Biocides",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 27000,
+    "chemicalNature": "Dichlorohydroxydiphenylether (DCPP)",
+    "concentration": "None",
+    "hlbValue": "None",
+    "casNumber": "3380-30-1",
+    "physicalForm": "Liquid",
+    "additionalInformation": "*All data marked with ~ are to be seen as approximately values "
+  },
+  {
+    "prd": 30517297,
+    "product_name": "Tinogard DA",
+    "product_type": [
+      {
+        "name": "Optical Effect Products and Stabilizers",
+        "children": [
+          {
+            "name": "Antioxidants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 27100,
+    "chemicalNature": "Thiodipropionate ester",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalForm": "Flakes   "
+  },
+  {
+    "prd": 30483790,
+    "product_name": "Tinogard TT",
+    "product_type": [
+      {
+        "name": "Optical Effect Products and Stabilizers",
+        "children": [
+          {
+            "name": "Antioxidants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 27200,
+    "chemicalNature": " Phenolic antioxidant ",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalForm": "Powder"
+  },
+  {
+    "prd": 30484864,
+    "product_name": "Tinogard TS",
+    "product_type": [
+      {
+        "name": "Optical Effect Products and Stabilizers",
+        "children": [
+          {
+            "name": "Antioxidants"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 27300,
+    "chemicalNature": " Phenolic antioxidant ",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalForm": "Fine granules"
+  },
+  {
+    "prd": 30482052,
+    "product_name": "Tinogard Q",
+    "product_type": [
+      {
+        "name": "Optical Effect Products and Stabilizers",
+        "children": [
+          {
+            "name": "Excited State Quenchers (for light stabilization)"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 27400,
+    "chemicalNature": " Hindered amine light stabilizer",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalForm": "Yellowish to orange liquid"
+  },
+  {
+    "prd": 30475071,
+    "product_name": "Tinopal CBS-X",
+    "product_type": [
+      {
+        "name": "Optical Effect Products and Stabilizers",
+        "children": [
+          {
+            "name": "Fluorescent Whitening Agents (FWAs)"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 27500,
+    "chemicalNature": "Distyryl biphenyl derivative",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalForm": "Free flowing granules"
+  },
+  {
+    "prd": 30475200,
+    "product_name": "Tinopal CBS SP Slurry 33",
+    "product_type": [
+      {
+        "name": "Optical Effect Products and Stabilizers",
+        "children": [
+          {
+            "name": "Fluorescent Whitening Agents (FWAs)"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 27600,
+    "chemicalNature": "Distyryl biphenyl derivative",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalForm": "Flowable suspension"
+  },
+  {
+    "prd": 30485516,
+    "product_name": "Tinopal CBS-CL",
+    "product_type": [
+      {
+        "name": "Optical Effect Products and Stabilizers",
+        "children": [
+          {
+            "name": "Fluorescent Whitening Agents (FWAs)"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 27700,
+    "chemicalNature": "Distyryl biphenyl derivative",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalForm": "Clear solution"
+  },
+  {
+    "prd": 30482021,
+    "product_name": "Tinogard HS",
+    "product_type": [
+      {
+        "name": "Optical Effect Products and Stabilizers",
+        "children": [
+          {
+            "name": "UV-Light Stabilizers"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 28300,
+    "chemicalNature": "Sulfonated benzotriazole",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalForm": "White powder"
+  },
+  {
+    "prd": 30483522,
+    "product_name": "Tinogard TL",
+    "product_type": [
+      {
+        "name": "Optical Effect Products and Stabilizers",
+        "children": [
+          {
+            "name": "UV-Light Stabilizers"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 28400,
+    "chemicalNature": "Benzotriazole derivative ",
+    "concentration": "None",
+    "hlbValue": "None",
+    "physicalForm": "Yellowish liquid"
+  },
+  {
+    "prd": 30773892,
+    "product_name": "Lavergy C Bright 100 L",
+    "product_type": [
+      {
+        "name": "Enzymes",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 2.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 28500,
+    "chemicalNature": "Cellulase preparation",
+    "concentration": "None",
+    "hlbValue": "None",
+    "phValue": "5 - 7",
+    "physicalForm": "Clear amber solution  ",
+    "additionalInformation": "*BCU= BASF Cellulase Unit / BPU =  BASF Protease Unit /BMU = BASF Mannanase Unit"
+  },
+  {
+    "prd": 30765358,
+    "product_name": "Lavergy Pro 106 L",
+    "product_type": [
+      {
+        "name": "Enzymes",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 28800,
+    "chemicalNature": "Protease preparation",
+    "concentration": "None",
+    "hlbValue": "None",
+    "phValue": "5 - 7",
+    "physicalForm": "Clear yellowish liquid",
+    "additionalInformation": "*BCU= BASF Cellulase Unit / BPU =  BASF Protease Unit /BMU = BASF Mannanase Unit"
+  },
+  {
+    "prd": 30765137,
+    "product_name": "Lavergy Pro 106 LS",
+    "product_type": [
+      {
+        "name": "Enzymes",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 28900,
+    "chemicalNature": "Protease preparation",
+    "concentration": "None",
+    "hlbValue": "None",
+    "phValue": "7 - 9 ",
+    "physicalForm": "Clear yellowish liquid ",
+    "additionalInformation": "*BCU= BASF Cellulase Unit / BPU =  BASF Protease Unit /BMU = BASF Mannanase Unit"
+  },
+  {
+    "prd": 30761951,
+    "product_name": "Lavergy Pro 114 LS",
+    "product_type": [
+      {
+        "name": "Enzymes",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 1.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 29000,
+    "chemicalNature": "Protease preparation",
+    "concentration": "None",
+    "hlbValue": "None",
+    "phValue": "5 - 7",
+    "physicalForm": "Clear yellowish liquid ",
+    "additionalInformation": "*BCU= BASF Cellulase Unit / BPU =  BASF Protease Unit /BMU = BASF Mannanase Unit"
+  },
+  {
+    "prd": 30000000,
+    "product_name": "Lavergy M Ace 100 L",
+    "product_type": [
+      {
+        "name": "Enzymes",
+        "children": [
+          {}
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": true,
+      "rspo": true
+    },
+    "sortNumber": 29001,
+    "chemicalNature": "Mannanase",
+    "concentration": "None",
+    "hlbValue": "None",
+    "phValue": "6 - 8",
+    "physicalForm": "Clear yellowish liquid ",
+    "additionalInformation": "*BCU= BASF Cellulase Unit / BPU =  BASF Protease Unit /BMU = BASF Mannanase Unit"
+  },
+  {
+    "prd": 30043729,
+    "product_name": "Poligen Wax V Flakes",
+    "product_type": [
+      {
+        "id": 110,
+        "name": "Waxes and Wax Emulsions",
+        "children": [
+          {
+            "id": 221,
+            "name": "Polyether Wax"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 29100,
+    "chemicalNature": "Polyvinyl ether wax",
+    "concentration": "None",
+    "hlbValue": "None",
+    "acidNumber": 0.0,
+    "ballHardness": "28 - 32"
+  },
+  {
+    "prd": 30043787,
+    "product_name": "Poligen WE 1",
+    "product_type": [
+      {
+        "id": 110,
+        "name": "Waxes and Wax Emulsions",
+        "children": [
+          {
+            "id": 222,
+            "name": "Wax Emulsions"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 29200,
+    "chemicalNature": "Oxidized polyethylene wax",
+    "concentration": "None",
+    "hlbValue": "None",
+    "solidsContent": "34 - 35"
+  },
+  {
+    "prd": 30043786,
+    "product_name": "Poligen WE 3",
+    "product_type": [
+      {
+        "id": 110,
+        "name": "Waxes and Wax Emulsions",
+        "children": [
+          {
+            "id": 222,
+            "name": "Wax Emulsions"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 29300,
+    "chemicalNature": "Ethylene copolymer wax ",
+    "concentration": "None",
+    "hlbValue": "None",
+    "solidsContent": "24 - 26",
+    "additionalInformation": "* = DIN EN ISO cup 5 mm (23 °C)"
+  },
+  {
+    "prd": 30057498,
+    "product_name": "Poligen WE 6",
+    "product_type": [
+      {
+        "id": 110,
+        "name": "Waxes and Wax Emulsions",
+        "children": [
+          {
+            "id": 222,
+            "name": "Wax Emulsions"
+          }
+        ]
+      }
+    ],
+    "sustainability": {
+      "bioBased": 3.0,
+      "bioDegradable": false,
+      "rspo": true
+    },
+    "sortNumber": 29400,
+    "chemicalNature": "Oxidized polyethylene wax",
+    "concentration": "None",
+    "hlbValue": "None",
+    "solidsContent": "33 - 36"
+  }
+]

@@ -1,0 +1,69 @@
+import groovy.xml.XmlSlurper
+import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
+
+buildscript {
+    ext.kotlin_version = '1.9.10'
+    repositories {
+
+        maven { url 'https://maven.aliyun.com/repository/central' }
+        maven { url 'https://maven.aliyun.com/repository/gradle-plugin' }
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        google()
+       mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.1.2'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+allprojects {
+    repositories {
+        maven { url 'https://maven.aliyun.com/repository/central' }
+        maven { url 'https://maven.aliyun.com/repository/gradle-plugin' }
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.buildDir = '../build'
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+    afterEvaluate {
+        if (it.hasProperty('android')) {
+
+            if (it.android.namespace == null) {
+                def manifest = new XmlSlurper()
+                        .parse(file(it.android.sourceSets.main.manifest.srcFile))
+                def packageName = manifest.@package.text()
+                println("Upgrading ${packageName} to gradle 8")
+                android.namespace = packageName
+            }
+
+            def javaVersion = JavaVersion.VERSION_1_8
+            android {
+                def androidApiVersion = 33
+                compileSdkVersion androidApiVersion
+                defaultConfig {
+                    targetSdkVersion androidApiVersion
+                }
+                compileOptions {
+                    sourceCompatibility javaVersion
+                    targetCompatibility javaVersion
+                }
+                tasks.withType(KotlinCompile).configureEach {
+                    kotlinOptions {
+                        jvmTarget = javaVersion.toString()
+                    }
+                }
+            }
+        }
+    }
+    project.evaluationDependsOn(':app')
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}

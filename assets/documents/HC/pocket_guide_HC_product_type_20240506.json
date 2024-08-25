@@ -1,0 +1,473 @@
+[
+    {
+        "product_type": "Acids",
+        "product_type_id": 106,
+        "products": [
+            30096873,
+            30653175,
+            30602853,
+            30042792
+        ]
+    },
+    {
+        "product_type": "Anionic Surfactants",
+        "product_type_id": 101,
+        "children": [
+            {
+                "subtype_name": "Fatty Alcohol Ethersulfates",
+                "subtype_id": 208,
+                "products": [
+                    30528345,
+                    30612022,
+                    30792469,
+                    30792472,
+                    30532211,
+                    30550486,
+                    30528429,
+                    30652893
+                ]
+            },
+            {
+                "subtype_name": "Fatty Alcohol Sulfates",
+                "subtype_id": 209,
+                "products": [
+                    30531733,
+                    30528486,
+                    30528495,
+                    30528445,
+                    30535542,
+                    30528416,
+                    30538628,
+                    30538653,
+                    30653839
+                ]
+            },
+            {
+                "subtype_name": "Linear Alkyl Benzene Sulfonates",
+                "subtype_id": 210,
+                "products": [
+                    30531675,
+                    30582787,
+                    30529369
+                ]
+            }
+        ]
+    },
+    {
+        "product_type": "Biocides",
+        "product_type_id": 107,
+        "products": [
+            30212030,
+            30653164,
+            30335200,
+            30059034,
+            30136889,
+            30649412,
+            30649410,
+            30136891,
+            30599558,
+            30063180,
+            30483576
+        ]
+    },
+    {
+        "product_type": "Chelating Agents",
+        "product_type_id": 104,
+        "products": [
+            30043452,
+            30043499,
+            30043442,
+            30043449,
+            30043447,
+            30043448,
+            30043459,
+            30783190,
+            30215074,
+            30742096,
+            30513095,
+            30742141,
+            30770097,
+            30641136,
+            30650394
+        ]
+    },
+    {
+        "product_type": "Enzymes",
+        "product_type_id": 109,
+        "products": [
+            30773892,
+            30765358,
+            30765137,
+            30761951,
+            30000000
+        ]
+    },
+    {
+        "product_type": "Metal Surface Treatment",
+        "product_type_id": 105,
+        "children": [
+            {
+                "subtype_name": "Corrosion Inhibitors",
+                "subtype_id": 215,
+                "products": [
+                    30043915,
+                    30512106
+                ]
+            }
+        ]
+    },
+    {
+        "product_type": "Nonionic Surfactants",
+        "product_type_id": 100,
+        "children": [
+            {
+                "subtype_name": "Alcohol Ethoxylates",
+                "subtype_id": 200,
+                "products": [
+                    30528378,
+                    30043951,
+                    30673319,
+                    30528454,
+                    30664860,
+                    30800151,
+                    30799977,
+                    30528452,
+                    30043944,
+                    30801757,
+                    30043973,
+                    30043971,
+                    30043970,
+                    30043968,
+                    30785133,
+                    30043958,
+                    30043962,
+                    30044948,
+                    30800227,
+                    30043942,
+                    30043957,
+                    30317197,
+                    30674283,
+                    30317194,
+                    30178622,
+                    30044003,
+                    30044057,
+                    30044177,
+                    30044060,
+                    30044015,
+                    30044017,
+                    30044009,
+                    30044022,
+                    30044036,
+                    30044020,
+                    30044001,
+                    30149363,
+                    30164451,
+                    30149365,
+                    30164454,
+                    30168823,
+                    30149367,
+                    30163866,
+                    30149369,
+                    30168772,
+                    30149371,
+                    30164445,
+                    30149372,
+                    30222389,
+                    30222392,
+                    30261869,
+                    30190859,
+                    30194090,
+                    30188711,
+                    30194129,
+                    30188712,
+                    30188715,
+                    30188719,
+                    30043997,
+                    30043998,
+                    30043985,
+                    30043987
+                ]
+            },
+            {
+                "subtype_name": "Alkyl Polyglucosides",
+                "subtype_id": 201,
+                "products": [
+                    30530209,
+                    30528587,
+                    30528604,
+                    30528605,
+                    30530876,
+                    30528571,
+                    30533705
+                ]
+            },
+            {
+                "subtype_name": "Amine Ethoxylates",
+                "subtype_id": 202,
+                "products": [
+                    30150914,
+                    30600719
+                ]
+            },
+            {
+                "subtype_name": "Emulsifiers and Solubilizers",
+                "subtype_id": 203,
+                "products": [
+                    30528530,
+                    30043876,
+                    30043862,
+                    30043883,
+                    30043912,
+                    30266583,
+                    30530709,
+                    30035082,
+                    30034790
+                ]
+            },
+            {
+                "subtype_name": "Foam Suppressors",
+                "subtype_id": 204,
+                "products": [
+                    30043836,
+                    30043891,
+                    30528448
+                ]
+            },
+            {
+                "subtype_name": "Low-foaming Nonionic Surfactants",
+                "subtype_id": 205,
+                "products": [
+                    30528552,
+                    30528538,
+                    30528622,
+                    30544523,
+                    30528519,
+                    30044042,
+                    30044050,
+                    30044056,
+                    30044063,
+                    30044064,
+                    30044951,
+                    30079911,
+                    30044021,
+                    30044053,
+                    30044016,
+                    30785008,
+                    30044054,
+                    30044065,
+                    30044129,
+                    30583981,
+                    30604208,
+                    30273370,
+                    30273371,
+                    30044040,
+                    30330101,
+                    30044049,
+                    30044039,
+                    30044031,
+                    30044045,
+                    30528465,
+                    30528466,
+                    30649724,
+                    30793556,
+                    30532222,
+                    30845401,
+                    30538098,
+                    30800075,
+                    30528594,
+                    30537600,
+                    30844954,
+                    30044126,
+                    30783694,
+                    30044130,
+                    30044133,
+                    30044087,
+                    30044077,
+                    30044136,
+                    30044109,
+                    30044110
+                ]
+            },
+            {
+                "subtype_name": "Polyalkylene Glycols",
+                "subtype_id": 207,
+                "products": [
+                    30044100,
+                    30044074,
+                    30044072,
+                    30044070,
+                    30044099,
+                    30044102,
+                    30044135,
+                    30793518,
+                    30044103,
+                    30044118,
+                    30044089
+                ]
+            },
+            {
+                "subtype_name": "Special Surfactants",
+                "subtype_id": 206,
+                "products": [
+                    30528414
+                ]
+            }
+        ]
+    },
+    {
+        "product_type": "Optical Effect Products and Stabilizers",
+        "product_type_id": 108,
+        "children": [
+            {
+                "subtype_name": "Antioxidants",
+                "subtype_id": 216,
+                "products": [
+                    30517297,
+                    30483790,
+                    30484864
+                ]
+            },
+            {
+                "subtype_name": "Excited State Quenchers (for light stabilization)",
+                "subtype_id": 217,
+                "products": [
+                    30482052
+                ]
+            },
+            {
+                "subtype_name": "Fluorescent Whitening Agents (FWAs)",
+                "subtype_id": 218,
+                "products": [
+                    30475071,
+                    30475200,
+                    30485516
+                ]
+            },
+            {
+                "subtype_name": "UV-Light Stabilizers",
+                "subtype_id": 219,
+                "products": [
+                    30482021,
+                    30483522
+                ]
+            }
+        ]
+    },
+    {
+        "product_type": "Other Surfactants",
+        "product_type_id": 102,
+        "products": [
+            30603134,
+            30535722,
+            30534816,
+            30528392,
+            30544151,
+            30528624,
+            30585286,
+            30598533,
+            30787056,
+            30612078,
+            30798357,
+            30790390,
+            30530830,
+            30534753,
+            30529336,
+            30043926,
+            30528325,
+            30773547,
+            30534831
+        ]
+    },
+    {
+        "product_type": "Performance Boosters",
+        "product_type_id": 103,
+        "children": [
+            {
+                "subtype_name": "Color Care Ingredients",
+                "subtype_id": 213,
+                "products": [
+                    30051450,
+                    30057654,
+                    30731623,
+                    30774996,
+                    30064507,
+                    30754975
+                ]
+            },
+            {
+                "subtype_name": "Dispersing Ingredients",
+                "subtype_id": 211,
+                "products": [
+                    30516313,
+                    30774948,
+                    30042845,
+                    30176872,
+                    30741844,
+                    30042761,
+                    30774962,
+                    30042797,
+                    30042767,
+                    30042817,
+                    30042823,
+                    30596022,
+                    30051448,
+                    30042757,
+                    30042760,
+                    30042758,
+                    30364774,
+                    30361826,
+                    30042858,
+                    30042864,
+                    30783601,
+                    30042865,
+                    30042885,
+                    30042868,
+                    30162710,
+                    30806665
+                ]
+            },
+            {
+                "subtype_name": "Surface Care Ingredients",
+                "subtype_id": 212,
+                "products": [
+                    30712211,
+                    30539214,
+                    30537497,
+                    30659289,
+                    30693069,
+                    30535618
+                ]
+            },
+            {
+                "subtype_name": "Thickeners",
+                "subtype_id": 214,
+                "products": [
+                    30506387,
+                    30481990
+                ]
+            }
+        ]
+    },
+    {
+        "product_type": "Waxes and Wax Emulsions",
+        "product_type_id": 110,
+        "children": [
+            {
+                "subtype_name": "Polyether Wax",
+                "subtype_id": 220,
+                "products": [
+                    30043729
+                ]
+            },
+            {
+                "subtype_name": "Wax Emulsions",
+                "subtype_id": 221,
+                "products": [
+                    30043787,
+                    30043786,
+                    30057498
+                ]
+            }
+        ]
+    }
+]

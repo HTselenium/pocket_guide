@@ -1,0 +1,20 @@
+resources: 
+  repositories: 
+  - repository: cicd 
+    name: Pocket Guide NextGen/pocketguide-v2-ci-cd
+    type: git 
+    ref: main #branch name
+
+variables:
+  projectName: 'Pocket Guide NextGen'
+  version: '2.1.6+2'
+
+name: '$(Date:yyyyMMdd)$(Rev:.r)_$(SourceBranchName)'
+
+trigger: none
+
+pr:
+- main
+
+extends:
+  template: Flutter/az-stages-premerge.yml@cicd

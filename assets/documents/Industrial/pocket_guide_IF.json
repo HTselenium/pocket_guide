@@ -1,0 +1,7944 @@
+[
+	{
+		"prd": 30528454,
+		"product_name": "Dehydol LT 7",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C12C18 Fatty alcohol  + 7 EO",
+		"cloudPoint": "approx. 53/A",
+		"hlbValue": "approx. 12",
+		"viscosityAtPascal": "approx. 40 (40 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 100
+	},
+	{
+		"prd": 30772008,
+		"product_name": "Lutensol AT 11 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C12C18 Fatty alcohol  + 11 EO",
+		"cloudPoint": "approx. 87/A",
+		"hlbValue": "approx. 13",
+		"viscosityAtPascal": "approx. 30 (60 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 200
+	},
+	{
+		"prd": 30043945,
+		"product_name": "Lutensol AT 18 20%",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C16C18-Fatty alcohol  + 18 EO",
+		"cloudPoint": "20% approx. 92/B",
+		"hlbValue": "approx. 15",
+		"viscosityAtPascal": "approx. 25",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 300
+	},
+	{
+		"prd": 30776674,
+		"product_name": "Lutensol AT 18 20% HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C16C18-Fatty alcohol  + 18 EO",
+		"cloudPoint": "20% approx. 92/B",
+		"hlbValue": "approx. 15",
+		"viscosityAtPascal": "approx. 25",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 400
+	},
+	{
+		"prd": 30043973,
+		"product_name": "Lutensol AT 25 E",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C16C18-Fatty alcohol  + 25 EO",
+		"cloudPoint": "approx. 95/B",
+		"hlbValue": "approx. 16",
+		"viscosityAtPascal": "approx. 70 (60 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 500
+	},
+	{
+		"prd": 30773699,
+		"product_name": "Lutensol AT 25 E HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C16C18-Fatty alcohol  + 25 EO",
+		"cloudPoint": "approx. 95/B",
+		"hlbValue": "approx. 16",
+		"viscosityAtPascal": "approx. 70 (60 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 600
+	},
+	{
+		"prd": 30043971,
+		"product_name": "Lutensol AT 25 Flakes",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C16C18-Fatty alcohol  + 25 EO",
+		"cloudPoint": "approx. 95/B",
+		"hlbValue": "approx. 16",
+		"viscosityAtPascal": "approx. 70 (60 C)",
+		"physicalFormAtDegrees": "Flakes",
+		"isSurfactant": true,
+		"sortNumber": 700
+	},
+	{
+		"prd": 30777850,
+		"product_name": "Lutensol AT 25 Flakes HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C16C18-Fatty alcohol  + 25 EO",
+		"cloudPoint": "approx. 95/B",
+		"hlbValue": "approx. 16",
+		"viscosityAtPascal": "approx. 70 (60 C)",
+		"physicalFormAtDegrees": "Flakes",
+		"isSurfactant": true,
+		"sortNumber": 800
+	},
+	{
+		"prd": 30043970,
+		"product_name": "Lutensol AT 50 Powder",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C16C18-Fatty alcohol  + 50 EO",
+		"cloudPoint": "approx. 92/B",
+		"hlbValue": "approx. 18",
+		"viscosityAtPascal": "approx. 150 (60 C)",
+		"physicalFormAtDegrees": "Powder",
+		"isSurfactant": true,
+		"sortNumber": 900
+	},
+	{
+		"prd": 30043969,
+		"product_name": "Lutensol AT 50 Flakes",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C16C18-Fatty alcohol  + 50 EO",
+		"cloudPoint": "approx. 92/B",
+		"hlbValue": "approx. 18",
+		"viscosityAtPascal": "approx. 150 (60 C)",
+		"physicalFormAtDegrees": "Flakes",
+		"isSurfactant": true,
+		"sortNumber": 1000
+	},
+	{
+		"prd": 30043968,
+		"product_name": "Lutensol AT 80 Powder",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C16C18-Fatty alcohol  + 80 EO",
+		"cloudPoint": "approx. 87/B",
+		"hlbValue": "approx. 18.5",
+		"viscosityAtPascal": "approx. 400 (60 C)",
+		"physicalFormAtDegrees": "Powder",
+		"isSurfactant": true,
+		"sortNumber": 1100
+	},
+	{
+		"prd": 30043958,
+		"product_name": "Lutensol AO 3",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13C15-Oxo alcohol + 3 EO",
+		"cloudPoint": "approx. 45/E",
+		"hlbValue": "approx.   8",
+		"viscosityAtPascal": "approx. 60",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 1200
+	},
+	{
+		"prd": 30043962,
+		"product_name": "Lutensol AO 5",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13C15-Oxo alcohol + 5 EO",
+		"cloudPoint": "approx. 62/E",
+		"hlbValue": "approx. 10",
+		"viscosityAtPascal": "approx. 80",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 1300
+	},
+	{
+		"prd": 30783075,
+		"product_name": "Lutensol AO 5 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13C15-Oxo alcohol + 5 EO",
+		"cloudPoint": "approx. 62/E",
+		"hlbValue": "approx. 10",
+		"viscosityAtPascal": "approx. 80",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 1400
+	},
+	{
+		"prd": 30044948,
+		"product_name": "Lutensol AO 7",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13C15-Oxo alcohol + 7 EO",
+		"cloudPoint": "approx. 43/A",
+		"hlbValue": "approx. 12",
+		"viscosityAtPascal": "approx. 800",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 1500
+	},
+	{
+		"prd": 30043957,
+		"product_name": "Lutensol AO 11",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13C15-Oxo alcohol + 11 EO",
+		"cloudPoint": "approx. 86/A",
+		"hlbValue": "approx. 14",
+		"viscosityAtPascal": "approx. 30 (60 C)",
+		"physicalFormAtDegrees": "Paste",
+		"isSurfactant": true,
+		"sortNumber": 1600
+	},
+	{
+		"prd": 30775304,
+		"product_name": "Lutensol AO 11 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13C15-Oxo alcohol + 11 EO",
+		"cloudPoint": "approx. 86/A",
+		"hlbValue": "approx. 14",
+		"viscosityAtPascal": "approx. 30 (60 C)",
+		"physicalFormAtDegrees": "Paste",
+		"isSurfactant": true,
+		"sortNumber": 1700
+	},
+	{
+		"prd": 30178622,
+		"product_name": "Lutensol TO 2",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol  + 2 EO",
+		"cloudPoint": "approx. 37/D",
+		"hlbValue": "approx.   7",
+		"viscosityAtPascal": "approx. 30",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 1800
+	},
+	{
+		"prd": 30044003,
+		"product_name": "Lutensol TO 3",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol  + 3 EO",
+		"cloudPoint": "approx. 40/E",
+		"hlbValue": "approx.   8",
+		"viscosityAtPascal": "approx. 50",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 1900
+	},
+	{
+		"prd": 30044057,
+		"product_name": "Lutensol TO 5",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol  + 5 EO",
+		"cloudPoint": "approx. 62/E",
+		"hlbValue": "approx. 10.5",
+		"viscosityAtPascal": "approx. 80",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 2000
+	},
+	{
+		"prd": 30772686,
+		"product_name": "Lutensol TO 5 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol  + 5 EO",
+		"cloudPoint": "approx. 62/E",
+		"hlbValue": "approx. 10.5",
+		"viscosityAtPascal": "approx. 80",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 2100
+	},
+	{
+		"prd": 30044177,
+		"product_name": "Lutensol TO 6",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol  + 6 EO",
+		"cloudPoint": "approx. 67/E",
+		"hlbValue": "approx. 11",
+		"viscosityAtPascal": "approx. 80",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 2200
+	},
+	{
+		"prd": 30775279,
+		"product_name": "Lutensol TO 6 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol  + 6 EO",
+		"cloudPoint": "approx. 67/E",
+		"hlbValue": "approx. 11",
+		"viscosityAtPascal": "approx. 80",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 2300
+	},
+	{
+		"prd": 30044060,
+		"product_name": "Lutensol TO 7",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol  + 7 EO",
+		"cloudPoint": "approx. 70/E",
+		"hlbValue": "approx. 12",
+		"viscosityAtPascal": "approx. 100",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 2400
+	},
+	{
+		"prd": 30775206,
+		"product_name": "Lutensol TO 7 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol  + 7 EO",
+		"cloudPoint": "approx. 70/E",
+		"hlbValue": "approx. 12",
+		"viscosityAtPascal": "approx. 100",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 2500
+	},
+	{
+		"prd": 30044015,
+		"product_name": "Lutensol TO 8",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol  + 8 EO",
+		"cloudPoint": "approx. 60/A",
+		"hlbValue": "approx. 13",
+		"viscosityAtPascal": "approx. 150",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 2600
+	},
+	{
+		"prd": 30775027,
+		"product_name": "Lutensol TO 8 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol  + 8 EO",
+		"cloudPoint": "approx. 60/A",
+		"hlbValue": "approx. 13",
+		"viscosityAtPascal": "approx. 150",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 2700
+	},
+	{
+		"prd": 30044017,
+		"product_name": "Lutensol TO 89",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol  + 8 EO",
+		"cloudPoint": "90% approx. 60/A",
+		"hlbValue": "approx. 13",
+		"viscosityAtPascal": "approx. 120",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 2800
+	},
+	{
+		"prd": 30776062,
+		"product_name": "Lutensol TO 89 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol  + 8 EO",
+		"cloudPoint": "90% approx. 60/A",
+		"hlbValue": "approx. 13",
+		"viscosityAtPascal": "approx. 120",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 2900
+	},
+	{
+		"prd": 30044009,
+		"product_name": "Lutensol TO 10",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol  + 10 EO",
+		"cloudPoint": "approx. 70/A",
+		"hlbValue": "approx. 13.5",
+		"viscosityAtPascal": "approx. 30 (60 C)",
+		"physicalFormAtDegrees": "Paste",
+		"isSurfactant": true,
+		"sortNumber": 3000
+	},
+	{
+		"prd": 30774900,
+		"product_name": "Lutensol TO 10 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol  + 10 EO",
+		"cloudPoint": "approx. 70/A",
+		"hlbValue": "approx. 13.5",
+		"viscosityAtPascal": "approx. 30 (60 C)",
+		"physicalFormAtDegrees": "Paste",
+		"isSurfactant": true,
+		"sortNumber": 3100
+	},
+	{
+		"prd": 30772037,
+		"product_name": "Lutensol TO 108 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol + 10 EO",
+		"cloudPoint": "80% approx. 70/A",
+		"hlbValue": "approx. 13.5",
+		"viscosityAtPascal": "approx. 180",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 3200
+	},
+	{
+		"prd": 30044022,
+		"product_name": "Lutensol TO 109",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol + 10 EO",
+		"cloudPoint": "85% approx. 70/A",
+		"hlbValue": "approx. 13.5",
+		"viscosityAtPascal": "approx. 150",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 3300
+	},
+	{
+		"prd": 30044036,
+		"product_name": "Lutensol TO 12",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol + 12 EO",
+		"cloudPoint": "approx. 75/B",
+		"hlbValue": "approx. 14.5",
+		"viscosityAtPascal": "approx. 40 (60 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 3400
+	},
+	{
+		"prd": 30044020,
+		"product_name": "Lutensol TO 129",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol + 12 EO",
+		"cloudPoint": "85% approx. 75/B",
+		"hlbValue": "approx. 14.5",
+		"viscosityAtPascal": "approx. 200",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 3500
+	},
+	{
+		"prd": 30044001,
+		"product_name": "Lutensol TO 20",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol + 20 EO",
+		"cloudPoint": "approx. 86/B",
+		"hlbValue": "approx. 16.5",
+		"viscosityAtPascal": "approx. 60 (60 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 3600
+	},
+	{
+		"prd": 30149363,
+		"product_name": "Lutensol XP 30",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol + 3 EO",
+		"cloudPoint": "approx. 31/E",
+		"hlbValue": "approx.   9",
+		"viscosityAtPascal": "approx. 25",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 3700
+	},
+	{
+		"prd": 30164451,
+		"product_name": "Lutensol XP 40",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol + 4 EO",
+		"cloudPoint": "approx. 44/E",
+		"hlbValue": "approx. 10.5",
+		"viscosityAtPascal": "approx. 90",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 3800
+	},
+	{
+		"prd": 30149365,
+		"product_name": "Lutensol XP 50",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol + 5 EO",
+		"cloudPoint": "approx. 56/E",
+		"hlbValue": "approx. 11.5",
+		"viscosityAtPascal": "approx. 90",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 3900
+	},
+	{
+		"prd": 30164454,
+		"product_name": "Lutensol XP 60",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol + 6 EO",
+		"cloudPoint": "approx. 62/E",
+		"hlbValue": "approx. 12.5",
+		"viscosityAtPascal": "approx. 140",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 4000
+	},
+	{
+		"prd": 30775022,
+		"product_name": "Lutensol XP 60 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol + 6 EO",
+		"cloudPoint": "approx. 62/E",
+		"hlbValue": "approx. 12.5",
+		"viscosityAtPascal": "approx. 140",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 4100
+	},
+	{
+		"prd": 30168823,
+		"product_name": "Lutensol XP 69",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol + 6 EO",
+		"cloudPoint": "85% approx. 62/E",
+		"hlbValue": "approx. 12.5",
+		"viscosityAtPascal": "approx. 70",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 4200
+	},
+	{
+		"prd": 30149367,
+		"product_name": "Lutensol XP 70",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol + 7 EO",
+		"cloudPoint": "approx. 68/E",
+		"hlbValue": "approx. 13",
+		"viscosityAtPascal": "approx. 290",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 4300
+	},
+	{
+		"prd": 30163866,
+		"product_name": "Lutensol XP 79",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol + 7 EO",
+		"cloudPoint": "85% approx. 68/E",
+		"hlbValue": "approx. 13",
+		"viscosityAtPascal": "approx. 90",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 4400
+	},
+	{
+		"prd": 30149369,
+		"product_name": "Lutensol XP 80",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol + 8 EO",
+		"cloudPoint": "approx. 56/A",
+		"hlbValue": "approx. 14",
+		"viscosityAtPascal": "approx. 300",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 4500
+	},
+	{
+		"prd": 30168772,
+		"product_name": "Lutensol XP 89",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol + 8 EO",
+		"cloudPoint": "85% approx. 56/A",
+		"hlbValue": "approx. 14",
+		"viscosityAtPascal": "approx. 90",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 4600
+	},
+	{
+		"prd": 30777229,
+		"product_name": "Lutensol XP 89 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol + 8 EO",
+		"cloudPoint": "85% approx. 56/A",
+		"hlbValue": "approx. 14",
+		"viscosityAtPascal": "approx. 90",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 4700
+	},
+	{
+		"prd": 30149371,
+		"product_name": "Lutensol XP 90",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol + 9 EO",
+		"cloudPoint": "approx. 69/A",
+		"hlbValue": "approx. 14.5",
+		"viscosityAtPascal": "approx. 1 200",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 4800
+	},
+	{
+		"prd": 30164445,
+		"product_name": "Lutensol XP 99",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol + 9 EO",
+		"cloudPoint": "85% approx. 69/A",
+		"hlbValue": "approx. 14.5",
+		"viscosityAtPascal": "approx. 100",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 4900
+	},
+	{
+		"prd": 30222389,
+		"product_name": "Lutensol XL 40",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol alkoxylate + 4 EO",
+		"cloudPoint": "approx. 46/E",
+		"hlbValue": "approx. 10.5",
+		"viscosityAtPascal": "approx. 40",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 5000
+	},
+	{
+		"prd": 30222392,
+		"product_name": "Lutensol XL 50",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol alkoxylate + 5 EO",
+		"cloudPoint": "approx. 60/E",
+		"hlbValue": "approx. 11.5",
+		"viscosityAtPascal": "approx. 50",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 5100
+	},
+	{
+		"prd": 30190859,
+		"product_name": "Lutensol XL 70",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol alkoxylate + 7 EO",
+		"cloudPoint": "approx. 68/E",
+		"hlbValue": "approx. 13",
+		"viscosityAtPascal": "approx. 70",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 5200
+	},
+	{
+		"prd": 30188711,
+		"product_name": "Lutensol XL 80",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol alkoxylate + 8 EO",
+		"cloudPoint": "approx. 56/A",
+		"hlbValue": "approx. 14",
+		"viscosityAtPascal": "approx. 120",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 5300
+	},
+	{
+		"prd": 30188719,
+		"product_name": "Lutensol XL 140",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Guerbet alcohol alkoxylate + 14 EO",
+		"cloudPoint": "approx. 78/B",
+		"hlbValue": "approx. 16",
+		"viscosityAtPascal": "approx. 40 (60 C)",
+		"physicalFormAtDegrees": "Paste",
+		"isSurfactant": true,
+		"sortNumber": 5400
+	},
+	{
+		"prd": 30043997,
+		"product_name": "Lutensol ON 30",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Oxo alcohol + 3 EO",
+		"cloudPoint": "approx. 53/E",
+		"hlbValue": "approx.   9",
+		"viscosityAtPascal": "approx. 30",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 5500
+	},
+	{
+		"prd": 30043998,
+		"product_name": "Lutensol ON 50",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Oxo alcohol + 5 EO",
+		"cloudPoint": "approx. 67/E",
+		"hlbValue": "approx. 11.5",
+		"viscosityAtPascal": "approx. 40",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 5600
+	},
+	{
+		"prd": 30043999,
+		"product_name": "Lutensol ON 60",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Oxo alcohol + 6 EO",
+		"cloudPoint": "approx. 36/A",
+		"hlbValue": "approx. 12",
+		"viscosityAtPascal": "approx. 180",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 5700
+	},
+	{
+		"prd": 30043985,
+		"product_name": "Lutensol ON 70",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Oxo alcohol + 7 EO",
+		"cloudPoint": "approx. 60/A",
+		"hlbValue": "approx. 13",
+		"viscosityAtPascal": "approx. 60",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 5800
+	},
+	{
+		"prd": 30776316,
+		"product_name": "Lutensol ON 70 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Oxo alcohol + 7 EO",
+		"cloudPoint": "approx. 60/A",
+		"hlbValue": "approx. 13",
+		"viscosityAtPascal": "approx. 60",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 5900
+	},
+	{
+		"prd": 30043987,
+		"product_name": "Lutensol ON 80",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Oxo alcohol + 8 EO",
+		"cloudPoint": "approx. 80/A",
+		"hlbValue": "approx. 14",
+		"viscosityAtPascal": "approx. 100",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 6000
+	},
+	{
+		"prd": 30043995,
+		"product_name": "Lutensol ON 110",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Oxo alcohol + 11 EO",
+		"cloudPoint": "approx. 78/B",
+		"hlbValue": "approx. 15",
+		"viscosityAtPascal": "approx. 30 (60 C)",
+		"physicalFormAtDegrees": "Paste",
+		"isSurfactant": true,
+		"sortNumber": 6100
+	},
+	{
+		"prd": 30317197,
+		"product_name": "Lutensol M 5",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-18 - Alcohol + 5 EO",
+		"cloudPoint": "approx. 65/D",
+		"hlbValue": "approx. 11.4",
+		"viscosityAtPascal": "< 20 (60 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 6200
+	},
+	{
+		"prd": 30317194,
+		"product_name": "Lutensol M 7 ",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-18 - Alcohol + 7 EO",
+		"cloudPoint": "approx. 75/D",
+		"hlbValue": "approx. 12.9",
+		"viscosityAtPascal": "< 20 (60 C)",
+		"physicalFormAtDegrees": "Paste",
+		"isSurfactant": true,
+		"sortNumber": 6300
+	},
+	{
+		"prd": 30266583,
+		"product_name": "Lutensol CS 6250",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alcohol Ethoxylates",
+						"id": 200
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C6 - Alcohol + 5 EO",
+		"cloudPoint": "approx. 67/B",
+		"hlbValue": "-",
+		"viscosityAtPascal": "approx. 20",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 6400
+	},
+	{
+		"prd": 30530207,
+		"product_name": "Agnique PG 8105-G",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alkyl Polyglucosides",
+						"id": 201
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C8C10 - Alkyl polyglucoside",
+		"concentration": "approx. 63",
+		"density": "approx. 1.135 (40 C)",
+		"viscosityAtPascal": "approx. 3 000",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 6500
+	},
+	{
+		"prd": 30528590,
+		"product_name": "Agnique PG 8107-G",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alkyl Polyglucosides",
+						"id": 201
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C8C10 - Alkyl polyglucoside",
+		"concentration": "approx. 70",
+		"density": "approx. 1.161",
+		"viscosityAtPascal": "approx. 3 500",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 6600
+	},
+	{
+		"prd": 30566073,
+		"product_name": "Disponil APG 215",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alkyl Polyglucosides",
+						"id": 201
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C8C10 - Alkyl polyglucoside",
+		"concentration": "approx. 63",
+		"density": "approx. 1.13 (40 C)",
+		"viscosityAtPascal": "approx. 3 000",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 6700
+	},
+	{
+		"prd": 30639034,
+		"product_name": "Agnique PG 8107-BL",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alkyl Polyglucosides",
+						"id": 201
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C8C10 - Alkyl polyglucoside with antifoam",
+		"concentration": "approx. 70",
+		"density": "approx. 1.161",
+		"viscosityAtPascal": "approx. 3 500",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 6800
+	},
+	{
+		"prd": 30566072,
+		"product_name": "Disponil APG 425",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Alkyl Polyglucosides",
+						"id": 201
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C8C16 - Alkyl polyglucoside",
+		"concentration": "approx. 50",
+		"density": "approx. 1.11",
+		"viscosityAtPascal": "approx. 500",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 6900
+	},
+	{
+		"prd": 30044123,
+		"product_name": "Quadrol L",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Aminopolyols",
+						"id": 223
+					}
+				]
+			}
+		],
+		"chemicalNature": "Ethylene diamine + 4 PO",
+		"amineNumber": "approx. 380",
+		"cloudPoint": "-",
+		"viscosityAtPascal": "approx. 75 000",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 7000
+	},
+	{
+		"prd": 30530711,
+		"product_name": "Agnique CSO-20",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0
+		},
+		"chemicalNature": "Castor oil + 20 EO",
+		"cloudPoint": "approx. 66 / D",
+		"hlbValue": "-",
+		"viscosityAtPascal": "approx. 110 (60 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 7100
+	},
+	{
+		"prd": 30534079,
+		"product_name": "Agnique CSO-25",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0
+		},
+		"chemicalNature": "Castor oil + 25 EO",
+		"cloudPoint": "approx. 72 / E",
+		"hlbValue": "-",
+		"viscosityAtPascal": "approx. 110 (60 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 7200
+	},
+	{
+		"prd": 30535425,
+		"product_name": "Agnique CSO-30",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0
+		},
+		"chemicalNature": "Castor oil + 30 EO",
+		"cloudPoint": "approx. 75 / E",
+		"hlbValue": "-",
+		"viscosityAtPascal": "approx. 150 (60 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 7300
+	},
+	{
+		"prd": 30634576,
+		"product_name": "Agnique CSO-35",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Castor oil + 35 EO",
+		"cloudPoint": "approx. 72 / E",
+		"hlbValue": "-",
+		"viscosityAtPascal": "approx. 120 (60 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 7400
+	},
+	{
+		"prd": 30531617,
+		"product_name": "Agnique CSO-40",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Castor oil + 40 EO",
+		"cloudPoint": "approx. 74 / E",
+		"hlbValue": "-",
+		"viscosityAtPascal": "approx. 120 (60 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 7500
+	},
+	{
+		"prd": 30533711,
+		"product_name": "Agnique SBO 10",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Modified vegetable oil",
+		"cloudPoint": " -",
+		"hlbValue": "-",
+		"viscosityAtPascal": "approx. 75 (40 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 7600
+	},
+	{
+		"prd": 30535565,
+		"product_name": "Agnique SPO 40",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0
+		},
+		"chemicalNature": "Sorbitanester ethoxylated",
+		"cloudPoint": " -",
+		"hlbValue": "-",
+		"viscosityAtPascal": "approx. 400",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 7700
+	},
+	{
+		"prd": 30529420,
+		"product_name": "Disponil LS 500",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C12C14-Fatty alcohol + 50 EO",
+		"cloudPoint": "approx. 76 / C",
+		"hlbValue": "approx. 18.5",
+		"viscosityAtPascal": "-",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 7800
+	},
+	{
+		"prd": 30043876,
+		"product_name": "Emulan A",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Oleic acid ethoxylate",
+		"cloudPoint": "approx. 52 / E",
+		"hlbValue": "approx. 9",
+		"viscosityAtPascal": "approx. 70",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 7900
+	},
+	{
+		"prd": 30774295,
+		"product_name": "Emulan AF HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethoxylate",
+		"cloudPoint": "approx. 65 / E",
+		"hlbValue": "approx. 11",
+		"viscosityAtPascal": "approx. 15 (60 C)",
+		"physicalFormAtDegrees": "Paste",
+		"isSurfactant": true,
+		"sortNumber": 8000
+	},
+	{
+		"prd": 30043862,
+		"product_name": "Emulan AT 9",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethoxylate",
+		"cloudPoint": "approx. 68/A",
+		"hlbValue": "approx. 13",
+		"viscosityAtPascal": "approx. 20 (60 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 8100
+	},
+	{
+		"prd": 30772420,
+		"product_name": "Emulan P HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethoxylate",
+		"cloudPoint": "approx. 58 / D",
+		"hlbValue": "approx. 7",
+		"viscosityAtPascal": "approx. 30",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 8200
+	},
+	{
+		"prd": 30043883,
+		"product_name": "Emulan EL",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Castor oil ethoxylate",
+		"cloudPoint": "approx. 71/B",
+		"hlbValue": "approx. 14",
+		"viscosityAtPascal": "approx. 600 (40 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 8300
+	},
+	{
+		"prd": 30788364,
+		"product_name": "Emulan OC HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethoxylate",
+		"cloudPoint": "approx. 90 / B",
+		"hlbValue": "approx. 17",
+		"viscosityAtPascal": "approx. 60 (60 C)",
+		"physicalFormAtDegrees": "Paste",
+		"isSurfactant": true,
+		"sortNumber": 8400
+	},
+	{
+		"prd": 30772214,
+		"product_name": "Emulan OG HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethoxylate",
+		"cloudPoint": "approx. 92 / B",
+		"hlbValue": "approx. 17",
+		"viscosityAtPascal": "approx. 80 (60 C)",
+		"physicalFormAtDegrees": "Powder",
+		"isSurfactant": true,
+		"sortNumber": 8500
+	},
+	{
+		"prd": 30769746,
+		"product_name": "Disponil NRG 301 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Aqueous solution based on fatty alcohol + 30 EO",
+		"cloudPoint": "60% approx. 78 / C",
+		"hlbValue": "approx. 17.6",
+		"viscosityAtPascal": "approx. 270 (40 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 8600
+	},
+	{
+		"prd": 30772072,
+		"product_name": "Disponil NRG 401 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Aqueous solution based on fatty alcohol + 40 EO",
+		"cloudPoint": "60% approx. 77 / C",
+		"hlbValue": "approx. 18.1",
+		"viscosityAtPascal": "approx. 375 (40 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 8700
+	},
+	{
+		"prd": 30772030,
+		"product_name": "Emulan TO 2080 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol + approx. 20 EO",
+		"cloudPoint": "80% approx. 93 / B",
+		"hlbValue": "approx. 16",
+		"viscosityAtPascal": "approx. 400",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 8800
+	},
+	{
+		"prd": 30772036,
+		"product_name": "Emulan TO 3070 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol + approx. 30 EO",
+		"cloudPoint": "70% approx. 92 / B",
+		"hlbValue": "approc. 17",
+		"viscosityAtPascal": "approx. 1500",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 8900
+	},
+	{
+		"prd": 30043912,
+		"product_name": "Emulan TO 4070",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol + approx. 40 EO",
+		"cloudPoint": "70% approx. 92 / B",
+		"hlbValue": "approx. 18",
+		"viscosityAtPascal": "approx. 1400",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 9000
+	},
+	{
+		"prd": 30776284,
+		"product_name": "Emulan TO 4070 HiGrade",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Emulsifiers and Solubilizers",
+						"id": 203
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C13-Oxo alcohol + approx. 40 EO",
+		"cloudPoint": "70% approx. 92 / B",
+		"hlbValue": "approx. 18",
+		"viscosityAtPascal": "approx. 1400",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 9100
+	},
+	{
+		"prd": 30043836,
+		"product_name": "Degressal SD 20",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Foam Suppressors",
+						"id": 204
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol alkoxylate",
+		"concentration": "approx. 100",
+		"viscosityAtPascal": "approx. 60",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 9200
+	},
+	{
+		"prd": 30043837,
+		"product_name": "Degressal SD 21",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Foam Suppressors",
+						"id": 204
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0
+		},
+		"chemicalNature": "Fatty alcohol alkoxylate",
+		"concentration": "approx. 100",
+		"viscosityAtPascal": "approx. 250",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 9300
+	},
+	{
+		"prd": 30043891,
+		"product_name": "Degressal SD 40",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Foam Suppressors",
+						"id": 204
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Phosphoric ester",
+		"concentration": "approx. 100",
+		"viscosityAtPascal": "approx. 20",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 9400
+	},
+	{
+		"prd": 30044056,
+		"product_name": "Plurafac LF 221",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol alkoxylate",
+		"molarMass": "-",
+		"cloudPoint": "95% approx. 33/A",
+		"viscosityAtPascal": "approx. 100",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 9500
+	},
+	{
+		"prd": 30044021,
+		"product_name": "Plurafac LF 400",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol alkoxylate",
+		"molarMass": "-",
+		"cloudPoint": "approx. 33/A",
+		"viscosityAtPascal": "approx. 70",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 9600
+	},
+	{
+		"prd": 30044016,
+		"product_name": "Plurafac LF 403",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol alkoxylate",
+		"molarMass": "-",
+		"cloudPoint": "approx. 41/E",
+		"viscosityAtPascal": "approx. 60",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 9700
+	},
+	{
+		"prd": 30044129,
+		"product_name": "Plurafac LF 711",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol alkoxylate",
+		"molarMass": "-",
+		"cloudPoint": "approx. 45/E",
+		"viscosityAtPascal": "approx. 80",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 9800
+	},
+	{
+		"prd": 30583981,
+		"product_name": "Plurafac LF 801",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol alkoxylate",
+		"molarMass": "-",
+		"cloudPoint": "approx. 43 / E",
+		"viscosityAtPascal": "approx. 65",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 9900
+	},
+	{
+		"prd": 30273370,
+		"product_name": "Plurafac LF 900",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol alkoxylate",
+		"molarMass": "-",
+		"cloudPoint": "approx. 39 / E",
+		"viscosityAtPascal": "approx. 85",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 10000
+	},
+	{
+		"prd": 30044040,
+		"product_name": "Plurafac LF 1300",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol alkoxylate",
+		"molarMass": "-",
+		"cloudPoint": "approx. 21/E",
+		"viscosityAtPascal": "approx. 130",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 10100
+	},
+	{
+		"prd": 30044078,
+		"product_name": "Pluronic PE 3100",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "EO-PO-EO-block polymer 10% EO",
+		"molarMass": "approx. 1 000",
+		"cloudPoint": "approx. 41/E",
+		"viscosityAtPascal": "approx. 175",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 10200
+	},
+	{
+		"prd": 30044084,
+		"product_name": "Pluronic PE 4300",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "EO-PO-EO-block polymer 30% EO",
+		"molarMass": "approx. 1 750",
+		"cloudPoint": "approx. 42 /A",
+		"viscosityAtPascal": "approx. 400",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 10300
+	},
+	{
+		"prd": 30044126,
+		"product_name": "Pluronic PE 6100*",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "EO-PO-EO-block polymer 10% EO",
+		"molarMass": "approx. 2 000",
+		"cloudPoint": "approx. 23/A",
+		"viscosityAtPascal": "approx. 350",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "* Not suitable for secondary direct food additives as codified in 21 CFR part 173",
+		"isSurfactant": true,
+		"sortNumber": 10400
+	},
+	{
+		"prd": 30044130,
+		"product_name": "Pluronic PE 6200*",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "EO-PO-EO-block polymer 20% EO",
+		"molarMass": "approx. 2 450",
+		"cloudPoint": "approx. 33/A",
+		"viscosityAtPascal": "approx. 500",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "* Not suitable for secondary direct food additives as codified in 21 CFR part 173",
+		"isSurfactant": true,
+		"sortNumber": 10500
+	},
+	{
+		"prd": 30044133,
+		"product_name": "Pluronic PE 6400*",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "EO-PO-EO-block polymer 40% EO",
+		"molarMass": "approx. 2 900",
+		"cloudPoint": "approx. 60 / A",
+		"viscosityAtPascal": "approx. 1000",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "* Not suitable for secondary direct food additives as codified in 21 CFR part 173",
+		"isSurfactant": true,
+		"sortNumber": 10600
+	},
+	{
+		"prd": 30044097,
+		"product_name": "Pluronic PE 6800",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"chemicalNature": "EO-PO-EO-block polymer 80% EO",
+		"molarMass": "approx. 8 000",
+		"cloudPoint": "approx. 88 / B",
+		"viscosityAtPascal": "-",
+		"physicalFormAtDegrees": "Powder",
+		"isSurfactant": true,
+		"sortNumber": 10700
+	},
+	{
+		"prd": 30044087,
+		"product_name": "Pluronic PE 8100*",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "EO-PO-EO-block polymer 10% EO",
+		"molarMass": "approx. 2 600",
+		"cloudPoint": "approx. 36 / E",
+		"viscosityAtPascal": "approx. 700",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "* Not suitable for secondary direct food additives as codified in 21 CFR part 173",
+		"isSurfactant": true,
+		"sortNumber": 10800
+	},
+	{
+		"prd": 30044106,
+		"product_name": "Pluronic PE 9400",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"chemicalNature": "EO-PO-EO-block polymer 40% EO",
+		"molarMass": "approx. 4 600",
+		"cloudPoint": "approx. 80 / E",
+		"viscosityAtPascal": "approx. 300 (60 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 10900
+	},
+	{
+		"prd": 30044111,
+		"product_name": "Pluronic PE 10100",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"chemicalNature": "EO-PO-EO-block polymer 10% EO",
+		"molarMass": "approx. 3 500",
+		"cloudPoint": "approx. 35 / E",
+		"viscosityAtPascal": "approx. 800",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 11000
+	},
+	{
+		"prd": 30044093,
+		"product_name": "Pluronic PE 10400",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"chemicalNature": "EO-PO-EO-block polymer 40% EO",
+		"molarMass": "approx. 5 900",
+		"cloudPoint": "approx. 81 / A",
+		"viscosityAtPascal": "approx. 500 (60 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 11100
+	},
+	{
+		"prd": 30044121,
+		"product_name": "Pluronic PE 10500",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"chemicalNature": "EO-PO-EO-block polymer 50% EO",
+		"molarMass": "approx. 6 500",
+		"cloudPoint": "approx. 75 / B",
+		"viscosityAtPascal": "approx. 500 (60 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 11200
+	},
+	{
+		"prd": 30583442,
+		"product_name": "Pluronic PE 10500 Solution B",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"chemicalNature": "EO-PO-EO-block polymer 50% EO",
+		"molarMass": "approx. 6 500",
+		"cloudPoint": "18% approx. 75 / B",
+		"viscosityAtPascal": "approx. 10",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 11300
+	},
+	{
+		"prd": 30044077,
+		"product_name": "Pluronic RPE 1720",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "PO-EO-PO-block polymer 20% EO",
+		"molarMass": "approx. 2 150",
+		"cloudPoint": "approx. 37/E",
+		"viscosityAtPascal": "approx. 450",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 11400
+	},
+	{
+		"prd": 30044136,
+		"product_name": "Pluronic RPE 1740",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "PO-EO-PO-block polymer 40% EO",
+		"molarMass": "approx. 2 650",
+		"cloudPoint": "approx. 51/E",
+		"viscosityAtPascal": "approx. 600",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 11500
+	},
+	{
+		"prd": 30044109,
+		"product_name": "Pluronic RPE 2520*",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "PO-EO-PO-block polymer 20% EO",
+		"molarMass": "approx. 3 100",
+		"cloudPoint": "approx. 31 / E",
+		"viscosityAtPascal": "approx. 600",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "* Not suitable for secondary direct food additives as codified in 21 CFR part 173",
+		"isSurfactant": true,
+		"sortNumber": 11600
+	},
+	{
+		"prd": 30044110,
+		"product_name": "Pluronic RPE 3110",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Low-foaming Nonionic Surfactants",
+						"id": 205
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "PO-EO-PO-block polymer 10% EO",
+		"molarMass": "approx. 3 500",
+		"cloudPoint": "approx. 25/E",
+		"viscosityAtPascal": "approx. 600",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 11700
+	},
+	{
+		"prd": 30529357,
+		"product_name": "Disponil A 1080",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Special Surfactants",
+						"id": 206
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethoxylate, modified + 10 EO",
+		"concentration": "approx. 80",
+		"cloudPoint": "approx. 65/C",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 11800
+	},
+	{
+		"prd": 30529449,
+		"product_name": "Disponil A 1580",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Special Surfactants",
+						"id": 206
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethoxylate, modified + 15 EO",
+		"concentration": "approx. 80",
+		"cloudPoint": "approx. 73/C",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 11900
+	},
+	{
+		"prd": 30529347,
+		"product_name": "Disponil A 3065",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Special Surfactants",
+						"id": 206
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethoxylate, modified + 30 EO",
+		"concentration": "approx. 65",
+		"cloudPoint": "approx. 77/C",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 12000
+	},
+	{
+		"prd": 30529434,
+		"product_name": "Disponil A 4065",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Special Surfactants",
+						"id": 206
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethoxylate, modified + 40 EO",
+		"concentration": "approx. 65",
+		"cloudPoint": "approx. 76/C",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 12100
+	},
+	{
+		"prd": 30530445,
+		"product_name": "Disponil AFX 3070",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Special Surfactants",
+						"id": 206
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethoxylate, modified + 30 EO",
+		"concentration": "approx. 70",
+		"cloudPoint": "approx. 80/C",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 12200
+	},
+	{
+		"prd": 30529426,
+		"product_name": "Disponil PGE 110",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Special Surfactants",
+						"id": 206
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Polyglycol ether of an aliphatic diol",
+		"concentration": "approx. 100",
+		"cloudPoint": "approx. 84/B",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 12300
+	},
+	{
+		"prd": 30528338,
+		"product_name": "Dehyton AB 30",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Special Surfactants",
+						"id": 206
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Betaine",
+		"concentration": "approx. 30",
+		"cloudPoint": "-",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 12400
+	},
+	{
+		"prd": 30528392,
+		"product_name": "Dehyton K",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Special Surfactants",
+						"id": 206
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Cocoamidopropyl betaine",
+		"concentration": "approx. 30",
+		"cloudPoint": "-",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 12500
+	},
+	{
+		"prd": 30553021,
+		"product_name": "Agnique GLP 45",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Special Surfactants",
+						"id": 206
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty acid amid derivate based betaine",
+		"concentration": "approx. 45",
+		"cloudPoint": "-",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 12600
+	},
+	{
+		"prd": 30529985,
+		"product_name": "Agnique FOH 9 OC-3",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Unsaturated Alcohol Ethoxylates",
+						"id": 224
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Unsaturated fatty alcohol + 3 EO",
+		"concentration": "approx. 100",
+		"viscosityAtPascal": "approx. 50",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 12700
+	},
+	{
+		"prd": 30533788,
+		"product_name": "Agnique FOH 9 OC-5",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Unsaturated Alcohol Ethoxylates",
+						"id": 224
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Unsaturated fatty alcohol + 5 EO",
+		"concentration": "approx. 100",
+		"viscosityAtPascal": "approx. 60",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 12800
+	},
+	{
+		"prd": 30527859,
+		"product_name": "Disponil OC 5",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Unsaturated Alcohol Ethoxylates",
+						"id": 224
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Unsaturated fatty alcohol + 5 EO",
+		"concentration": "approx. 100",
+		"viscosityAtPascal": "approx. 135 ",
+		"physicalFormAtDegrees": "Liquid/Paste",
+		"isSurfactant": true,
+		"sortNumber": 12900
+	},
+	{
+		"prd": 30529432,
+		"product_name": "Disponil OC 25",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Unsaturated Alcohol Ethoxylates",
+						"id": 224
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Unsaturated fatty alcohol + 25 EO",
+		"concentration": "approx. 100",
+		"viscosityAtPascal": "approx. 56 (70C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 13000
+	},
+	{
+		"prd": 30044026,
+		"product_name": "Pluriol A 10 R",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Allyl alcohol ethoxylate",
+		"molarMass": 500,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 55",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 13100
+	},
+	{
+		"prd": 30279546,
+		"product_name": "Pluriol A 750 R ",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Allyl alcohol alkoxylate",
+		"molarMass": 750,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 80",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 13200
+	},
+	{
+		"prd": 30044176,
+		"product_name": "Pluriol A 350 E",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Methyl polyethylene glycol, desalted",
+		"molarMass": 350,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 30",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 13300
+	},
+	{
+		"prd": 30044166,
+		"product_name": "Pluriol A 500 E",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Methyl polyethylene glycol, desalted",
+		"molarMass": 500,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 60",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 13400
+	},
+	{
+		"prd": 30142045,
+		"product_name": "Pluriol A 520 E",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Methyl polyethylene glycol",
+		"molarMass": 500,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 50",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 13500
+	},
+	{
+		"prd": 30059005,
+		"product_name": "Pluriol A 750 E",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Methyl polyethylene glycol",
+		"molarMass": 750,
+		"meltingPoint": "approx. 30",
+		"viscosityAtPascal": "approx. 30 (60 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 13600
+	},
+	{
+		"prd": 30163262,
+		"product_name": "Pluriol A 1020 E",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Methyl polyethylene glycol",
+		"molarMass": 1000,
+		"meltingPoint": "approx. 40",
+		"viscosityAtPascal": "approx. 40 (60 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 13700
+	},
+	{
+		"prd": 30285100,
+		"product_name": "Pluriol A 2010 E",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Methyl polyethylene glycol",
+		"molarMass": 2000,
+		"meltingPoint": "approx. 50",
+		"viscosityAtPascal": "approx. 120 (50 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 13800
+	},
+	{
+		"prd": 30240056,
+		"product_name": "Pluriol A 3010 E",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Methyl polyethylene glycol",
+		"molarMass": 3000,
+		"meltingPoint": "approx. 60",
+		"viscosityAtPascal": "approx. 200 (60 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 13900
+	},
+	{
+		"prd": 30253870,
+		"product_name": "Pluriol A 5010 E",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Methyl polyethylene glycol",
+		"molarMass": 5000,
+		"meltingPoint": "approx. 63",
+		"viscosityAtPascal": "approx. 400 (70 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 14000
+	},
+	{
+		"prd": 30782236,
+		"product_name": "Pluriol A 520 PE",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Butyl polyalkyleneglycol copolymer",
+		"molarMass": 500,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 30",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 14100
+	},
+	{
+		"prd": 30241062,
+		"product_name": "Pluriol A 6000 PE",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"chemicalNature": "Butyl polyalkyleneglycol copolymer",
+		"molarMass": 6000,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 2 000",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 14200
+	},
+	{
+		"prd": 30156082,
+		"product_name": "Pluriol A 3 TE",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"chemicalNature": "Trimethylolpropane ethoxylate",
+		"molarMass": 280,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 600",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 14300
+	},
+	{
+		"prd": 30255094,
+		"product_name": "Pluriol A 4 TE",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"chemicalNature": "Glycerol ethoxylate",
+		"molarMass": 225,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 400",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 14400
+	},
+	{
+		"prd": 30602143,
+		"product_name": "Pluriol A 700 VP",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Hydroxybutylvinyl ether propoxylate",
+		"molarMass": 700,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 60",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 14500
+	},
+	{
+		"prd": 30365771,
+		"product_name": "Pluriol A 1190 I",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Isoprenol ethoxylate",
+		"molarMass": 1100,
+		"meltingPoint": "approx. 40",
+		"viscosityAtPascal": "approx. 50 (60 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 14600
+	},
+	{
+		"prd": 30598602,
+		"product_name": "Pluriol A 7509 PH",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"chemicalNature": "Phenol ethoxylate",
+		"molarMass": "90%; 750",
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 190",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 14700
+	},
+	{
+		"prd": 30469580,
+		"product_name": "Pluriol A 3090 V",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Hydroxybutylvinylether ethoxylate",
+		"molarMass": 3100,
+		"meltingPoint": "approx. 60",
+		"viscosityAtPascal": "approx. 160 (70C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 14800
+	},
+	{
+		"prd": 30287219,
+		"product_name": "Pluriol A 5890 V",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Hydroxybutylvinylether ethoxylate",
+		"molarMass": 5900,
+		"meltingPoint": "approx. 60",
+		"viscosityAtPascal": "approx. 500 (80C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 14900
+	},
+	{
+		"prd": 30044100,
+		"product_name": "Pluriol E 200",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Polyethylene glycol",
+		"molarMass": 200,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 60",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 15000
+	},
+	{
+		"prd": 30044124,
+		"product_name": "Pluriol E 300",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Polyethylene glycol",
+		"molarMass": 300,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 85",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 15100
+	},
+	{
+		"prd": 30044134,
+		"product_name": "Pluriol E 400",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Polyethylene glycol",
+		"molarMass": 400,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 110",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 15200
+	},
+	{
+		"prd": 30044074,
+		"product_name": "Pluriol E 600",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Polyethylene glycol",
+		"molarMass": 600,
+		"meltingPoint": "approx. 20",
+		"viscosityAtPascal": "approx. 40 (50 C)",
+		"physicalFormAtDegrees": "Liquid/Solid",
+		"isSurfactant": true,
+		"sortNumber": 15300
+	},
+	{
+		"prd": 30112289,
+		"product_name": "Pluriol E 1000 LS",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Polyethylene glycol",
+		"molarMass": 1000,
+		"meltingPoint": "approx. 40",
+		"viscosityAtPascal": "-",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 15400
+	},
+	{
+		"prd": 30044072,
+		"product_name": "Pluriol E 1500 E",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Polyethylene glycol",
+		"molarMass": 1500,
+		"meltingPoint": "approx. 45",
+		"viscosityAtPascal": "approx. 60 (75 C)",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 15500
+	},
+	{
+		"prd": 30044099,
+		"product_name": "Pluriol E 1500 Flakes",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Polyethylene glycol",
+		"molarMass": 1500,
+		"meltingPoint": "approx. 45",
+		"viscosityAtPascal": "approx. 60 (75 C)",
+		"physicalFormAtDegrees": "Flakes",
+		"isSurfactant": true,
+		"sortNumber": 15600
+	},
+	{
+		"prd": 30074934,
+		"product_name": "Pluriol E 3400 Flakes",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Polyethylene glycol",
+		"molarMass": 3400,
+		"meltingPoint": "approx. 55",
+		"viscosityAtPascal": "approx. 190 (75 C)",
+		"physicalFormAtDegrees": "Flakes",
+		"isSurfactant": true,
+		"sortNumber": 15700
+	},
+	{
+		"prd": 30044103,
+		"product_name": "Pluriol E 4000 Flakes",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Polyethylene glycol",
+		"molarMass": 4000,
+		"meltingPoint": "approx. 55",
+		"viscosityAtPascal": "approx. 260 (75 C)",
+		"physicalFormAtDegrees": "Flakes",
+		"isSurfactant": true,
+		"sortNumber": 15800
+	},
+	{
+		"prd": 30044118,
+		"product_name": "Pluriol E 6000 Flakes",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyethylene glycol",
+		"molarMass": 6000,
+		"meltingPoint": "approx. 60",
+		"viscosityAtPascal": "approx. 600 (75 C)",
+		"physicalFormAtDegrees": "Flakes",
+		"isSurfactant": true,
+		"sortNumber": 15900
+	},
+	{
+		"prd": 30074961,
+		"product_name": "Pluriol E 8000 Flakes",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyethylene glycol",
+		"molarMass": 8000,
+		"meltingPoint": "approx. 63",
+		"viscosityAtPascal": "approx. 130* (50 C)",
+		"physicalFormAtDegrees": "Flakes",
+		"additionalInformation": "* 50% aqueous solution",
+		"isSurfactant": true,
+		"sortNumber": 16000
+	},
+	{
+		"prd": 30044094,
+		"product_name": "Pluriol E 9000 Powder",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyethylene glycol",
+		"molarMass": 9000,
+		"meltingPoint": "approx. 65",
+		"viscosityAtPascal": "approx. 260* (50 C)",
+		"physicalFormAtDegrees": "Powder",
+		"additionalInformation": "* 50% aqueous solution",
+		"isSurfactant": true,
+		"sortNumber": 16100
+	},
+	{
+		"prd": 30044075,
+		"product_name": "Pluriol E 600 S",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Polyalkylene glycol",
+		"molarMass": 600,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 40 (50 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 16200
+	},
+	{
+		"prd": 30044089,
+		"product_name": "Pluriol P 600",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Polypropylene glycol",
+		"molarMass": 600,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 130",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 16300
+	},
+	{
+		"prd": 30618043,
+		"product_name": "Pluriol P 900 CA",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Polypropylene glycol",
+		"molarMass": 900,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 140",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 16400
+	},
+	{
+		"prd": 30620538,
+		"product_name": "Pluriol P 2000",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Polypropylene glycol",
+		"molarMass": 2000,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 440",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 16500
+	},
+	{
+		"prd": 30044088,
+		"product_name": "Pluriol P 4000",
+		"product_type": [
+			{
+				"name": "Nonionic Surfactants",
+				"id": 100,
+				"children": [
+					{
+						"name": "Polyalkylene Glycols",
+						"id": 207
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polypropylene glycol",
+		"molarMass": 4000,
+		"meltingPoint": "-",
+		"viscosityAtPascal": "approx. 1050 ",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 16600
+	},
+	{
+		"prd": 30535680,
+		"product_name": "Disponil BES 20",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Ethersulfates",
+						"id": 208
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Isotridecyl ethersulfate + 20 EO, sodium salt",
+		"concentration": "approx. 29",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 16700
+	},
+	{
+		"prd": 30533563,
+		"product_name": "Agnique SLES-370",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Ethersulfates",
+						"id": 208
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethersulfate + 2 EO, sodium salt",
+		"concentration": "approx. 70",
+		"physicalFormAtDegrees": "Paste",
+		"isSurfactant": true,
+		"sortNumber": 16800
+	},
+	{
+		"prd": 30772406,
+		"product_name": "Disponil FES 27 EVO",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Ethersulfates",
+						"id": 208
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethersulfate + 2 EO, sodium salt",
+		"concentration": "approx. 27",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 16900
+	},
+	{
+		"prd": 30530865,
+		"product_name": "Disponil FES 27 IS",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Ethersulfates",
+						"id": 208
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethersulfate + 2 EO, sodium salt",
+		"concentration": "approx. 27",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 17000
+	},
+	{
+		"prd": 30772571,
+		"product_name": "Disponil FES 32 EVO",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Ethersulfates",
+						"id": 208
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethersulfate + 4 EO, sodium salt",
+		"concentration": "approx. 31",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 17100
+	},
+	{
+		"prd": 30575217,
+		"product_name": "Disponil FES 147",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Ethersulfates",
+						"id": 208
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethersulfate + 7 EO, sodium salt",
+		"concentration": "approx. 27",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 17200
+	},
+	{
+		"prd": 30531409,
+		"product_name": "Disponil FES 993",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Ethersulfates",
+						"id": 208
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethersulfate + 12 EO, sodium salt",
+		"concentration": "approx. 30",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 17300
+	},
+	{
+		"prd": 30531406,
+		"product_name": "Disponil FES 77",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Ethersulfates",
+						"id": 208
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethersulfate + 30 EO, sodium salt",
+		"concentration": "approx. 33",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 17400
+	},
+	{
+		"prd": 30531405,
+		"product_name": "Disponil FES 61",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Ethersulfates",
+						"id": 208
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Fatty alcohol ethersulfate + 50 EO, sodium salt",
+		"concentration": "approx. 32",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 17500
+	},
+	{
+		"prd": 30774105,
+		"product_name": "Disponil SOS 842 EVO",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Sulfates",
+						"id": 209
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C8 Fatty alcohol sulfate, sodium salt",
+		"concentration": "approx. 40",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 17600
+	},
+	{
+		"prd": 30528418,
+		"product_name": "Disponil EHS 47",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Sulfates",
+						"id": 209
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "2-Ethylhexyl sulfate, sodium salt",
+		"concentration": "approx. 47",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 17700
+	},
+	{
+		"prd": 30529940,
+		"product_name": "Texapon 1030",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Sulfates",
+						"id": 209
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10-Fatty alcohol sulfate, sodium salt",
+		"concentration": "approx. 29",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 17800
+	},
+	{
+		"prd": 30770623,
+		"product_name": "Disponil SDS 15 EVO",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Sulfates",
+						"id": 209
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C12-Fatty alcohol sulfate, sodium salt",
+		"concentration": "approx. 15",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 17900
+	},
+	{
+		"prd": 30773639,
+		"product_name": "Disponil SDS 30 EVO",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Sulfates",
+						"id": 209
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C12-Fatty alcohol sulfate, sodium salt",
+		"concentration": "approx. 30",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 18000
+	},
+	{
+		"prd": 30528602,
+		"product_name": "Disponil SDS G",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Sulfates",
+						"id": 209
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C12-Fatty alcohol sulfate, sodium salt",
+		"concentration": "approx. 97",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 18100
+	},
+	{
+		"prd": 30673496,
+		"product_name": "Disponil ALS-IS",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Sulfates",
+						"id": 209
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C12C14-Fatty alcohol sulfate, ammonium salt",
+		"concentration": "approx. 28",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 18200
+	},
+	{
+		"prd": 30774425,
+		"product_name": "Disponil ALS 33 EVO",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Sulfates",
+						"id": 209
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C8C14-Fatty alcohol sulfate, ammonium salt",
+		"concentration": "approx. 33",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 18300
+	},
+	{
+		"prd": 30528641,
+		"product_name": "Texapon TH",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Sulfates",
+						"id": 209
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C8C14-Fatty alcohol sulfate, triethanolamine salt",
+		"concentration": "approx. 47",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 18400
+	},
+	{
+		"prd": 30772421,
+		"product_name": "Disponil SLS 101 Spec EVO",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Sulfates",
+						"id": 209
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C12C16-Fatty alcohol sulfate, sodium salt",
+		"concentration": "approx. 30",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 18500
+	},
+	{
+		"prd": 30537533,
+		"product_name": "Disponil SLS 101 IS",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Sulfates",
+						"id": 209
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C12C16-Fatty alcohol sulfate, sodium salt",
+		"concentration": "approx. 30",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 18600
+	},
+	{
+		"prd": 30528597,
+		"product_name": "Disponil SLS 124 G",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Sulfates",
+						"id": 209
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C12C16-Fatty alcohol sulfate, sodium salt",
+		"concentration": "approx. 97",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 18700
+	},
+	{
+		"prd": 30531170,
+		"product_name": "Disponil OCS 27",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Fatty Alcohol Sulfates",
+						"id": 209
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C16C18/C18:1-Fatty alcohol sulfate, sodium salt",
+		"concentration": "approx. 27",
+		"physicalFormAtDegrees": "Solid",
+		"isSurfactant": true,
+		"sortNumber": 18800
+	},
+	{
+		"prd": 30534054,
+		"product_name": "Agnique ABS 70 C",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Linear Alkylbenzene Sulfonates",
+						"id": 210
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Alkyl benzene sulfonate in isobutanol",
+		"concentration": "approx. 70",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 18900
+	},
+	{
+		"prd": 30773485,
+		"product_name": "Disponil LDBS 25 EVO",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Linear Alkylbenzene Sulfonates",
+						"id": 210
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Linear dodecyl benzene sulfonate, sodium salt",
+		"concentration": "approx. 25",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 19000
+	},
+	{
+		"prd": 30529369,
+		"product_name": "Disponil LDBS 55",
+		"product_type": [
+			{
+				"name": "Anionic Surfactants",
+				"id": 101,
+				"children": [
+					{
+						"name": "Linear Alkylbenzene Sulfonates",
+						"id": 210
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Linear dodecyl benzene sulfonate, sodium salt",
+		"concentration": "approx. 55",
+		"physicalFormAtDegrees": "Paste",
+		"isSurfactant": true,
+		"sortNumber": 19100
+	},
+	{
+		"prd": 30531411,
+		"product_name": "Disponil SUS 87 Spez.",
+		"product_type": [
+			{
+				"name": "Other Surfactants",
+				"id": 102
+			}
+		],
+		"sustainability": {
+			"bioBased": 1.0
+		},
+		"chemicalNature": "Mono-alkyl sulfosuccinate, sodium salt (5 EO)",
+		"concentration": "approx. 30",
+		"viscosityAtPascal": "approx. 30",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 19200
+	},
+	{
+		"prd": 30531866,
+		"product_name": "Disponil SUS IC 10",
+		"product_type": [
+			{
+				"name": "Other Surfactants",
+				"id": 102
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Di-isodecyl sulfosuccinate, sodium salt",
+		"concentration": "approx. 65",
+		"viscosityAtPascal": "approx. 130",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 19300
+	},
+	{
+		"prd": 30529336,
+		"product_name": "Disponil SUS IC 875",
+		"product_type": [
+			{
+				"name": "Other Surfactants",
+				"id": 102
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Di-isooctyl sulfosuccinate, sodium salt",
+		"concentration": "approx. 75",
+		"viscosityAtPascal": "approx. 350",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 19400
+	},
+	{
+		"prd": 30043933,
+		"product_name": "Lutensit A-BO",
+		"product_type": [
+			{
+				"name": "Other Surfactants",
+				"id": 102
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Di-isooctyl sulfosuccinate, sodium salt",
+		"concentration": "approx. 60",
+		"viscosityAtPascal": "approx. 150",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 19500
+	},
+	{
+		"prd": 30043926,
+		"product_name": "Lutensit A-EP",
+		"product_type": [
+			{
+				"name": "Other Surfactants",
+				"id": 102
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Acidic phosphoric ester of a fatty alcohol alkoxylates ",
+		"concentration": "approx. 100",
+		"viscosityAtPascal": "approx. 2180",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 19600
+	},
+	{
+		"prd": 30528652,
+		"product_name": "Agnique OAS 50 K",
+		"product_type": [
+			{
+				"name": "Other Surfactants",
+				"id": 102
+			}
+		],
+		"sustainability": {
+			"bioBased": 2.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Oleic acid sulfonate-di-potassium salt",
+		"concentration": "approx. 52",
+		"viscosityAtPascal": "approx. 250 (30 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 19700
+	},
+	{
+		"prd": 30528126,
+		"product_name": "Agnique FOH 9 OC",
+		"product_type": [
+			{
+				"name": "Fatty Alcohols",
+				"id": 111
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "Unsaturated fatty alcohol",
+		"concentration": "approx. 100",
+		"viscosityAtPascal": "< 20 (40 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 19800
+	},
+	{
+		"prd": 30588244,
+		"product_name": "Emulan G 20",
+		"product_type": [
+			{
+				"name": "Fatty Alcohols",
+				"id": 111
+			}
+		],
+		"sustainability": {
+			"bioBased": 3.0,
+			"bioDegradable": true
+		},
+		"chemicalNature": "C20 Guerbet alcohol",
+		"concentration": "approx. 100",
+		"viscosityAtPascal": "approx. 60 (20 C)",
+		"physicalFormAtDegrees": "Liquid",
+		"isSurfactant": true,
+		"sortNumber": 19900
+	},
+	{
+		"prd": 30042761,
+		"product_name": "Sokalan CP 5",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Maleic acid/acrylic acid copolymer, sodium salt",
+		"molarMass": " 70000",
+		"concentration": 40,
+		"density": "1.30",
+		"phValue": 8,
+		"viscosityAtPascal": "2 000",
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 20000
+	},
+	{
+		"prd": 30042823,
+		"product_name": "Sokalan CP 9",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Maleic acid/olefin copolymer, sodium salt",
+		"molarMass": " 12000",
+		"concentration": 25,
+		"density": "1.12",
+		"phValue": "11.5",
+		"viscosityAtPascal": 50,
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 20100
+	},
+	{
+		"prd": 30596022,
+		"product_name": "Sokalan CP 9 Powder",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Maleic acid/olefin copolymer, sodium salt",
+		"molarMass": " 12000",
+		"concentration": "> 89",
+		"density": "-",
+		"phValue": 11,
+		"viscosityAtPascal": "-",
+		"physicalFormAtDegrees": "Powder",
+		"isSokalan": true,
+		"sortNumber": 20200
+	},
+	{
+		"prd": 30051448,
+		"product_name": "Sokalan CP 10",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyacrylic acid, modified, sodium salt",
+		"molarMass": " 4000",
+		"concentration": 45,
+		"density": "1.30",
+		"phValue": "8.5**",
+		"viscosityAtPascal": 500,
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 20300
+	},
+	{
+		"prd": 30042757,
+		"product_name": "Sokalan CP 10 S",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyacrylic acid, modified",
+		"molarMass": " 4 000",
+		"concentration": 50,
+		"density": "1.16",
+		"phValue": 2,
+		"viscosityAtPascal": 150,
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 20400
+	},
+	{
+		"prd": 30042760,
+		"product_name": "Sokalan CP 12 S",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Maleic acid/acrylic acid copolymer",
+		"molarMass": " 3 000",
+		"concentration": 50,
+		"density": "1.23",
+		"phValue": "1.5",
+		"viscosityAtPascal": 130,
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 20500
+	},
+	{
+		"prd": 30042758,
+		"product_name": "Sokalan CP 13 S",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyacrylic acid, modified",
+		"molarMass": " 20 000",
+		"concentration": 25,
+		"density": "1.20",
+		"phValue": 2,
+		"viscosityAtPascal": 200,
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 20600
+	},
+	{
+		"prd": 30042858,
+		"product_name": "Sokalan PA 15",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyacrylic acid, sodium salt",
+		"molarMass": " 1200",
+		"concentration": 45,
+		"density": "1.31",
+		"phValue": 7,
+		"viscosityAtPascal": 230,
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 20700
+	},
+	{
+		"prd": 30042865,
+		"product_name": "Sokalan PA 25 CL PN*",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyacrylic acid, sodium salt",
+		"molarMass": 4000,
+		"concentration": 49,
+		"density": "1.25",
+		"phValue": 4,
+		"viscosityAtPascal": 600,
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "* Partially neutralized",
+		"isSokalan": true,
+		"sortNumber": 20800
+	},
+	{
+		"prd": 30042885,
+		"product_name": "Sokalan PA 30 CL",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyacrylic acid, sodium salt",
+		"molarMass": 8000,
+		"concentration": 45,
+		"density": "1.34",
+		"phValue": 8,
+		"viscosityAtPascal": "1 000",
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 20900
+	},
+	{
+		"prd": 30604969,
+		"product_name": "Sokalan NR 2530",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyacrylic acid, modified, sodium salt, partially neutralized",
+		"molarMass": 4500,
+		"concentration": "approx. 45",
+		"density": "1.26",
+		"phValue": "4.5",
+		"viscosityAtPascal": "1 000",
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 21000
+	},
+	{
+		"prd": 30604909,
+		"product_name": "Sokalan NR 2555",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyacrylic acid, modified, sodium salt, partially neutralized",
+		"molarMass": 4500,
+		"concentration": "approx. 45",
+		"density": "1.28",
+		"phValue": "5",
+		"viscosityAtPascal": 900,
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 21100
+	},
+	{
+		"prd": 30604946,
+		"product_name": "Sokalan NR 2595",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyacrylic acid, modified, sodium salt",
+		"molarMass": 4500,
+		"concentration": "approx. 45",
+		"density": "1.3",
+		"phValue": "8",
+		"viscosityAtPascal": 700,
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 21200
+	},
+	{
+		"prd": 30365786,
+		"product_name": "Sokalan PA 25 XS",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyacrylic acid",
+		"molarMass": 5000,
+		"concentration": "approx. 49",
+		"density": "1.2",
+		"phValue": "2.5",
+		"viscosityAtPascal": 500,
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 21300
+	},
+	{
+		"prd": 30042870,
+		"product_name": "Sokalan PA 80 S",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyacrylic acid",
+		"molarMass": " 100000",
+		"concentration": 35,
+		"density": "1.14",
+		"phValue": "2",
+		"viscosityAtPascal": 50,
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 21400
+	},
+	{
+		"prd": 30042839,
+		"product_name": "Sokalan PA 110 S",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Dispersing Agents",
+						"id": 212
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyacrylic acid",
+		"molarMass": " 250000",
+		"concentration": 35,
+		"density": "1.14",
+		"phValue": "2",
+		"viscosityAtPascal": 5000,
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 21500
+	},
+	{
+		"prd": 30506387,
+		"product_name": "Rheovis AT 120",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Thickeners",
+						"id": 215
+					}
+				]
+			}
+		],
+		"chemicalNature": "Methacrylic acid/acrylic acid ester copolymer, modified",
+		"concentration": "30",
+		"density": "1.05",
+		"phValue": "3",
+		"viscosityAtPascal": 30,
+		"physicalFormAtDegrees": "Dispersion",
+		"isRheovis": true,
+		"sortNumber": 21600
+	},
+	{
+		"prd": 30552322,
+		"product_name": "Lupasol FG",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyethylene Imines",
+						"id": 225
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyethylene imine",
+		"molarMass": 800,
+		"concentration": 99,
+		"phValue": 11,
+		"viscosityAtPascal": "approx. 1 680",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 21700
+	},
+	{
+		"prd": 30048280,
+		"product_name": "Lupasol G 20 Waterfree",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyethylene Imines",
+						"id": 225
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyethylene imine",
+		"molarMass": " 1300",
+		"concentration": 99,
+		"phValue": 11,
+		"viscosityAtPascal": "approx. 8 000",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 21800
+	},
+	{
+		"prd": 30048279,
+		"product_name": "Lupasol G 20",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyethylene Imines",
+						"id": 225
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyethylene imine",
+		"molarMass": " 1300",
+		"concentration": 50,
+		"phValue": 11,
+		"viscosityAtPascal": "approx. 1 500",
+		"physicalFormAtDegrees": "Aqueous Solution",
+		"sortNumber": 21900
+	},
+	{
+		"prd": 30048286,
+		"product_name": "Lupasol PR 8515",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyethylene Imines",
+						"id": 225
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyethylene imine",
+		"molarMass": " 2000",
+		"concentration": 99,
+		"phValue": 11,
+		"viscosityAtPascal": "approx. 14 000",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 22000
+	},
+	{
+		"prd": 30048278,
+		"product_name": "Lupasol G 100",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyethylene Imines",
+						"id": 225
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyethylene imine",
+		"molarMass": "5 000",
+		"concentration": 50,
+		"phValue": 11,
+		"viscosityAtPascal": "approx. 1 100",
+		"physicalFormAtDegrees": "Aqueous Solution",
+		"sortNumber": 22100
+	},
+	{
+		"prd": 30048289,
+		"product_name": "Lupasol WF",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyethylene Imines",
+						"id": 225
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyethylene imine",
+		"molarMass": " 25000",
+		"concentration": 99,
+		"phValue": 11,
+		"viscosityAtPascal": "> 200 000",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 22200
+	},
+	{
+		"prd": 30048284,
+		"product_name": "Lupasol P",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyethylene Imines",
+						"id": 225
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyethylene imine",
+		"molarMass": " 750000",
+		"concentration": 50,
+		"phValue": 11,
+		"viscosityAtPascal": "approx. 25 000",
+		"physicalFormAtDegrees": "Aqueous Solution",
+		"sortNumber": 22300
+	},
+	{
+		"prd": 30647312,
+		"product_name": "Lupasol PN 40",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyethylene Imines",
+						"id": 225
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyethylene imine, ethoxylated",
+		"molarMass": " - ",
+		"concentration": "approx. 80",
+		"phValue": 10,
+		"viscosityAtPascal": "approx. 800",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 22400
+	},
+	{
+		"prd": 30581851,
+		"product_name": "Sokalan K 17 P",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyvinylpyrrolidones & Copolymers",
+						"id": 226
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyvinylpyrrolidone",
+		"molarMass": 9000,
+		"concentration": "approx. 98",
+		"physicalFormAtDegrees": "Powder",
+		"isSokalan": true,
+		"sortNumber": 22500
+	},
+	{
+		"prd": 30581847,
+		"product_name": "Sokalan K 30 P",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyvinylpyrrolidones & Copolymers",
+						"id": 226
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyvinylpyrrolidone",
+		"molarMass": 50000,
+		"concentration": "approx. 98",
+		"physicalFormAtDegrees": "Powder",
+		"isSokalan": true,
+		"sortNumber": 22600
+	},
+	{
+		"prd": 30581849,
+		"product_name": "Sokalan K 30 sol. 30%",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyvinylpyrrolidones & Copolymers",
+						"id": 226
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyvinylpyrrolidone",
+		"molarMass": 50000,
+		"concentration": "approx. 30",
+		"viscosityAtPascal": "approx. 120",
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 22700
+	},
+	{
+		"prd": 30581846,
+		"product_name": "Sokalan K 90 P",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyvinylpyrrolidones & Copolymers",
+						"id": 226
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyvinylpyrrolidone",
+		"molarMass": 1400000,
+		"concentration": "approx. 98",
+		"physicalFormAtDegrees": "Powder",
+		"isSokalan": true,
+		"sortNumber": 22800
+	},
+	{
+		"prd": 30581850,
+		"product_name": "Sokalan K 90 sol. 20%",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyvinylpyrrolidones & Copolymers",
+						"id": 226
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyvinylpyrrolidone",
+		"molarMass": 1600000,
+		"concentration": "approx. 20",
+		"viscosityAtPascal": "approx. 28 000",
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 22900
+	},
+	{
+		"prd": 30658616,
+		"product_name": "Sokalan K 115 AT 1",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyvinylpyrrolidones & Copolymers",
+						"id": 226
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyvinylpyrrolidone",
+		"molarMass": "2200000",
+		"concentration": "approx. 11",
+		"viscosityAtPascal": "approx. 3 000",
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 23000
+	},
+	{
+		"prd": 30057654,
+		"product_name": "Sokalan HP 165",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyvinylpyrrolidones & Copolymers",
+						"id": 226
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyvinylpyrrolidone",
+		"molarMass": "9000",
+		"concentration": "approx. 30",
+		"viscosityAtPascal": "approx. 20",
+		"physicalFormAtDegrees": "Liquid",
+		"isSokalan": true,
+		"sortNumber": 23100
+	},
+	{
+		"prd": 30581848,
+		"product_name": "Sokalan VA 64 P",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyvinylpyrrolidones & Copolymers",
+						"id": 226
+					}
+				]
+			}
+		],
+		"chemicalNature": "Vinylpyrrolidone/Vinylacetate copolymer",
+		"molarMass": 65000,
+		"concentration": "approx. 95",
+		"physicalFormAtDegrees": "Powder",
+		"isSokalan": true,
+		"sortNumber": 23200
+	},
+	{
+		"prd": 30064507,
+		"product_name": "Sokalan HP 56 Granules",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyvinylpyrrolidones & Copolymers",
+						"id": 226
+					}
+				]
+			}
+		],
+		"chemicalNature": "Vinylpyrrolidone/Vinylimidazole copolymer",
+		"molarMass": " 70000",
+		"concentration": "approx. 95",
+		"physicalFormAtDegrees": "Granules",
+		"isSokalan": true,
+		"sortNumber": 23300
+	},
+	{
+		"prd": 30731623,
+		"product_name": "Sokalan HP 56 A",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyvinylpyrrolidones & Copolymers",
+						"id": 226
+					}
+				]
+			}
+		],
+		"chemicalNature": "Vinylpyrrolidone/Vinylimidazole copolymer",
+		"molarMass": " 70000",
+		"concentration": "approx. 30",
+		"viscosityAtPascal": "approx. 300",
+		"physicalFormAtDegrees": "Aqueous solution",
+		"isSokalan": true,
+		"sortNumber": 23400
+	},
+	{
+		"prd": 30754975,
+		"product_name": "Sokalan HP 66 A",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Polyvinylpyrrolidones & Copolymers",
+						"id": 226
+					}
+				]
+			}
+		],
+		"chemicalNature": "Modified Polyvinylpyrrolidone ",
+		"molarMass": "40 000",
+		"concentration": "approx. 41",
+		"viscosityAtPascal": "approx. 2 000",
+		"physicalFormAtDegrees": "Aqueous solution",
+		"isSokalan": true,
+		"sortNumber": 23500
+	},
+	{
+		"prd": 30043764,
+		"product_name": "Tamol NN 2406",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Sulfonic Acid Condensation Products/Sulfonates",
+						"id": 227
+					}
+				]
+			}
+		],
+		"chemicalNature": "Naphthalene sulfonic acid condensation product, sodium salt ",
+		"dryContent": 31,
+		"bulkDensity": "-",
+		"viscosityAtPascal": "approx. 20",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 23600
+	},
+	{
+		"prd": 30674513,
+		"product_name": "Tamol NN 3501",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Sulfonic Acid Condensation Products/Sulfonates",
+						"id": 227
+					}
+				]
+			}
+		],
+		"chemicalNature": "Naphthalene sulfonic acid condensation product, sodium salt ",
+		"dryContent": 38,
+		"bulkDensity": "-",
+		"viscosityAtPascal": "approx. 50",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 23700
+	},
+	{
+		"prd": 30043768,
+		"product_name": "Tamol NN 8906",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Sulfonic Acid Condensation Products/Sulfonates",
+						"id": 227
+					}
+				]
+			}
+		],
+		"chemicalNature": "Naphthalene sulfonic acid condensation product, sodium salt ",
+		"dryContent": "approx. 95",
+		"bulkDensity": "approx. 500",
+		"physicalFormAtDegrees": "Powder",
+		"sortNumber": 23800
+	},
+	{
+		"prd": 30043760,
+		"product_name": "Tamol NN 9104",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Sulfonic Acid Condensation Products/Sulfonates",
+						"id": 227
+					}
+				]
+			}
+		],
+		"chemicalNature": "Naphthalene sulfonic acid condensation product, sodium salt ",
+		"dryContent": 95,
+		"bulkDensity": "approx. 500",
+		"physicalFormAtDegrees": "Powder",
+		"sortNumber": 23900
+	},
+	{
+		"prd": 30043828,
+		"product_name": "Tamol NN 9401",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Sulfonic Acid Condensation Products/Sulfonates",
+						"id": 227
+					}
+				]
+			}
+		],
+		"chemicalNature": "Naphthalene sulfonic acid condensation product, sodium salt ",
+		"dryContent": 95,
+		"bulkDensity": "approx. 500",
+		"physicalFormAtDegrees": "Powder",
+		"sortNumber": 24000
+	},
+	{
+		"prd": 30043772,
+		"product_name": "Tamol NH 7519 ",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Sulfonic Acid Condensation Products/Sulfonates",
+						"id": 227
+					}
+				]
+			}
+		],
+		"chemicalNature": "Naphthalene sulfonic acid condensation product, sodium salt ",
+		"dryContent": "approx. 95",
+		"bulkDensity": "approx. 500",
+		"physicalFormAtDegrees": "Powder",
+		"sortNumber": 24100
+	},
+	{
+		"prd": 30082039,
+		"product_name": "Tamol DN",
+		"product_type": [
+			{
+				"name": "Water Soluble Polymers",
+				"id": 112,
+				"children": [
+					{
+						"name": "Sulfonic Acid Condensation Products/Sulfonates",
+						"id": 227
+					}
+				]
+			}
+		],
+		"chemicalNature": "Phenolsulfonic acid, condensation product, sodium salt ",
+		"dryContent": "approx. 95",
+		"bulkDensity": "approx. 450",
+		"physicalFormAtDegrees": "Powder",
+		"sortNumber": 24200
+	},
+	{
+		"prd": 30043449,
+		"product_name": "Trilon BS",
+		"product_type": [
+			{
+				"name": "Chelating Agents",
+				"id": 104
+			}
+		],
+		"chemicalNature": "Ethylenediaminetetraacetic acid (EDTA)",
+		"concentration": 99,
+		"bulkDensity": "approx. 820",
+		"density": "-",
+		"phValueAtWater": "approx. 2.8",
+		"physicalFormAtDegrees": "Powder",
+		"sortNumber": 24300
+	},
+	{
+		"prd": 30043452,
+		"product_name": "Trilon BD",
+		"product_type": [
+			{
+				"name": "Chelating Agents",
+				"id": 104
+			}
+		],
+		"chemicalNature": "Disodium salt of EDTA, dihydrate",
+		"concentration": ">= 89",
+		"bulkDensity": "approx. 950",
+		"density": "-",
+		"phValueAtWater": "approx. 4.5",
+		"physicalFormAtDegrees": "Powder",
+		"sortNumber": 24400
+	},
+	{
+		"prd": 30043499,
+		"product_name": "Trilon B Liquid",
+		"product_type": [
+			{
+				"name": "Chelating Agents",
+				"id": 104
+			}
+		],
+		"chemicalNature": "Tetrasodium salt of EDTA",
+		"concentration": 40,
+		"bulkDensity": "-",
+		"density": "approx. 1.31",
+		"phValueAtWater": "approx. 11.5",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 24500
+	},
+	{
+		"prd": 30043447,
+		"product_name": "Trilon BX Liquid",
+		"product_type": [
+			{
+				"name": "Chelating Agents",
+				"id": 104
+			}
+		],
+		"chemicalNature": "Tetrasodium salt of EDTA, purer form",
+		"concentration": 40,
+		"bulkDensity": "-",
+		"density": "approx. 1.28",
+		"phValueAtWater": "approx. 11.5",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 24600
+	},
+	{
+		"prd": 30043442,
+		"product_name": "Trilon B Powder",
+		"product_type": [
+			{
+				"name": "Chelating Agents",
+				"id": 104
+			}
+		],
+		"chemicalNature": "Tetrasodium salt of EDTA, tetrahydrate",
+		"concentration": 87,
+		"bulkDensity": "approx. 690",
+		"density": "-",
+		"phValueAtWater": "approx. 11.5",
+		"physicalFormAtDegrees": "Powder",
+		"sortNumber": 24700
+	},
+	{
+		"prd": 30043448,
+		"product_name": "Trilon BX Powder",
+		"product_type": [
+			{
+				"name": "Chelating Agents",
+				"id": 104
+			}
+		],
+		"chemicalNature": "Tetrasodium salt of EDTA, purer form",
+		"concentration": 85,
+		"bulkDensity": "approx. 845",
+		"density": "-",
+		"phValueAtWater": "approx. 11.2",
+		"physicalFormAtDegrees": "Powder",
+		"sortNumber": 24800
+	},
+	{
+		"prd": 30043456,
+		"product_name": "Trilon D Liquid",
+		"product_type": [
+			{
+				"name": "Chelating Agents",
+				"id": 104
+			}
+		],
+		"chemicalNature": "Trisodium salt of Hydroxyethyl-ethylenediaminetriacetic acid (HEDTA)",
+		"concentration": 40,
+		"bulkDensity": "-",
+		"density": "approx. 1.26",
+		"phValueAtWater": "approx. 11.5",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 24900
+	},
+	{
+		"prd": 30043459,
+		"product_name": "Trilon M Liquid",
+		"product_type": [
+			{
+				"name": "Chelating Agents",
+				"id": 104
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Trisodium salt of Methylglycine-diacetic acid (MGDA)",
+		"concentration": 40,
+		"bulkDensity": "-",
+		"density": "approx. 1.31",
+		"phValueAtWater": "approx. 11.0",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 25000
+	},
+	{
+		"prd": 30513095,
+		"product_name": "Trilon M Max BioBased Gran",
+		"product_type": [
+			{
+				"name": "Chelating Agents",
+				"id": 104
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Trisodium salt of Methylglycine-diacetic acid (MGDA)",
+		"concentration": 79,
+		"bulkDensity": "approx. 760",
+		"density": "-",
+		"phValueAtWater": "approx. 11.5",
+		"physicalFormAtDegrees": "Granules",
+		"sortNumber": 25100
+	},
+	{
+		"prd": 30742141,
+		"product_name": "Trilon M Max EcoBalanced",
+		"product_type": [
+			{
+				"name": "Chelating Agents",
+				"id": 104
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Trisodium salt of Methylglycine-diacetic acid (MGDA)",
+		"concentration": 40,
+		"bulkDensity": "-",
+		"density": "approx. 1.31",
+		"phValueAtWater": "approx. 11.0",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 25200
+	},
+	{
+		"prd": 30078326,
+		"product_name": "Trilon P Liquid",
+		"product_type": [
+			{
+				"name": "Chelating Agents",
+				"id": 104
+			}
+		],
+		"chemicalNature": "Modified anionic Polyamine",
+		"concentration": 40,
+		"bulkDensity": "-",
+		"density": "approx. 1.20",
+		"phValueAtWater": "approx. 11.5",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 25300
+	},
+	{
+		"prd": 30042690,
+		"product_name": "Golpanol ALS",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Sodium allylsulphonate",
+		"concentration": "25",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 25400
+	},
+	{
+		"prd": 30144540,
+		"product_name": "Golpanol ALS 35",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Sodium allylsulphonate",
+		"concentration": "35",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 25500
+	},
+	{
+		"prd": 30042696,
+		"product_name": "Golpanol HD",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"chemicalNature": "3-Hexyne-2,5-diol",
+		"concentration": "80",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 25600
+	},
+	{
+		"prd": 30519104,
+		"product_name": "Golpanol MBS Granules N*",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"chemicalNature": "Sodium nitrobenzene sulphonate",
+		"concentration": ">= 92",
+		"physicalFormAtDegrees": "Granules",
+		"additionalInformation": "* Neutralized",
+		"sortNumber": 25700
+	},
+	{
+		"prd": 30042699,
+		"product_name": "Golpanol PA",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Propargyl alcohol",
+		"concentration": ">= 99.3",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 25800
+	},
+	{
+		"prd": 30042702,
+		"product_name": "Golpanol PS",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"chemicalNature": "Sodium propargyl sulphonate",
+		"concentration": "20",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 25900
+	},
+	{
+		"prd": 30042703,
+		"product_name": "Golpanol VS",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Sodium vinyl sulphonate",
+		"concentration": "25.5",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 26000
+	},
+	{
+		"prd": 30042706,
+		"product_name": "Lugalvan ANA",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "4-Methoxybenzaldehyde (p-anisaldehyde)",
+		"concentration": ">= 98.5",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 26100
+	},
+	{
+		"prd": 30042708,
+		"product_name": "Lugalvan BNO 12",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"chemicalNature": "beta-Naphthol ethoxylate",
+		"concentration": "99",
+		"physicalFormAtDegrees": "Crystals in block form",
+		"sortNumber": 26200
+	},
+	{
+		"prd": 30650170,
+		"product_name": "Lugalvan BNS",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"chemicalNature": "Aqueous solution based on beta-naphtholethoxylate, sulfonated, sodium salt",
+		"concentration": 50,
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 26300
+	},
+	{
+		"prd": 30042711,
+		"product_name": "Lugalvan BPC 48",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"chemicalNature": "Benzylpyridinium-3-carboxylate",
+		"concentration": "48",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 26400
+	},
+	{
+		"prd": 30042724,
+		"product_name": "Lugalvan G 35",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"chemicalNature": "Low-molecular polyethylene imine",
+		"concentration": 50,
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 26500
+	},
+	{
+		"prd": 30042723,
+		"product_name": "Lugalvan G 15000",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"chemicalNature": "High-molecular polyethylene imine",
+		"concentration": "50",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 26600
+	},
+	{
+		"prd": 30050765,
+		"product_name": "Lugalvan HS 1000",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Thiodiglycol ethoxylate",
+		"concentration": ">= 98",
+		"physicalFormAtDegrees": "Solid",
+		"sortNumber": 26700
+	},
+	{
+		"prd": 30042728,
+		"product_name": "Lugalvan IMZ",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Imidazole",
+		"concentration": ">= 99.5",
+		"physicalFormAtDegrees": "Flakes",
+		"sortNumber": 26800
+	},
+	{
+		"prd": 30125953,
+		"product_name": "Lugalvan IZE",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"chemicalNature": "Addition product of imidazole and epichlorohydrin",
+		"concentration": "45",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 26900
+	},
+	{
+		"prd": 30235598,
+		"product_name": "Lugalvan P",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polymer of a quaternary ammonium salt in water",
+		"concentration": ">= 62",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 27000
+	},
+	{
+		"prd": 30042689,
+		"product_name": "Lutron PVI",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"chemicalNature": "Quaternary polyvinylimidazolium salt in water",
+		"concentration": "44",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 27100
+	},
+	{
+		"prd": 30661193,
+		"product_name": "Lugalvan SOR",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Aqueous alkylpolyglucoside",
+		"concentration": "approx. 65",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 27200
+	},
+	{
+		"prd": 30042719,
+		"product_name": "Lutron HF 1",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"chemicalNature": "Modified polyglycol ether",
+		"concentration": 100,
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 27300
+	},
+	{
+		"prd": 30042727,
+		"product_name": "Lutron KS 1",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"chemicalNature": "Modified polyglycol ether",
+		"concentration": 100,
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 27400
+	},
+	{
+		"prd": 30050771,
+		"product_name": "Lutron Q 75",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Chemicals for Electroplating",
+						"id": 228
+					}
+				]
+			}
+		],
+		"chemicalNature": "N,N,N',N'-tetrakis-(2-hydroxypropyl)-ethylenediamine",
+		"concentration": 75,
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 27500
+	},
+	{
+		"prd": 30042710,
+		"product_name": "Lugalvan DC",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Organic Sealers",
+						"id": 229
+					}
+				]
+			}
+		],
+		"chemicalNature": "Aqueous emulsion of an ethylene copolymer",
+		"concentration": 21,
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 27600
+	},
+	{
+		"prd": 30512106,
+		"product_name": "Konratin TC-SH",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Corrosion Inhibitors",
+						"id": 216
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "N-Oleoylsarcosine",
+		"concentration": 100,
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 27700
+	},
+	{
+		"prd": 30043915,
+		"product_name": "Korantin MAT",
+		"product_type": [
+			{
+				"name": "Metal Surface Treatment",
+				"id": 105,
+				"children": [
+					{
+						"name": "Corrosion Inhibitors",
+						"id": 216
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Aliphatic dicarboxylic acid mono-alkylamide in triethanolamine",
+		"concentration": "100",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 27800
+	},
+	{
+		"prd": 30212030,
+		"product_name": "Protectol BN",
+		"product_type": [
+			{
+				"name": "Biocides",
+				"id": 107
+			}
+		],
+		"chemicalNature": "Bronopol",
+		"concentration": ">= 99",
+		"density": "approx. 1.35",
+		"casNumber": "52-51-7",
+		"physicalFormAtDegrees": "Solid",
+		"additionalInformation": "Requirement for the European Regulation EU/528/2012 (Biocidal Products Regulation) Use biocides safely. Always read the label and product information before use.",
+		"sortNumber": 27900
+	},
+	{
+		"prd": 30648528,
+		"product_name": "Protectol BN CO",
+		"product_type": [
+			{
+				"name": "Biocides",
+				"id": 107
+			}
+		],
+		"chemicalNature": "Bronopol",
+		"concentration": ">= 99",
+		"density": "approx. 1.35",
+		"casNumber": "52-51-7",
+		"physicalFormAtDegrees": "Solid",
+		"additionalInformation": "Requirement for the European Regulation EU/528/2012 (Biocidal Products Regulation) Use biocides safely. Always read the label and product information before use.",
+		"sortNumber": 28000
+	},
+	{
+		"prd": 30059034,
+		"product_name": "Protectol GA 24",
+		"product_type": [
+			{
+				"name": "Biocides",
+				"id": 107
+			}
+		],
+		"chemicalNature": "Glutaraldehyde",
+		"concentration": "approx. 24",
+		"density": "approx. 1.46",
+		"casNumber": "111-30-8",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "Requirement for the European Regulation EU/528/2012 (Biocidal Products Regulation) Use biocides safely. Always read the label and product information before use.",
+		"sortNumber": 28100
+	},
+	{
+		"prd": 30668863,
+		"product_name": "Protectol GA 24 AS",
+		"product_type": [
+			{
+				"name": "Biocides",
+				"id": 107
+			}
+		],
+		"chemicalNature": "Glutaraldehyde",
+		"concentration": "approx. 24",
+		"density": "approx. 1.48",
+		"casNumber": "111-30-8",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "Requirement for the European Regulation EU/528/2012 (Biocidal Products Regulation) Use biocides safely. Always read the label and product information before use.",
+		"sortNumber": 28200
+	},
+	{
+		"prd": 30136889,
+		"product_name": "Protectol GA 50",
+		"product_type": [
+			{
+				"name": "Biocides",
+				"id": 107
+			}
+		],
+		"chemicalNature": "Glutaraldehyde",
+		"concentration": "approx. 50",
+		"casNumber": "111-30-8",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "Requirement for the European Regulation EU/528/2012 (Biocidal Products Regulation) Use biocides safely. Always read the label and product information before use.",
+		"sortNumber": 28300
+	},
+	{
+		"prd": 30649412,
+		"product_name": "Protectol GA 50 AS",
+		"product_type": [
+			{
+				"name": "Biocides",
+				"id": 107
+			}
+		],
+		"chemicalNature": "Glutaraldehyde",
+		"concentration": "50 - 51",
+		"casNumber": "111-30-8",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "Requirement for the European Regulation EU/528/2012 (Biocidal Products Regulation) Use biocides safely. Always read the label and product information before use.",
+		"sortNumber": 28400
+	},
+	{
+		"prd": 30649410,
+		"product_name": "Protectol GA 50 non BPR",
+		"product_type": [
+			{
+				"name": "Biocides",
+				"id": 107
+			}
+		],
+		"chemicalNature": "Glutaraldehyde",
+		"concentration": "approx. 50 - 51",
+		"casNumber": "111-30-8",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "Requirement for the European Regulation EU/528/2012 (Biocidal Products Regulation) Use biocides safely. Always read the label and product information before use.",
+		"sortNumber": 28500
+	},
+	{
+		"prd": 30653164,
+		"product_name": "Protectol FM 75",
+		"product_type": [
+			{
+				"name": "Biocides",
+				"id": 107
+			}
+		],
+		"chemicalNature": "Formic acid",
+		"concentration": ">= 75",
+		"casNumber": "64-18-6",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "Requirement for the European Regulation EU/528/2012 (Biocidal Products Regulation) Use biocides safely. Always read the label and product information before use.",
+		"sortNumber": 28600
+	},
+	{
+		"prd": 30335200,
+		"product_name": "Protectol FM 85",
+		"product_type": [
+			{
+				"name": "Biocides",
+				"id": 107
+			}
+		],
+		"chemicalNature": "Formic acid",
+		"concentration": ">= 85",
+		"casNumber": "64-18-6",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "Requirement for the European Regulation EU/528/2012 (Biocidal Products Regulation) Use biocides safely. Always read the label and product information before use.",
+		"sortNumber": 28700
+	},
+	{
+		"prd": 30315297,
+		"product_name": "Protectol FM 99",
+		"product_type": [
+			{
+				"name": "Biocides",
+				"id": 107
+			}
+		],
+		"chemicalNature": "Formic acid",
+		"concentration": ">= 99",
+		"casNumber": "64-18-6",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "Requirement for the European Regulation EU/528/2012 (Biocidal Products Regulation) Use biocides safely. Always read the label and product information before use.",
+		"sortNumber": 28800
+	},
+	{
+		"prd": 30063180,
+		"product_name": "Protectol PE",
+		"product_type": [
+			{
+				"name": "Biocides",
+				"id": 107
+			}
+		],
+		"chemicalNature": "Phenoxyethanol",
+		"concentration": ">= 99.5",
+		"casNumber": "122-99-6",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "Requirement for the European Regulation EU/528/2012 (Biocidal Products Regulation) Use biocides safely. Always read the label and product information before use.",
+		"sortNumber": 28900
+	},
+	{
+		"prd": 30599558,
+		"product_name": "Protectol NP S",
+		"product_type": [
+			{
+				"name": "Biocides",
+				"id": 107
+			}
+		],
+		"chemicalNature": "n-Propanol",
+		"concentration": ">= 99.9",
+		"casNumber": "71-23-8",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "Requirement for the European Regulation EU/528/2012 (Biocidal Products Regulation) Use biocides safely. Always read the label and product information before use.",
+		"sortNumber": 29000
+	},
+	{
+		"prd": 30042525,
+		"product_name": "Protectol HT",
+		"product_type": [
+			{
+				"name": "Biocides",
+				"id": 107
+			}
+		],
+		"chemicalNature": "Hexadydrotriazine",
+		"concentration": "74 - 78",
+		"casNumber": "4719-04-4",
+		"physicalFormAtDegrees": "Liquid",
+		"additionalInformation": "Requirement for the European Regulation EU/528/2012 (Biocidal Products Regulation) Use biocides safely. Always read the label and product information before use.",
+		"sortNumber": 29100
+	},
+	{
+		"prd": 30096873,
+		"product_name": "Lutropur MSA",
+		"product_type": [
+			{
+				"name": "Methanesulfonic Acid",
+				"id": 113
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Methanesulfonic acid in water",
+		"concentration": 70,
+		"density": "approx. 1.35",
+		"meltingPoint": "-",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 29200
+	},
+	{
+		"prd": 30651374,
+		"product_name": "Lutropur MSA-SP",
+		"product_type": [
+			{
+				"name": "Methanesulfonic Acid",
+				"id": 113
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Methanesulfonic acid in water",
+		"concentration": 70,
+		"density": "approx. 1.35",
+		"meltingPoint": "-",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 29300
+	},
+	{
+		"prd": 30660218,
+		"product_name": "Lutropur MSA-XP",
+		"product_type": [
+			{
+				"name": "Methanesulfonic Acid",
+				"id": 113
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Methanesulfonic acid in water",
+		"concentration": 94,
+		"density": "approx. 1.46",
+		"meltingPoint": "-",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 29400
+	},
+	{
+		"prd": 30169062,
+		"product_name": "Lutropur MSA 100",
+		"product_type": [
+			{
+				"name": "Methanesulfonic Acid",
+				"id": 113
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Methanesulfonic acid",
+		"concentration": 100,
+		"density": "approx. 1.48",
+		"meltingPoint": 20,
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 29500
+	},
+	{
+		"prd": 30535634,
+		"product_name": "Agnique AE 3-2EH",
+		"product_type": [
+			{
+				"name": "Esters and Amides",
+				"id": 114,
+				"children": [
+					{
+						"name": "Esters",
+						"id": 230
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "2-Ethylhexyl-lactate",
+		"concentration": ">= 98",
+		"viscosityAtPascal": "< 10",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 29600
+	},
+	{
+		"prd": 30672814,
+		"product_name": "Agnique AE 1218-2 EH",
+		"product_type": [
+			{
+				"name": "Esters and Amides",
+				"id": 114,
+				"children": [
+					{
+						"name": "Esters",
+						"id": 230
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "2-Ethylhexyl cocoate",
+		"concentration": ">= 98",
+		"viscosityAtPascal": "< 10",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 29700
+	},
+	{
+		"prd": 30636993,
+		"product_name": "Agnique AE 829",
+		"product_type": [
+			{
+				"name": "Esters and Amides",
+				"id": 114,
+				"children": [
+					{
+						"name": "Esters",
+						"id": 230
+					}
+				]
+			}
+		],
+		"chemicalNature": "1,2-Cyclohexane dicarboxylic acid di-isononyl ester",
+		"concentration": ">= 99",
+		"viscosityAtPascal": "approx. 50",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 29800
+	},
+	{
+		"prd": 30531811,
+		"product_name": "Agnique ME 18 RD-F",
+		"product_type": [
+			{
+				"name": "Esters and Amides",
+				"id": 114,
+				"children": [
+					{
+						"name": "Esters",
+						"id": 230
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Rapeseed oil fatty methyl ester",
+		"concentration": ">= 99",
+		"viscosityAtPascal": "< 10",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 29900
+	},
+	{
+		"prd": 30530278,
+		"product_name": "Agnique ME 18 SD-F",
+		"product_type": [
+			{
+				"name": "Esters and Amides",
+				"id": 114,
+				"children": [
+					{
+						"name": "Esters",
+						"id": 230
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Soybean oil fatty methyl ester",
+		"concentration": ">= 99",
+		"viscosityAtPascal": "< 10",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 30000
+	},
+	{
+		"prd": 30593379,
+		"product_name": "Agnique ME 1218",
+		"product_type": [
+			{
+				"name": "Esters and Amides",
+				"id": 114,
+				"children": [
+					{
+						"name": "Esters",
+						"id": 230
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C12-18 Fatty acid methyl ester",
+		"concentration": ">= 99",
+		"viscosityAtPascal": "< 10",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 30100
+	},
+	{
+		"prd": 30534475,
+		"product_name": "Emulgator S GS",
+		"product_type": [
+			{
+				"name": "Esters and Amides",
+				"id": 114,
+				"children": [
+					{
+						"name": "Esters",
+						"id": 230
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C16-18 Fatty acid, esters with pentaerythritol",
+		"concentration": ">= 99",
+		"viscosityAtPascal": "-",
+		"physicalFormAtDegrees": "Solid",
+		"sortNumber": 30200
+	},
+	{
+		"prd": 30537843,
+		"product_name": "Agnique AMD 3 L",
+		"product_type": [
+			{
+				"name": "Esters and Amides",
+				"id": 114,
+				"children": [
+					{
+						"name": "Amides",
+						"id": 231
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "Dimethyl lactamide",
+		"concentration": ">= 98",
+		"viscosityAtPascal": "< 10",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 30300
+	},
+	{
+		"prd": 30537410,
+		"product_name": "Agnique AMD 810",
+		"product_type": [
+			{
+				"name": "Esters and Amides",
+				"id": 114,
+				"children": [
+					{
+						"name": "Amides",
+						"id": 231
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C8/10 N,N-dimethyl amide",
+		"concentration": ">= 98",
+		"viscosityAtPascal": "< 10",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 30400
+	},
+	{
+		"prd": 30529971,
+		"product_name": "Agnique AMD 10",
+		"product_type": [
+			{
+				"name": "Esters and Amides",
+				"id": 114,
+				"children": [
+					{
+						"name": "Amides",
+						"id": 231
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C10 N,N-dimethyl amide",
+		"concentration": ">= 98",
+		"viscosityAtPascal": "< 10",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 30500
+	},
+	{
+		"prd": 30536771,
+		"product_name": "Agnique AMD 12",
+		"product_type": [
+			{
+				"name": "Esters and Amides",
+				"id": 114,
+				"children": [
+					{
+						"name": "Amides",
+						"id": 231
+					}
+				]
+			}
+		],
+		"sustainability": {
+			"bioDegradable": true
+		},
+		"chemicalNature": "C12 N,N-dimethyl amide",
+		"concentration": ">= 96",
+		"viscosityAtPascal": "< 10",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 30600
+	},
+	{
+		"prd": 30531871,
+		"product_name": "Trasol K TV 40",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Potassium Silicates",
+						"id": 232
+					}
+				]
+			}
+		],
+		"molarRatio": "3.35",
+		"concentration": 39,
+		"density": "approx. 1.37",
+		"viscosityAtPascal": "approx. 500",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 30700
+	},
+	{
+		"prd": 30599332,
+		"product_name": "Trasol K TU 54",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Potassium Silicates",
+						"id": 232
+					}
+				]
+			}
+		],
+		"molarRatio": "2,4",
+		"concentration": 54,
+		"density": "approx. 1.60",
+		"viscosityAtPascal": "approx. 500",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 30800
+	},
+	{
+		"prd": 30529913,
+		"product_name": "Potassium Silicate 42/43",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Potassium Silicates",
+						"id": 232
+					}
+				]
+			}
+		],
+		"molarRatio": "2.9",
+		"concentration": 41,
+		"density": "approx. 1.42",
+		"viscosityAtPascal": "approx. 50",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 30900
+	},
+	{
+		"prd": 30529920,
+		"product_name": "Trasol KC-K",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Potassium Silicates",
+						"id": 232
+					}
+				]
+			}
+		],
+		"molarRatio": "3.95",
+		"concentration": 20,
+		"density": "approx. 1.17",
+		"viscosityAtPascal": "approx. 5",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 31000
+	},
+	{
+		"prd": 30529926,
+		"product_name": "Trasol KE-K",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Potassium Silicates",
+						"id": 232
+					}
+				]
+			}
+		],
+		"molarRatio": "3.9",
+		"concentration": 28,
+		"density": "approx. 1.25",
+		"viscosityAtPascal": "approx. 20",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 31100
+	},
+	{
+		"prd": 30529907,
+		"product_name": "Trasol KH-K",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Potassium Silicates",
+						"id": 232
+					}
+				]
+			}
+		],
+		"molarRatio": "3.5",
+		"concentration": 35,
+		"density": "approx. 1.33",
+		"viscosityAtPascal": "approx. 50",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 31200
+	},
+	{
+		"prd": 30529917,
+		"product_name": "Trasol KW-N",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Potassium Silicates",
+						"id": 232
+					}
+				]
+			}
+		],
+		"molarRatio": 4,
+		"concentration": 29,
+		"density": "approx. 1.26",
+		"viscosityAtPascal": "approx. 40",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 31300
+	},
+	{
+		"prd": 30530186,
+		"product_name": "Hyporan 10",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Sodium Silicates",
+						"id": 233
+					}
+				]
+			}
+		],
+		"molarRatio": "2.05",
+		"concentration": 42,
+		"density": "approx. 1.50",
+		"viscosityAtPascal": "approx. 200",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 31400
+	},
+	{
+		"prd": 30529898,
+		"product_name": "Nuclesil 70",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Sodium Silicates",
+						"id": 233
+					}
+				]
+			}
+		],
+		"molarRatio": "2.85",
+		"concentration": 45,
+		"density": "approx. 1.51",
+		"viscosityAtPascal": "approx. 1 300",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 31500
+	},
+	{
+		"prd": 30529904,
+		"product_name": "Nuclesil 80",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Sodium Silicates",
+						"id": 233
+					}
+				]
+			}
+		],
+		"molarRatio": "2.3",
+		"concentration": 44,
+		"density": "approx. 1.51",
+		"viscosityAtPascal": "approx. 350",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 31600
+	},
+	{
+		"prd": 30777224,
+		"product_name": "Trasol N PU 44",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Sodium Silicates",
+						"id": 233
+					}
+				]
+			}
+		],
+		"molarRatio": "2.65",
+		"concentration": 40,
+		"density": "approx. 1.44",
+		"viscosityAtPascal": "approx. 100",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 31700
+	},
+	{
+		"prd": 30537433,
+		"product_name": "Perpura 35",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Sodium Silicates",
+						"id": 233
+					}
+				]
+			}
+		],
+		"molarRatio": "3.6",
+		"concentration": 37,
+		"density": "approx. 1.38",
+		"viscosityAtPascal": "approx. 600",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 31800
+	},
+	{
+		"prd": 30536791,
+		"product_name": "Perpura 38",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Sodium Silicates",
+						"id": 233
+					}
+				]
+			}
+		],
+		"molarRatio": "3.45",
+		"concentration": 36,
+		"density": "approx. 1.35",
+		"viscosityAtPascal": "approx. 60",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 31900
+	},
+	{
+		"prd": 30529945,
+		"product_name": "Portil A",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Sodium Silicates",
+						"id": 233
+					}
+				]
+			}
+		],
+		"molarRatio": "2.1",
+		"concentration": 80,
+		"density": "-",
+		"viscosityAtPascal": "-",
+		"physicalFormAtDegrees": "Solid",
+		"sortNumber": 32000
+	},
+	{
+		"prd": 30529885,
+		"product_name": "Sodium Silicate 37/40",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Sodium Silicates",
+						"id": 233
+					}
+				]
+			}
+		],
+		"molarRatio": "3.4",
+		"concentration": 35,
+		"density": "approx. 1.35",
+		"viscosityAtPascal": "approx. 70",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 32100
+	},
+	{
+		"prd": 30529915,
+		"product_name": "Sodium Silicate 37/40 PE",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Sodium Silicates",
+						"id": 233
+					}
+				]
+			}
+		],
+		"molarRatio": "3.45",
+		"concentration": 36,
+		"density": "approx. 1.37",
+		"viscosityAtPascal": "approx. 140",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 32200
+	},
+	{
+		"prd": 30529892,
+		"product_name": "Sodium Silicate 40/42",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Sodium Silicates",
+						"id": 233
+					}
+				]
+			}
+		],
+		"molarRatio": "3.45",
+		"concentration": 38,
+		"density": "approx. 1.40",
+		"viscosityAtPascal": "approx. 500",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 32300
+	},
+	{
+		"prd": 30529901,
+		"product_name": "Sodium Silicate 47/48",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Sodium Silicates",
+						"id": 233
+					}
+				]
+			}
+		],
+		"molarRatio": "2.7",
+		"concentration": 43,
+		"density": "approx. 1.49",
+		"viscosityAtPascal": "approx. 400",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 32400
+	},
+	{
+		"prd": 30529897,
+		"product_name": "Sodium Silicate 48/50",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Sodium Silicates",
+						"id": 233
+					}
+				]
+			}
+		],
+		"molarRatio": "2.85",
+		"concentration": 45,
+		"density": "approx. 1.51",
+		"viscosityAtPascal": "approx. 2 000",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 32500
+	},
+	{
+		"prd": 30531867,
+		"product_name": "Sodium Silicate HK 30 PG",
+		"product_type": [
+			{
+				"name": "Soluble Silicates",
+				"id": 115,
+				"children": [
+					{
+						"name": "Sodium Silicates",
+						"id": 233
+					}
+				]
+			}
+		],
+		"molarRatio": 4,
+		"concentration": 28,
+		"density": "approx. 1.28",
+		"viscosityAtPascal": "approx. 60",
+		"physicalFormAtDegrees": "Liquid",
+		"sortNumber": 32600
+	},
+	{
+		"prd": 30043745,
+		"product_name": "Poligen Wax OA 3 Powder",
+		"product_type": [
+			{
+				"name": "Waxes and Wax Emulsions",
+				"id": 110,
+				"children": [
+					{
+						"name": "Polyethylene Waxes",
+						"id": 234
+					}
+				]
+			}
+		],
+		"chemicalNature": "Oxidized polyethylene waxes, emulsifiable",
+		"acidNumber": "20 - 24",
+		"ballHardness": "60 - 70*",
+		"meltingPointDsc": "126 - 133",
+		"physicalFormAtDegrees": "Powder",
+		"additionalInformation": "* Fischer, 23 C, DIN EN ISO 6507-1",
+		"sortNumber": 32700
+	},
+	{
+		"prd": 30495763,
+		"product_name": "Poligen Wax OA 6 Powder",
+		"product_type": [
+			{
+				"name": "Waxes and Wax Emulsions",
+				"id": 110,
+				"children": [
+					{
+						"name": "Polyethylene Waxes",
+						"id": 234
+					}
+				]
+			}
+		],
+		"chemicalNature": "Oxidized polyethylene waxes, emulsifiable",
+		"acidNumber": "17.5 - 19",
+		"ballHardness": "56 -66*",
+		"meltingPointDsc": "126 - 133",
+		"physicalFormAtDegrees": "Powder",
+		"additionalInformation": "* Fischer, 23 C, DIN EN ISO 6507-1",
+		"sortNumber": 32800
+	},
+	{
+		"prd": 30043729,
+		"product_name": "Poligen Wax V Flakes",
+		"product_type": [
+			{
+				"name": "Waxes and Wax Emulsions",
+				"id": 110,
+				"children": [
+					{
+						"name": "Polyether Wax",
+						"id": 221
+					}
+				]
+			}
+		],
+		"chemicalNature": "Polyvinyl ether wax",
+		"acidNumber": 0,
+		"ballHardness": "28 - 32*",
+		"meltingPointDsc": "47 - 51",
+		"physicalFormAtDegrees": "Flakes",
+		"additionalInformation": "* Fischer, 23 C, DIN EN ISO 6507-1",
+		"sortNumber": 32900
+	},
+	{
+		"prd": 30043787,
+		"product_name": "Poligen WE 1",
+		"product_type": [
+			{
+				"name": "Waxes and Wax Emulsions",
+				"id": 110,
+				"children": [
+					{
+						"name": "Wax Emulsions",
+						"id": 222
+					}
+				]
+			}
+		],
+		"chemicalNature": "Oxidized polyethylene wax",
+		"solidsContent": "34 - 35",
+		"phValue": "9 - 10",
+		"meltingPointWax": "126 - 133",
+		"flowTime": "20 - 36",
+		"emulsifierSystem": "Nonionic/anionic",
+		"sortNumber": 33000
+	},
+	{
+		"prd": 30043786,
+		"product_name": "Poligen WE 3",
+		"product_type": [
+			{
+				"name": "Waxes and Wax Emulsions",
+				"id": 110,
+				"children": [
+					{
+						"name": "Wax Emulsions",
+						"id": 222
+					}
+				]
+			}
+		],
+		"chemicalNature": "Ethylene copolymer wax ",
+		"solidsContent": "24 - 26",
+		"phValue": "8.5 - 9.5",
+		"meltingPointWax": "approx. 80",
+		"flowTime": "< 85**",
+		"emulsifierSystem": "Free of emulsifier",
+		"additionalInformation": "** ISO cup 5mm",
+		"sortNumber": 33100
+	},
+	{
+		"prd": 30057498,
+		"product_name": "Poligen WE 6",
+		"product_type": [
+			{
+				"name": "Waxes and Wax Emulsions",
+				"id": 110,
+				"children": [
+					{
+						"name": "Wax Emulsions",
+						"id": 222
+					}
+				]
+			}
+		],
+		"chemicalNature": "Oxidized polyethylene ",
+		"solidsContent": "33 - 35",
+		"phValue": "7.5 - 9.5",
+		"meltingPointWax": "126 - 133",
+		"flowTime": "20 - 60",
+		"emulsifierSystem": "Nonionic/anionic APEO free",
+		"sortNumber": 33200
+	}
+]
