@@ -67,20 +67,7 @@ class _HomeCareProductPortfolioPageState
                           });
                           (productTypeListData[i]['has_children'] as bool)
                               ? context.push(
-                                '${AppRoutes.productPortfolioHomeCare.path}/product/${productTypeListData[i]['category']}/${productTypeListData[i]['product_type_id']}/${productTypeListData[i]['product_type_id']}',
-                                  extra: {
-                                    'subtype_id': productTypeListData[i]
-                                            ['product_type_id']
-                                        .toString(),
-                                    'subtype_name': productTypeListData[i]
-                                            ['product_type']
-                                        .toString(),
-                                    'products': productTypeListData[i]
-                                        ['products'],
-                                  }
-                                )
-                              : context.push(
-                                  '${AppRoutes.productPortfolioHomeCare.path}/product/${productTypeListData[i]['category']}/${productTypeListData[i]['product_type_id']}/',
+                                '${AppRoutes.productPortfolioHomeCare.path}/product/${productTypeListData[i]['category']}/${productTypeListData[i]['product_type_id']}/',
                                   extra: {
                                     'product_type_id': productTypeListData[i]
                                             ['product_type_id']
@@ -93,6 +80,19 @@ class _HomeCareProductPortfolioPageState
                                                 ['product_type_amount']
                                             .toString(),
                                   },
+                                )
+                              : context.push(
+                                  '${AppRoutes.productPortfolioHomeCare.path}/product/${productTypeListData[i]['category']}/${productTypeListData[i]['product_type_id']}/${productTypeListData[i]['product_type_id']}',
+                                  extra: {
+                                    'subtype_id': productTypeListData[i]
+                                            ['product_type_id']
+                                        .toString(),
+                                    'subtype_name': productTypeListData[i]
+                                            ['product_type']
+                                        .toString(),
+                                    'products': productTypeListData[i]
+                                        ['products'],
+                                  },  
                                 );
                         },
                       );
