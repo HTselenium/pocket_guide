@@ -97,6 +97,10 @@ class _IndustrialProductPortfolioPageState
                                           .toString(),
                                   'products': industrialProductTypeListData[i]
                                       ['products'],
+                                  'product_type_amount':
+                                      industrialProductTypeListData[i]
+                                              ['product_type_amount']
+                                          .toString(),    
                                 },
                               );
                       },
