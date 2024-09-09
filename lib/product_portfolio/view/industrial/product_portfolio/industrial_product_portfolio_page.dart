@@ -1,89 +1,51 @@
-import 'package:flutter/material.dart';
-import 'package:go_router/go_router.dart';
-import 'package:hive_flutter/hive_flutter.dart';
-import 'package:pocket_guide/core/core.dart';
-import 'package:pocket_guide/get_it_service.dart';
-import 'package:pocket_guide/product_details/product_details.dart';
+## industrial_product_portfolio_page.dart
 
-class IndustrialProductPortfolioPage extends StatefulWidget {
-  const IndustrialProductPortfolioPage({super.key});
+- ### initState
 
-  @override
-  State<IndustrialProductPortfolioPage> createState() =>
-      _IndustrialProductPortfolioPageState();
-}
-
-class _IndustrialProductPortfolioPageState
-    extends State<IndustrialProductPortfolioPage> {
-  List<Map<String, dynamic>> industrialProductTypeListData = [];
-
-  @override
-  void initState() {
+```dart
+void initState() {
     super.initState();
     final industryProductTypeBox = Hive.box<dynamic>('industryProductTypeBox');
     industrialProductTypeListData = industryProductTypeBox.values
         .map((e) => e as Map<String, dynamic>)
         .toList();
   }
+```
+- ### page display
+```dart
+id: industrialProductTypeListData[i]['product_type_id'].toString(),
+productName: industrialProductTypeListData[i]['product_type'].toString(),
+productNum: industrialProductTypeListData[i]['product_type_amount'].toString(),
+isSubProduct: false,
+isFavourite: false,
+category: ProductCategory.all[industrialProductTypeListData[i]['category'] as int],
 
-  @override
-  Widget build(BuildContext context) {
-    final l10n = context.l10n;
+```
+- ### data dispatch
+**check whether productType has children**
+```dart
+industrialProductTypeListData[i]['has_children']
+```
+**if True (has children)** 
+goes to industrial_product_portfolio_child_page.dart
+```dart
+ context.push(
+ 
+ '${AppRoutes.productPortfolioIndustrial.path}/product/${industrialProductTypeListData[i]['category']}/${industrialProductTypeListData[i]['product_type_id']}/',
+extra: {
+ 'product_type_id':industrialProductTypeListData[i]['product_type_id'].toString(),
+ 'product_type':industrialProductTypeListData[i]['product_type'].toString(),
+ 'product_type_amount':industrialProductTypeListData[i]['product_type_amount'].toString(),
+},
+```
+**if False (does not have children)** 
+goes to industrial_product_portfolio_sub_child_page.dart
 
-    return Scaffold(
-      body: SafeArea(
-        child: CustomScrollView(
-          slivers: [
-            CustomAppBar(
-              leading: true,
-              title: l10n.productPortfolio,
-              onPressed: () {},
-            ),
-            SliverList(
-              delegate: SliverChildListDelegate(
-                List.generate(
-                  industrialProductTypeListData.length,
-                  (i) {
-                    return CustomListTile(
-                      id: industrialProductTypeListData[i]['product_type_id'].toString(),
-                      productName: industrialProductTypeListData[i]['product_type'].toString(),
-                      productNum: industrialProductTypeListData[i]['product_type_amount'].toString(),
-                      isSubProduct: false,
-                      isFavourite: false,
-                      category: ProductCategory.all[industrialProductTypeListData[i]['category'] as int],
-                      onPressed: () {
-                        pianoFlutterPlugin.trackEvent('page.display', {
-                          'page': 'product_portfolio_type_page',
-                          'product_name': industrialProductTypeListData[i]['product_type'].toString(),
-                          'click_chapter1': 'industrial',
-                          'click_chapter2': 'product_portfolio',
-                        });
-                        (industrialProductTypeListData[i]['has_children'] as bool)
-                            ? context.push(
-                                '${AppRoutes.productPortfolioIndustrial.path}/product/${industrialProductTypeListData[i]['category']}/${industrialProductTypeListData[i]['product_type_id']}/',
-                                extra: {
-                                  'subtype_id': industrialProductTypeListData[i]['product_type_id'].toString(),
-                                  'subtype_name': industrialProductTypeListData[i]['product_type'].toString(),
-                                  'products': industrialProductTypeListData[i]['products'],  
-                                },
-                              )
-                            : context.push(
-                                '${AppRoutes.productPortfolioIndustrial.path}/product/${industrialProductTypeListData[i]['category']}/${industrialProductTypeListData[i]['product_type_id']}/${industrialProductTypeListData[i]['product_type_id']}',
-                                extra: {
-                                  'product_type_id': industrialProductTypeListData[i]['product_type_id'].toString(),
-                                  'product_type': industrialProductTypeListData[i]['product_type'].toString(),
-                                  'product_type_amount': industrialProductTypeListData[i]['product_type_amount'].toString(),
-                                },
-                              );
-                      },
-                    );
-                  },
-                ),
-              ),
-            ),
-          ],
-        ),
-      ),
-    );
-  }
-}
+```dart
+context.push(
+'${AppRoutes.productPortfolioIndustrial.path}/product/${industrialProductTypeListData[i]['category']}/${industrialProductTypeListData[i]['product_type_id']}/${industrialProductTypeListData[i]['product_type_id']}',
+extra: {
+ 'subtype_id': industrialProductTypeListData[i]['product_type_id'].toString(),
+ 'subtype_name':industrialProductTypeListData[i]['product_type'].toString(),
+ 'products': industrialProductTypeListData[i]['products'],
+```
